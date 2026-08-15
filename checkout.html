@@ -44,6 +44,8 @@
 </footer>
 <script>
 const ADDR = '0x332A6965Ca3eB43D70A8b8006b1162c8Fe0E48B2';
+// Fulfillment contact — set once the operator provides a real inbox (HUMAN ACTION HA-007)
+const FULFILLMENT_EMAIL = 'fulfillment@example.com';
 $('#addr') && ($('#addr').textContent = ADDR);
 document.getElementById('copyBtn').addEventListener('click', () => {
   navigator.clipboard.writeText(ADDR).then(() => { document.getElementById('copyBtn').textContent = 'Copied ✓'; setTimeout(() => document.getElementById('copyBtn').textContent = 'Copy address', 1500); });
@@ -61,7 +63,7 @@ document.getElementById('orderForm').addEventListener('submit', (ev) => {
   } catch (e) {}
   const body = encodeURIComponent(`FEDBID RADAR PRO order\nEmail: ${email}\nLane: ${lane}\nTx: ${tx}\n\nVerify on-chain, activate subscription, email first digest.`);
   document.getElementById('orderResult').innerHTML = `<span style="color:#34d399;font-weight:700">Order recorded ✓</span><br>
-    <a href="mailto:?subject=${encodeURIComponent('FedBid Radar Pro order ' + tx)}&body=${body}">Send the order + tx hash to the operator (email above)</a><br>
+    <a href="mailto:${FULFILLMENT_EMAIL}?subject=${encodeURIComponent('FedBid Radar Pro order ' + tx)}&body=${body}">Send the order + tx hash to the fulfillment contact </a><br>
     <small>We verify ${tx.slice(0, 10)}… on-chain and activate your subscription for ${email}.</small>`;
 });
 </script>
