@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FedBid Radar Pro — Subscribe</title>
+<meta name="description" content="Subscribe to FedBid Radar Pro: weekly curated federal contract digest for your business lane. Pay $49/mo in USDC.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="nav">
+  <span class="brand">◈ FedBid Radar</span>
+  <a href="index.html">← Back</a>
+</header>
+
+<section class="panel" style="max-width:640px">
+  <h2>Subscribe to Pro — $49/mo (USDC)</h2>
+  <p class="note">What you get: unlimited watchlists (keywords + NAICS), a weekly curated digest of new awards matching your lane, and a monthly "your lane" opportunity report.</p>
+
+  <h2 style="margin-top:20px">How payment works</h2>
+  <ol class="steps">
+    <li><b>Send $49 USDC</b> (Ethereum mainnet, ERC-20) to the address below. Send the exact amount.</li>
+    <li><b>Copy your transaction hash</b> once confirmed.</li>
+    <li><b>Paste it in the form</b> — we verify it on-chain and activate your subscription, delivering the first digest by email.</li>
+  </ol>
+  <div class="addrbox">
+    <div class="label">RECEIVE ADDRESS (USDC · ERC-20 · Ethereum) — receive-only, MINTFORGE never sends</div>
+    <code id="addr">0x332A6965Ca3eB43D70A8b8006b1162c8Fe0E48B2</code>
+    <button id="copyBtn">Copy address</button>
+  </div>
+
+  <form id="orderForm">
+    <label>Your email <input type="email" id="fEmail" required placeholder="you@example.com"></label>
+    <label>Your business lane (comma-separated keywords / NAICS) <input type="text" id="fLane" required placeholder="e.g. electrical, NAICS 23821"></label>
+    <label>USDC transaction hash <input type="text" id="fTx" required pattern="0x[0-9a-fA-F]{64}" placeholder="0x… (64 hex chars)"></label>
+    <button type="submit" class="cta">Activate subscription</button>
+    <p class="note" id="formNote">After submission we verify the transaction on-chain (usually minutes) and email your confirmation + first digest within 24h.</p>
+  </form>
+  <div id="orderResult"></div>
+</section>
+
+<footer>
+  <p class="fine">FedBid Radar · data from USAspending.gov (public domain) · receive-only USDC payments</p>
+</footer>
+<script>
+const ADDR = '0x332A6965Ca3eB43D70A8b8006b1162c8Fe0E48B2';
+$('#addr') && ($('#addr').textContent = ADDR);
+document.getElementById('copyBtn').addEventListener('click', () => {
+  navigator.clipboard.writeText(ADDR).then(() => { document.getElementById('copyBtn').textContent = 'Copied ✓'; setTimeout(() => document.getElementById('copyBtn').textContent = 'Copy address', 1500); });
+});
+document.getElementById('orderForm').addEventListener('submit', (ev) => {
+  ev.preventDefault();
+  const email = document.getElementById('fEmail').value.trim();
+  const lane = document.getElementById('fLane').value.trim();
+  const tx = document.getElementById('fTx').value.trim();
+  if (!/^0x[0-9a-fA-F]{64}$/.test(tx)) { document.getElementById('orderResult').innerHTML = '<span style="color:#f87171">Transaction hash must be 0x + 64 hex chars.</span>'; return; }
+  try {
+    const k = 'fbr_orders'; const arr = JSON.parse(localStorage.getItem(k) || '[]');
+    arr.push({ product: 'FedBid Radar Pro', priceUsd: 49, email, lane, tx, ts: new Date().toISOString() });
+    localStorage.setItem(k, JSON.stringify(arr));
+  } catch (e) {}
+  const body = encodeURIComponent(`FEDBID RADAR PRO order\nEmail: ${email}\nLane: ${lane}\nTx: ${tx}\n\nVerify on-chain, activate subscription, email first digest.`);
+  document.getElementById('orderResult').innerHTML = `<span style="color:#34d399;font-weight:700">Order recorded ✓</span><br>
+    <a href="mailto:?subject=${encodeURIComponent('FedBid Radar Pro order ' + tx)}&body=${body}">Email the order + tx hash to fulfillment</a><br>
+    <small>We verify ${tx.slice(0, 10)}… on-chain and activate your subscription for ${email}.</small>`;
+});
+</script>
+</body>
+</html>

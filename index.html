@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FedBid Radar — Federal Contract Leads for Small Businesses</title>
+<meta name="description" content="See every new federal contract award in your lane — free. Browse real awards from USAspending.gov by category, keyword or agency. Pro: watchlists + weekly digest for $49/mo.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="nav">
+  <span class="brand">◈ FedBid Radar</span>
+  <nav>
+    <a href="#browse">Browse awards</a>
+    <a href="#how">How it works</a>
+    <a class="cta small" href="#pricing">Go Pro — $49/mo</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Every federal contract in your lane.<br>Before your competitors see it.</h1>
+  <p class="sub">Federal agencies award <b>$600B+</b> in contracts every year. Small businesses win when they find the right opportunity first. FedBid Radar streams real award data from USAspending.gov — free to browse, cheap to track.</p>
+  <div class="hero-cta">
+    <a class="cta" href="#browse">Browse this week's awards — free</a>
+    <span class="note">No signup · No spam · Data updated daily</span>
+  </div>
+</section>
+
+<section class="panel" id="browse">
+  <h2>Live award browser <span class="hint">real data, last 7 days</span></h2>
+  <div class="controls">
+    <input id="q" type="search" placeholder="Search awards, recipients, keywords…">
+    <select id="cat"><option value="">All categories</option></select>
+    <span class="meta" id="count">loading…</span>
+  </div>
+  <div id="results" class="results"></div>
+</section>
+
+<section class="panel" id="how">
+  <h2>How it works</h2>
+  <div class="grid">
+    <div><b>1. We watch the feed.</b><br>A daily automated job pulls every new federal contract award from USAspending.gov (public domain data).</div>
+    <div><b>2. You filter your lane.</b><br>Construction, IT, janitorial, medical, transport — or any keyword. The browser runs instantly on your device.</div>
+    <div><b>3. Pro tracks it for you.</b><br>Save a watchlist; get a weekly curated digest of new awards that match your business.</div>
+  </div>
+</section>
+
+<section class="panel" id="pricing">
+  <h2>Pricing</h2>
+  <div class="tiers">
+    <div class="tier">
+      <h3>Free</h3>
+      <div class="price">$0 <small>forever</small></div>
+      <ul>
+        <li>Browse all new federal awards</li>
+        <li>Keyword + category filters</li>
+        <li>Updated daily</li>
+      </ul>
+    </div>
+    <div class="tier featured">
+      <h3>Pro</h3>
+      <div class="price">$49 <small>/ month — pay in USDC</small></div>
+      <ul>
+        <li>Unlimited watchlists (keywords + NAICS)</li>
+        <li>Weekly curated digest emailed to you</li>
+        <li>Monthly "your lane" opportunity report</li>
+        <li>Priority support</li>
+      </ul>
+      <a class="cta" href="checkout.html">Subscribe with USDC</a>
+    </div>
+  </div>
+  <p class="note">Cancel anytime. If we miss a week, that week is free. Data attribution: USAspending.gov (public domain).</p>
+</section>
+
+<footer>
+  <p>Data source: <a href="https://www.usaspending.gov" target="_blank" rel="noopener">USAspending.gov</a> (public domain). FedBid Radar is an independent service — not affiliated with the US government.</p>
+  <p class="fine">© <span id="yr"></span> FedBid Radar · pay by USDC to a receive-only address · no subscriptions hidden</p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
