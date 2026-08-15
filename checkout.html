@@ -61,7 +61,7 @@ document.getElementById('orderForm').addEventListener('submit', (ev) => {
   } catch (e) {}
   const body = encodeURIComponent(`FEDBID RADAR PRO order\nEmail: ${email}\nLane: ${lane}\nTx: ${tx}\n\nVerify on-chain, activate subscription, email first digest.`);
   document.getElementById('orderResult').innerHTML = `<span style="color:#34d399;font-weight:700">Order recorded ✓</span><br>
-    <a href="mailto:?subject=${encodeURIComponent('FedBid Radar Pro order ' + tx)}&body=${body}">Email the order + tx hash to fulfillment</a><br>
+    <a href="mailto:?subject=${encodeURIComponent('FedBid Radar Pro order ' + tx)}&body=${body}">Send the order + tx hash to the operator (email above)</a><br>
     <small>We verify ${tx.slice(0, 10)}… on-chain and activate your subscription for ${email}.</small>`;
 });
 </script>
