@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>FedBid Radar Pro — Subscribe</title>
-<meta name="description" content="Subscribe to FedBid Radar Pro: weekly curated federal contract digest for your business lane. Pay $49/mo in USDC.">
+<meta name="description" content="Subscribe to FedBid Radar Pro: weekly curated federal contract digest for your business lane. Pay ${TIER.price}/mo in USDC.">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -14,7 +14,7 @@
 </header>
 
 <section class="panel" style="max-width:640px">
-  <h2>Subscribe to Pro — $49/mo (USDC)</h2>
+  <h2>Subscribe to Pro — ${TIER.price}/mo (USDC)</h2>
   <p class="note">What you get: unlimited watchlists (keywords + NAICS), a weekly curated digest of new awards matching your lane, and a monthly "your lane" opportunity report.</p>
 
   <h2 style="margin-top:20px">How payment works</h2>
@@ -33,7 +33,7 @@
     <label>Your email <input type="email" id="fEmail" required placeholder="you@example.com"></label>
     <label>Your business lane (comma-separated keywords / NAICS) <input type="text" id="fLane" required placeholder="e.g. electrical, NAICS 23821"></label>
     <label>USDC transaction hash <input type="text" id="fTx" required pattern="0x[0-9a-fA-F]{64}" placeholder="0x… (64 hex chars)"></label>
-    <button type="submit" class="cta">Activate subscription</button>
+    <button type="submit" class="cta">Activate ${TIER.name} — ${TIER.price}/mo</button>
     <p class="note" id="formNote">After submission we verify the transaction on-chain (usually minutes) and email your confirmation + first digest within 24h.</p>
   </form>
   <div id="orderResult"></div>
@@ -44,6 +44,10 @@
 </footer>
 <script>
 const ADDR = '0x332A6965Ca3eB43D70A8b8006b1162c8Fe0E48B2';
+const TIERS = { monitor: { name: 'Monitor', price: 99 }, qualify: { name: 'Qualify', price: 299 }, bid: { name: 'Bid AI', price: 799 } };
+const qs = new URLSearchParams(location.search);
+const tierId = TIERS[qs.get('tier')] ? qs.get('tier') : 'monitor';
+const TIER = TIERS[tierId];
 // Fulfillment contact — set once the operator provides a real inbox (HUMAN ACTION HA-007)
 const FULFILLMENT_EMAIL = 'fulfillment@example.com';
 $('#addr') && ($('#addr').textContent = ADDR);
@@ -58,12 +62,12 @@ document.getElementById('orderForm').addEventListener('submit', (ev) => {
   if (!/^0x[0-9a-fA-F]{64}$/.test(tx)) { document.getElementById('orderResult').innerHTML = '<span style="color:#f87171">Transaction hash must be 0x + 64 hex chars.</span>'; return; }
   try {
     const k = 'fbr_orders'; const arr = JSON.parse(localStorage.getItem(k) || '[]');
-    arr.push({ product: 'FedBid Radar Pro', priceUsd: 49, email, lane, tx, ts: new Date().toISOString() });
+    arr.push({ product: 'FedBid Radar Pro ' + TIER.name, priceUsd: TIER.price, email, lane, tx, ts: new Date().toISOString() });
     localStorage.setItem(k, JSON.stringify(arr));
   } catch (e) {}
-  const body = encodeURIComponent(`FEDBID RADAR PRO order\nEmail: ${email}\nLane: ${lane}\nTx: ${tx}\n\nVerify on-chain, activate subscription, email first digest.`);
+  const body = encodeURIComponent(`FEDBID RADAR PRO order — Tier: ${TIER.name} (${TIER.price}/mo)\n\nEmail: ${email}\nLane: ${lane}\nTx: ${tx}\n\nVerify on-chain, activate subscription, email first digest.`);
   document.getElementById('orderResult').innerHTML = `<span style="color:#34d399;font-weight:700">Order recorded ✓</span><br>
-    <a href="mailto:${FULFILLMENT_EMAIL}?subject=${encodeURIComponent('FedBid Radar Pro order ' + tx)}&body=${body}">Send the order + tx hash to the fulfillment contact </a><br>
+    <a href="mailto:${FULFILLMENT_EMAIL}?subject=${encodeURIComponent('FedBid Radar Pro order ${TIER.name} ' + tx)}&body=${body}">Send the order + tx hash to the fulfillment contact </a><br>
     <small>We verify ${tx.slice(0, 10)}… on-chain and activate your subscription for ${email}.</small>`;
 });
 </script>
