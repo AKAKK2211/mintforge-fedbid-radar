@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T04:04:50.220Z",
+  "fetched_at": "2026-08-23T04:08:28.273Z",
   "count": 500,
   "awards": [
     {
@@ -421,17 +421,6 @@
       "end_date": "2017-12-30"
     },
     {
-      "id": "CONT_AWD_HSFE4015F0257_7022_GS03FPM006_4732",
-      "award_id": "HSFE4015F0257",
-      "recipient": "RICOH USA INC",
-      "amount": 13403.33,
-      "agency": "Department of Homeland Security",
-      "naics": null,
-      "description": "IGF::OT::IGF COPIER LEASING AND MAINTENANCE SERVICES.",
-      "start_date": "2015-09-01",
-      "end_date": "2020-09-07"
-    },
-    {
       "id": "CONT_AWD_HSFE2015F0044_7022_GS33FBA016_4732",
       "award_id": "HSFE2015F0044",
       "recipient": "UNITED PARCEL SERVICE, INC.",
@@ -452,17 +441,6 @@
       "description": "IGF::OT::IGF PROVIDE COPIER RENTAL SERVICE FOR THE AFO LOCATED IN MURRIETA, CA",
       "start_date": "2017-05-11",
       "end_date": "2017-11-10"
-    },
-    {
-      "id": "CONT_AWD_HSFE0917P0004_7022_-NONE-_-NONE-",
-      "award_id": "HSFE0917P0004",
-      "recipient": "GMH, INC.",
-      "amount": 1892.5,
-      "agency": "Department of Homeland Security",
-      "naics": null,
-      "description": "IGF::OT::IGF ANNUAL HVAC MAINTENANCE",
-      "start_date": "2016-10-27",
-      "end_date": "2017-10-26"
     },
     {
       "id": "CONT_AWD_HSFE0916P3028_7022_-NONE-_-NONE-",
@@ -5492,15 +5470,37 @@
       "end_date": "2027-09-01"
     },
     {
-      "id": "CONT_AWD_80NSSC26P1343_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC26P1343",
-      "recipient": "UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH",
-      "amount": 23716,
+      "id": "CONT_AWD_80NSSC26P1342_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1342",
+      "recipient": "NTS LABS, LLC",
+      "amount": 65378,
       "agency": "National Aeronautics and Space Administration",
       "naics": null,
-      "description": "SAT PR FOR DR. DEIERLING TO PARTICIPATE IN THE LIGHTNING ADVISORY PANEL (LAP) AND FURTHER DEVELOPMENT AND EVALUATION OF THE LIGHTNING LAUNCH COMMIT CRITERIA (LLCC).",
-      "start_date": "2026-08-19",
-      "end_date": "2027-08-19"
+      "description": "DAVINCI VENUS TEST CHAMBER SUPPORT",
+      "start_date": "2026-07-01",
+      "end_date": "2026-09-30"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1341_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1341",
+      "recipient": "BRUKER SCIENTIFIC LLC",
+      "amount": 145351.52,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "INVENIO-X FOURIER TRANSFORM INFRARED SPECTROMETER WITH MULTITECT UNIT",
+      "start_date": "2026-08-18",
+      "end_date": "2026-11-10"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1340_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1340",
+      "recipient": "RIMINI STREET, INC.",
+      "amount": 75870.98,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "RIMINI STREET 3RD PARTY VMWARE SUPPORT RENEWAL",
+      "start_date": "2026-10-01",
+      "end_date": "2027-09-30"
     }
   ]
 }
