@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T09:23:27.980Z",
+  "fetched_at": "2026-08-31T09:58:45.639Z",
   "count": 500,
   "awards": [
     {
@@ -67,17 +67,6 @@
       "description": "IGF::OT::IGF  DESIGN MAJOR UTILITIES AND PARKING FOR FUTURE BUILDINGS FOR VA CENTRAL CALIFORNIA HEALTH CARE SYSTEM.",
       "start_date": "2017-09-29",
       "end_date": "2027-02-03"
-    },
-    {
-      "id": "CONT_AWD_VA25815F0016_3600_VA25812A0008_3600",
-      "award_id": "VA25815F0016",
-      "recipient": "ARJO INC",
-      "amount": 170251.96,
-      "agency": "Department of Veterans Affairs",
-      "naics": null,
-      "description": "IGF::OT::IGF HOSPITAL BEDS AND RELATED EQUIPMENT RENTALS.",
-      "start_date": "2014-10-01",
-      "end_date": "2015-09-30"
     },
     {
       "id": "CONT_AWD_VA25616P1512_3600_-NONE-_-NONE-",
@@ -322,6 +311,17 @@
       "end_date": "2028-09-30"
     },
     {
+      "id": "CONT_AWD_NND13AC02C_8000_-NONE-_-NONE-",
+      "award_id": "NND13AC02C",
+      "recipient": "VERTEX AEROSPACE LLC",
+      "amount": 124693723.36,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "IGF::OT::IGF  THE PURPOSE OF THE AOS CONTRACT IS TO SUPPORT THE OPERATIONS OF ALL AIRCRAFT (PLATFORM, RESEARCH, AND SUPPORT) ASSIGNED TO DRYDEN FLIGHT RESEARCH CENTER (DFRC).  THE CONTRACTOR SHALL MANAGE ITS WORKFORCE TO ENSURE THAT QUALITY PRODUCTS AND SAFE OPERATIONS ARE PROVIDED TO NASA AND NASA ",
+      "start_date": "2013-06-05",
+      "end_date": "2020-01-31"
+    },
+    {
       "id": "CONT_AWD_NNC16JB04T_8000_NNC16CA11C_8000",
       "award_id": "NNC16JB04T",
       "recipient": "ALCYON TECHNICAL SERVICES (ATS) JV, LLC",
@@ -353,6 +353,17 @@
       "description": "USCGC JOHN SCHEUERMAN FY26 DD1 DRYDOCK AVAILABILITY",
       "start_date": "2026-01-06",
       "end_date": "2026-08-30"
+    },
+    {
+      "id": "CONT_AWD_N4033926CF501_9700_-NONE-_-NONE-",
+      "award_id": "N4033926CF501",
+      "recipient": "FINCANTIERI MARINE REPAIR LLC",
+      "amount": 7892592.14,
+      "agency": "Department of Defense",
+      "naics": null,
+      "description": "USCGC GLEN HARRIS AND USCGC CLARENCE SUTPHIN QL3 FY26",
+      "start_date": "2025-12-23",
+      "end_date": "2026-09-25"
     },
     {
       "id": "CONT_AWD_N0016426FL150_9700_N0016423DJQ05_9700",
@@ -5489,17 +5500,6 @@
       "naics": null,
       "description": "NEWSWISE SUBSCRIPTION -ONE YEAR MEMBERSHIP IN NEWSWISE.",
       "start_date": "2025-08-27",
-      "end_date": "2027-09-30"
-    },
-    {
-      "id": "CONT_AWD_89243125FSC400812_8900_03310323D0035_0300",
-      "award_id": "89243125FSC400812",
-      "recipient": "RELX INC.",
-      "amount": 66996,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "LEXISNEXIS SUBSCRIPTION SERVICES FOR 3 OAK RIDGE OFFICE AND 9 CHICAGO OFFICE, OFFICE OF CHIEF COUNSEL EMPLOYEES.",
-      "start_date": "2025-09-26",
       "end_date": "2027-09-30"
     }
   ]
