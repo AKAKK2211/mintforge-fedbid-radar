@@ -1,18 +1,7 @@
 {
-  "fetched_at": "2026-09-04T08:07:28.055Z",
+  "fetched_at": "2026-09-05T07:47:20.481Z",
   "count": 500,
   "awards": [
-    {
-      "id": "CONT_AWD_W912DQ26FA119_9700_W912DQ24A3002_9700",
-      "award_id": "W912DQ26FA119",
-      "recipient": "WASTE CONTROL SPECIALISTS LLC",
-      "amount": 312000,
-      "agency": "Department of Defense",
-      "naics": null,
-      "description": "WELSBACH SOIL DISPOSAL FY26 THRU FY31",
-      "start_date": "2026-08-20",
-      "end_date": "2031-08-19"
-    },
     {
       "id": "CONT_AWD_W912DQ26FA087_9700_W912DQ24D3017_9700",
       "award_id": "W912DQ26FA087",
@@ -36,17 +25,6 @@
       "end_date": "2030-02-19"
     },
     {
-      "id": "CONT_AWD_VA26117C0173_3600_-NONE-_-NONE-",
-      "award_id": "VA26117C0173",
-      "recipient": "NORTHEAST INFRASTRUCTURE LLC",
-      "amount": 760184,
-      "agency": "Department of Veterans Affairs",
-      "naics": null,
-      "description": "IGF::OT::IGF  DESIGN MAJOR UTILITIES AND PARKING FOR FUTURE BUILDINGS FOR VA CENTRAL CALIFORNIA HEALTH CARE SYSTEM.",
-      "start_date": "2017-09-29",
-      "end_date": "2027-02-03"
-    },
-    {
       "id": "CONT_AWD_VA25817F0088_3600_GS25F0011M_4730",
       "award_id": "VA25817F0088",
       "recipient": "STERICYCLE INC",
@@ -56,6 +34,17 @@
       "description": "IGF::OT::IGF DOCUMENT DESTRUCTION SERVICES FOR THE RAYMOND G. MURPHY VETERANS ADMINISTRATION MEDICAL CENTER",
       "start_date": "2017-03-01",
       "end_date": "2022-02-28"
+    },
+    {
+      "id": "CONT_AWD_VA101F16C0025_3600_-NONE-_-NONE-",
+      "award_id": "VA101F16C0025",
+      "recipient": "WALSH PUERTO RICO, LLC",
+      "amount": 127001421.38,
+      "agency": "Department of Veterans Affairs",
+      "naics": null,
+      "description": "IGF::OT::IGF CONSTRUCTION SERVICES",
+      "start_date": "2015-12-30",
+      "end_date": "2026-08-31"
     },
     {
       "id": "CONT_AWD_VA101CFMP0052_3600_-NONE-_-NONE-",
@@ -78,6 +67,28 @@
       "description": "THE GOVERNMENT INTENDS TO ESTABLISH A SINGLE-AWARD DELIVERY ORDER BASE PLUS FOUR 1YEAR OPTION PERIODS FOR THE RENEWAL OF IBM SOFTWARE MAINTENANCE AND THE PURCHASE OF MORE ADDITIONAL IBM SOFTWARE LICENSES AGAINST THE GENERAL SERVICES ADMINISTRATIONS FEDERAL SUPPLY SCHEDULE PROGRAM. PREVIOUS ORDER SS0",
       "start_date": "2016-12-31",
       "end_date": "2027-09-29"
+    },
+    {
+      "id": "CONT_AWD_SAQMMA17F0346_1900_SAQMMA16D0184_1900",
+      "award_id": "SAQMMA17F0346",
+      "recipient": "EXECUTIVE PROTECTION SYSTEMS LLC",
+      "amount": 544653.3,
+      "agency": "Department of State",
+      "naics": null,
+      "description": "NEW TASK ORDER FOR A MANAGEMENT ANALYST TO BE ASSIGNED TO WHA-FRC.IT HAS A BASE YEAR AND FOUR OPTION YEARS. IGF::OT::IGF",
+      "start_date": "2017-01-03",
+      "end_date": "2022-01-02"
+    },
+    {
+      "id": "CONT_AWD_SAQMMA14F1811_1900_GS00Q12NSD0004_4732",
+      "award_id": "SAQMMA14F1811",
+      "recipient": "AT&T TECHNICAL SERVICES COMPANY, INC",
+      "amount": 260039292.75,
+      "agency": "Department of State",
+      "naics": null,
+      "description": "VANGUARD 2.2.5 - JANUS III - PROCUREMENT AND INSTALLATION OF NEW TELEPHONE SYSTEMS IN FOREIGN POSTS INCLUDING ALL EQUIPMENT,SUPPORTING SERVICES (SITE SURVEYS, TRAINING, INSTALLATION, CONFIGUATION, REQUIRED REPORTS, WARRANTY AND NON-WARRANTY, PARTS REPLACEMENT AND REPAIR, SOFTWARE LICENSES AND MAINTE",
+      "start_date": "2014-06-16",
+      "end_date": "2021-03-31"
     },
     {
       "id": "CONT_AWD_SAQMMA13L0526_1900_SALMEC07A0002_1900",
@@ -190,6 +201,17 @@
       "end_date": "2026-09-30"
     },
     {
+      "id": "CONT_AWD_NNG16VE05C_8000_-NONE-_-NONE-",
+      "award_id": "NNG16VE05C",
+      "recipient": "MOTOROLA SOLUTIONS, INC.",
+      "amount": 5818979.15,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "IGF::OT::IGF GODDARD SPACE FLIGHT CENTER (GSFC) LAND MOBILE RADIO (LMR).  THIS CONTRACT IS FOR THE INSTALLATION AND MAINTENANCE OF ITS LAND MOBILE RADIO (LMR) SYSTEMS THAT CURRENTLY OPERATE AT THE GREENBELT, MARYLAND FACILITY AND THE WALLOPS FLIGHT FACILITY (WALLOPS) IN WALLOPS ISLAND, VIRGINIA.",
+      "start_date": "2016-09-01",
+      "end_date": "2021-08-31"
+    },
+    {
       "id": "CONT_AWD_NNG15CR67C_8000_-NONE-_-NONE-",
       "award_id": "NNG15CR67C",
       "recipient": "ARCTIC SLOPE TECHNICAL SERVICES, INC.",
@@ -199,17 +221,6 @@
       "description": "IGF::CT::IGF  SOFTWARE AND ENGINEERING II CONTRACT.  UNDER THIS CONTRACT, THE CONTRACTOR SHALL PROVIDE INFORMATION TECHNOLOGY (IT) TECHNICAL SUPPORT TO THE APPLIED ENGINEERING AND TECHNOLOGY DIRECTORATE (AETD) FACILITIES AND ASSOCIATED DESKTOPS, INCLUDING, BUT NOT LIMITED TO, SUPPORT OF INFORMATION ",
       "start_date": "2016-04-01",
       "end_date": "2022-08-31"
-    },
-    {
-      "id": "CONT_AWD_NNG12VN22T_8000_NNG11VH00B_8000",
-      "award_id": "NNG12VN22T",
-      "recipient": "THE AEROSPACE CORPORATION",
-      "amount": 3582047.22,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "GOES-R IIRT THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (NASA) NASA GODDARD SPACE FLIGHT CENTER IS SERVING AS SYSTEM INTEGRATOR FOR THE NOAA GOES-R SPACECRAFT. GOES-R IS THE PLANNED FOLLOW-UP WEATHER SATELLITE FOR THE GOES N P SERIES NOW IN ORBIT. AEROSPACE CORPORATION HAS BEEN PROVIDING INDEP",
-      "start_date": "2012-02-29",
-      "end_date": "2019-09-30"
     },
     {
       "id": "CONT_AWD_NNG08HZ00C_8000_-NONE-_-NONE-",
@@ -234,17 +245,6 @@
       "end_date": "2039-04-30"
     },
     {
-      "id": "CONT_AWD_NND13AC02C_8000_-NONE-_-NONE-",
-      "award_id": "NND13AC02C",
-      "recipient": "VERTEX AEROSPACE LLC",
-      "amount": 124693723.36,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "IGF::OT::IGF  THE PURPOSE OF THE AOS CONTRACT IS TO SUPPORT THE OPERATIONS OF ALL AIRCRAFT (PLATFORM, RESEARCH, AND SUPPORT) ASSIGNED TO DRYDEN FLIGHT RESEARCH CENTER (DFRC).  THE CONTRACTOR SHALL MANAGE ITS WORKFORCE TO ENSURE THAT QUALITY PRODUCTS AND SAFE OPERATIONS ARE PROVIDED TO NASA AND NASA ",
-      "start_date": "2013-06-05",
-      "end_date": "2020-01-31"
-    },
-    {
       "id": "CONT_AWD_NAS1510110_8000_-NONE-_-NONE-",
       "award_id": "NAS1510110",
       "recipient": "RUSSIA SPACE AGENCY",
@@ -254,17 +254,6 @@
       "description": "JOINT US/RUSSIAN HUMAN SPACE FLIGHT ACTIVITIES",
       "start_date": "1993-12-16",
       "end_date": "2028-12-31"
-    },
-    {
-      "id": "CONT_AWD_NAS1510000_8000_-NONE-_-NONE-",
-      "award_id": "NAS1510000",
-      "recipient": "THE BOEING COMPANY",
-      "amount": 22442309468.27,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "INTERNATIONAL SPACE STATION",
-      "start_date": "1993-11-15",
-      "end_date": "2031-09-30"
     },
     {
       "id": "CONT_AWD_N4033926CF501_9700_-NONE-_-NONE-",
@@ -311,6 +300,17 @@
       "end_date": "2018-02-06"
     },
     {
+      "id": "CONT_AWD_INA16PD00598_1450_GS00P14BSD1052_4740",
+      "award_id": "INA16PD00598",
+      "recipient": "ARIZONA PUBLIC SERVICE COMPANY",
+      "amount": 557454.17,
+      "agency": "Department of the Interior",
+      "naics": null,
+      "description": "IGF::OT::IGF ELECTRIC UTILITY MONTHLY SERVICE FOR THE BIA HOPI AGENCY OFFICE BUILDINGS AND STREET LIGHTS SERVED.",
+      "start_date": "2016-08-15",
+      "end_date": "2021-08-31"
+    },
+    {
       "id": "CONT_AWD_HSFE0716J0202_7022_HSFE6015D0005_7022",
       "award_id": "HSFE0716J0202",
       "recipient": "STARR II, A JOINT VENTURE",
@@ -333,26 +333,15 @@
       "end_date": "2019-08-05"
     },
     {
-      "id": "CONT_AWD_HHSP233201800066A_7570_-NONE-_-NONE-",
-      "award_id": "HHSP233201800066A",
-      "recipient": "FEDERAL RESERVE BANK OF ST. LOUIS",
-      "amount": 10760,
-      "agency": "Department of Health and Human Services",
+      "id": "CONT_AWD_HSBP1016F00081_7014_DEAM3609GO29036_8900",
+      "award_id": "HSBP1016F00081",
+      "recipient": "JOHNSON CONTROLS GOVERNMENT SYSTEMS, LLC",
+      "amount": 8273502.2,
+      "agency": "Department of Homeland Security",
       "naics": null,
-      "description": "IGF::OT::IGF FEDERAL RESERVE BANK OF ST LOUIS - RETAIN SERVICES",
-      "start_date": "2018-03-28",
-      "end_date": "2019-03-31"
-    },
-    {
-      "id": "CONT_AWD_HHSP233201750018A_7570_-NONE-_-NONE-",
-      "award_id": "HHSP233201750018A",
-      "recipient": "LYCEUM BUSINESS SERVICES, LLC",
-      "amount": 24358523.72,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::OT::IGF PERSONNEL AND PAYROLL SERVICES FOR OFFICERS OF THE COMMISSIONED CORPS OF THE U.S. PUBLIC HEALTH SERVICE",
-      "start_date": "2017-01-01",
-      "end_date": "2024-06-30"
+      "description": "IGF::OT::IGF  ENERGY SAVINGS PERFORMANCE CONTRACT (ESPC) FOR FACILITIES AND STRUCTURES IN THE CBP YUMA AND EL CENTRO SECTORS.",
+      "start_date": "2016-09-30",
+      "end_date": "2026-09-30"
     },
     {
       "id": "CONT_AWD_HHSP233201700288G_7570_GS35F328DA_4732",
@@ -399,15 +388,26 @@
       "end_date": "2022-12-31"
     },
     {
-      "id": "CONT_AWD_HHSP233201300458G_7555_GS10F0097L_4730",
-      "award_id": "HHSP233201300458G",
-      "recipient": "RESEARCH TRIANGLE INSTITUTE",
-      "amount": 1927887,
+      "id": "CONT_AWD_HHSN275201700002C_7529_-NONE-_-NONE-",
+      "award_id": "HHSN275201700002C",
+      "recipient": "THE EMMES COMPANY, LLC",
+      "amount": 66032644.47,
       "agency": "Department of Health and Human Services",
       "naics": null,
-      "description": "IGF::OT::IGF PERFORMANCE MEASURES AND TECHNICAL ASSISTANCE FOR THE OFFICE OF ADOLESCENT HEALTH",
-      "start_date": "2013-09-30",
-      "end_date": "2018-12-29"
+      "description": "IGF::OT::IGF DATA COORDINATING CENTER FOR THE BEST PHARMACEUTICALS FOR CHILDREN ACT",
+      "start_date": "2017-07-28",
+      "end_date": "2027-05-28"
+    },
+    {
+      "id": "CONT_AWD_HHSN273201500014C_7529_-NONE-_-NONE-",
+      "award_id": "HHSN273201500014C",
+      "recipient": "EXPERIMENTAL PATHOLOGY LABORATORIES, INC.",
+      "amount": 33147733.28,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "IGF::OT::IGF \"PATHOLOGY PEER REVIEW AND PATHOLOGY SUPPORT FOR THE DNTP AND DIR AT NIEHS\" EXPERIMENTAL PATHOLOGY LABORATORIES (EPL)",
+      "start_date": "2015-07-23",
+      "end_date": "2026-07-27"
     },
     {
       "id": "CONT_AWD_HHSN272201800433P_7529_-NONE-_-NONE-",
@@ -454,6 +454,17 @@
       "end_date": "2023-10-31"
     },
     {
+      "id": "CONT_AWD_HHSN27200055_7529_HHSN316201500011W_7529",
+      "award_id": "HHSN27200055",
+      "recipient": "CDW GOVERNMENT LLC",
+      "amount": 12779861.57,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "MICROSOFT SOFTWARE ENTERPRISE LICENSE AGREEMENT",
+      "start_date": "2017-12-29",
+      "end_date": "2022-12-31"
+    },
+    {
       "id": "CONT_AWD_HHSN27200010_7529_HHSN263201500030I_7529",
       "award_id": "HHSN27200010",
       "recipient": "ADVANCED AUTOMATION TECHNOLOGIES INC",
@@ -485,6 +496,28 @@
       "description": "IGF::OT::IGF   AMBIS #1781240 / TORP #2107 ADMINISTRATIVE ASST., LEVEL 3",
       "start_date": "2016-05-12",
       "end_date": "2021-06-28"
+    },
+    {
+      "id": "CONT_AWD_HHSN27200003_7529_HHSN272201500005I_7529",
+      "award_id": "HHSN27200003",
+      "recipient": "DYNPORT VACCINE COMPANY LLC",
+      "amount": 1757167.91,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "IGF::OT::IGF 1500005I DYNPORT VACCINE COMPANY, LLC; TO 15-0109.B1.0052--05 BASE; BIOD CAN 8470038; $59,564",
+      "start_date": "2016-08-19",
+      "end_date": "2023-08-30"
+    },
+    {
+      "id": "CONT_AWD_HHSN263201600059U_7529_GS00F045DA_4732",
+      "award_id": "HHSN263201600059U",
+      "recipient": "GUIDEHOUSE INC.",
+      "amount": 2797488.64,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "IGF::OT::IGF PRICEWATERHOUSECOOPERS LLP:1106361 [16-001226]",
+      "start_date": "2016-01-14",
+      "end_date": "2021-08-02"
     },
     {
       "id": "CONT_AWD_HHSM500T0005_7530_HHSM500201400033I_7530",
@@ -520,114 +553,26 @@
       "end_date": "2016-09-30"
     },
     {
-      "id": "CONT_AWD_HHSI244201800112P_7527_-NONE-_-NONE-",
-      "award_id": "HHSI244201800112P",
-      "recipient": "FREMONT COUNSELING SERVICE",
-      "amount": 4650,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::OT::IGF, WRSU, DOS 10/01/17-11/31/17, LICENSED CLINICAL STAFF TO PROVIDE EMERGENCY DETENTION EVALUATIONS ACCORDING TO TITLE-25 OF WYOMING STATUTES APPROXIMATELY 5 EVALUATIONS @ $150.00/HR (2 HR/EVALUATIONS) = $ 1,500",
-      "start_date": "2018-01-19",
-      "end_date": "2019-01-31"
-    },
-    {
-      "id": "CONT_AWD_HHSI244201700022A_7527_-NONE-_-NONE-",
-      "award_id": "HHSI244201700022A",
-      "recipient": "CLARK FORK AND BLACKFOOT, L.LC., THE",
-      "amount": 135176.35,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::OT::IGF FY-2018 FBSU ELECTRICAL SERVICES AND NATURAL GAS - FORT BELKNAP HOSPITAL AND QUARTERS; TOTAL:$170,000; DOS: 10/01/2017 - 09/30/2018",
-      "start_date": "2017-09-09",
-      "end_date": "2018-09-30"
-    },
-    {
-      "id": "CONT_AWD_HHSI24407005T_7527_HHSI244201700001I_7527",
-      "award_id": "HHSI24407005T",
-      "recipient": "AB STAFFING SOLUTIONS LLC",
-      "amount": 5276.25,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "BFSU ER/MS/OR/L&D/OUTPATIENT NURSES/SURGICAL SCRUB TECH; YEAR 1 OF 5; TASK ORDER HHSI24407005T; DOS: 01/22/2018-04/02/2018; TOTAL: $42,756.00",
-      "start_date": "2018-01-22",
-      "end_date": "2018-04-02"
-    },
-    {
-      "id": "CONT_AWD_HHSF223201510052G_7524_GS25F0007L_4730",
-      "award_id": "HHSF223201510052G",
-      "recipient": "BEST COPY & PRINTING INC",
-      "amount": 40700.58,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::OT::IGF OFF-SITE SCANNING SERVICES FOR THE OFFICE OF PRESCRIPTION DRUG PROMOTION.",
-      "start_date": "2015-03-02",
-      "end_date": "2015-09-02"
-    },
-    {
-      "id": "CONT_AWD_HHSF223201510036A_7524_-NONE-_-NONE-",
-      "award_id": "HHSF223201510036A",
-      "recipient": "TECHNICAL SAFETY SERVICES, LLC",
+      "id": "CONT_AWD_HHSF222200750117M_7524_-NONE-_-NONE-",
+      "award_id": "HHSF222200750117M",
+      "recipient": "ASPEN GROUP, INC., THE",
       "amount": 0,
       "agency": "Department of Health and Human Services",
       "naics": null,
-      "description": "IGF::CL::IGF TSS  RATIFICATION FOR UNAUTHORIZED PROCUREMENT AIR CLEANING SERVICES",
-      "start_date": "2015-01-23",
-      "end_date": "2015-04-11"
+      "description": "RATIFICATION FOR WORK DONE BY THE ASPEN GROUP",
+      "start_date": "2007-09-18",
+      "end_date": "2007-09-18"
     },
     {
-      "id": "CONT_AWD_HHSF223201210240G_7524_GS03F0085U_4730",
-      "award_id": "HHSF223201210240G",
-      "recipient": "RICOH USA INC",
-      "amount": 13644.56,
+      "id": "CONT_AWD_HHSF222200729009P_7524_-NONE-_-NONE-",
+      "award_id": "HHSF222200729009P",
+      "recipient": "ATT MOBILITY LLC",
+      "amount": 160.36,
       "agency": "Department of Health and Human Services",
       "naics": null,
-      "description": "RICOH MP C3501G COPIER FOR WORCESTER RP UNDER FSSI BPA   GS-03F-PM006",
-      "start_date": "2012-05-17",
-      "end_date": "2017-08-18"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002017927430006_7523_HHSD200201792743I_7523",
-      "award_id": "HHSD2002017927430006",
-      "recipient": "IHRC, INCORPORATED",
-      "amount": 698522.22,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::OT::IGF PROFESSIONAL SERVICES",
-      "start_date": "2018-03-15",
-      "end_date": "2019-04-30"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002017927430005_7523_HHSD200201792743I_7523",
-      "award_id": "HHSD2002017927430005",
-      "recipient": "IHRC, INCORPORATED",
-      "amount": 734280.25,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::OT::IGF PROFESSIONAL SERVICES",
-      "start_date": "2018-03-01",
-      "end_date": "2019-04-30"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002017927430003_7523_HHSD200201792743I_7523",
-      "award_id": "HHSD2002017927430003",
-      "recipient": "IHRC, INCORPORATED",
-      "amount": 381794.48,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::OT::IGF PROFESSIONAL SERVICES",
-      "start_date": "2017-03-28",
-      "end_date": "2018-04-30"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002017927430001_7523_HHSD200201792743I_7523",
-      "award_id": "HHSD2002017927430001",
-      "recipient": "IHRC, INCORPORATED",
-      "amount": 824142.51,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::OT::IGF QUALITY ASSURANCE&QUALITY CONTROL, ASSAY DEVELOPMENT AND DEPLOYMENT",
-      "start_date": "2017-02-23",
-      "end_date": "2018-02-28"
+      "description": "CINGULAR - RFDD CELLULAR PHONE",
+      "start_date": "2006-11-09",
+      "end_date": "2007-09-30"
     },
     {
       "id": "CONT_AWD_HHSD200201792729C_7523_-NONE-_-NONE-",
@@ -674,17 +619,6 @@
       "end_date": "2017-05-31"
     },
     {
-      "id": "CONT_AWD_HHSD2002015F88254_7523_HHSD2002013M53942B_7523",
-      "award_id": "HHSD2002015F88254",
-      "recipient": "BATTELLE MEMORIAL INSTITUTE",
-      "amount": 1390268.52,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::OT::IGF CHEMICAL EMERGENCY PREPAREDNESS AND RESPONSE SUPPORT",
-      "start_date": "2015-09-28",
-      "end_date": "2018-09-27"
-    },
-    {
       "id": "CONT_AWD_HHSD2002015F63695_7523_HHSD2002015F62977B_7523",
       "award_id": "HHSD2002015F63695",
       "recipient": "AMENTUM TECHNICAL SERVICES LLC",
@@ -694,28 +628,6 @@
       "description": "IGF::OT::IGF:: SPESS",
       "start_date": "2015-07-16",
       "end_date": "2016-05-31"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002014F61289_7523_HHSD2002014M60310B_7523",
-      "award_id": "HHSD2002014F61289",
-      "recipient": "BATTELLE MEMORIAL INSTITUTE",
-      "amount": 259997,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::CT::IGF SURVEY OF HEALTHCARE PROVIDERS ADULTS",
-      "start_date": "2014-09-29",
-      "end_date": "2015-09-28"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002014F58614_7523_GS23F0146R_4730",
-      "award_id": "HHSD2002014F58614",
-      "recipient": "AMENTUM TECHNICAL SERVICES LLC",
-      "amount": 3219567.89,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::OT::IGF PROFESSIONAL SERVICE",
-      "start_date": "2014-05-05",
-      "end_date": "2015-07-31"
     },
     {
       "id": "CONT_AWD_HHSD2002012536630001_7523_HHSD200201253663I_7523",
@@ -729,15 +641,15 @@
       "end_date": "2017-09-26"
     },
     {
-      "id": "CONT_AWD_HHSD2002011409470002_7523_HHSD200201140947I_7523",
-      "award_id": "HHSD2002011409470002",
-      "recipient": "THE QED GROUP LLC",
-      "amount": 774189.33,
+      "id": "CONT_AWD_HHSD200201141553C_7523_-NONE-_-NONE-",
+      "award_id": "HHSD200201141553C",
+      "recipient": "P3S CORPORATION",
+      "amount": 146664.95,
       "agency": "Department of Health and Human Services",
       "naics": null,
-      "description": "ITOPSS 2.0 -- INDONESIA -- EPIDEMIOLOGY AND AVIAN INFLUENZA SERVICES",
-      "start_date": "2012-02-23",
-      "end_date": "2016-09-14"
+      "description": "LABORATORY SCIENTIST SERVICES",
+      "start_date": "2011-09-10",
+      "end_date": "2013-09-12"
     },
     {
       "id": "CONT_AWD_HHSD2002011409470001_7523_HHSD200201140947I_7523",
@@ -762,17 +674,6 @@
       "end_date": "2014-12-15"
     },
     {
-      "id": "CONT_AWD_HHSD2002011388070031_7523_HHSD200201138807I_7523",
-      "award_id": "HHSD2002011388070031",
-      "recipient": "NATIONAL ACADEMY OF SCIENCES",
-      "amount": 80000,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::OT::IGF TECHNICAL SUPPORT SERVICES FOR HEALTH AND SCIENTIFIC RESEARCH STUDIES, IDIQ",
-      "start_date": "2014-09-01",
-      "end_date": "2015-08-31"
-    },
-    {
       "id": "CONT_AWD_HHSD2002010361750113_7523_HHSD200201036175I_7523",
       "award_id": "HHSD2002010361750113",
       "recipient": "HUMAN RESOURCES MANAGEMENT GROUP, INC.",
@@ -782,17 +683,6 @@
       "description": "PEPFAR HQ HRM HIV TEST,COU. QA & QI WKSH",
       "start_date": "2013-03-28",
       "end_date": "2013-04-15"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002010357720017_7523_HHSD200201035772I_7523",
-      "award_id": "HHSD2002010357720017",
-      "recipient": "RESEARCH TRIANGLE INSTITUTE",
-      "amount": 168564.98,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::CL::IGF  PMTCT STUDY",
-      "start_date": "2015-08-19",
-      "end_date": "2017-02-25"
     },
     {
       "id": "CONT_AWD_HHSD2002010357710004_7523_HHSD200201035771I_7523",
@@ -806,37 +696,15 @@
       "end_date": "2016-02-13"
     },
     {
-      "id": "CONT_AWD_HHSD2002009322800013_7523_HHSD200200932280I_7523",
-      "award_id": "HHSD2002009322800013",
+      "id": "CONT_AWD_HHSD2002009322800012_7523_HHSD200200932280I_7523",
+      "award_id": "HHSD2002009322800012",
       "recipient": "MANILA CONSULTING GROUP, INC.",
-      "amount": 394853.65,
+      "amount": 209796.55,
       "agency": "Department of Health and Human Services",
       "naics": null,
-      "description": "TAS::75 0943::TAS STRATEGIC PLANNING, AND LEADERSHIP DEVELOPMENT",
-      "start_date": "2010-09-13",
-      "end_date": "2013-03-13"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002009322800011_7523_HHSD200200932280I_7523",
-      "award_id": "HHSD2002009322800011",
-      "recipient": "MANILA CONSULTING GROUP, INC.",
-      "amount": 30004.07,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "TAS::75 0943::TAS ADAPTATION OF THE WHO SELECTED PRACTICE RECOMMENDATIONS FOR CONTRACEPTIVE USE FOR USE IN THE UNITED STATES",
+      "description": "TAS::75 0943::TAS TEEN PREGNANCY PREVENTION COMMUNITY WIDE INITIATIVES (TPP-CWI)",
       "start_date": "2010-09-02",
       "end_date": "2011-09-02"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002009322800007_7523_HHSD200200932280I_7523",
-      "award_id": "HHSD2002009322800007",
-      "recipient": "MANILA CONSULTING GROUP, INC.",
-      "amount": 879250.72,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "TAS::75 0943::TAS OFP OPA COLLABORATION",
-      "start_date": "2010-07-27",
-      "end_date": "2013-12-31"
     },
     {
       "id": "CONT_AWD_HHSD2002004053150004_7523_HHSD200200405315I_7523",
@@ -848,50 +716,6 @@
       "description": "SITUATIONAL ANALYSIS OF CARE AND TREATMENT NEEDS OF PLWHA",
       "start_date": "2007-09-14",
       "end_date": "2009-05-31"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002004051690002_7523_HHSD200200405169I_7523",
-      "award_id": "HHSD2002004051690002",
-      "recipient": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
-      "amount": 234207.39,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "EVALUATION OF RYPOS ACTIVE PARTICLE CONTROL SYSTEM",
-      "start_date": "2006-08-22",
-      "end_date": "2011-06-30"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002004051690001_7523_HHSD200200405169I_7523",
-      "award_id": "HHSD2002004051690001",
-      "recipient": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
-      "amount": 321696.48,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "UMINN/DIESEL IDIQ/0405169",
-      "start_date": "2004-09-02",
-      "end_date": "2008-04-30"
-    },
-    {
-      "id": "CONT_AWD_HHSD200200303229C_7523_-NONE-_-NONE-",
-      "award_id": "HHSD200200303229C",
-      "recipient": "NO DATA FROM D AND B",
-      "amount": 930745.05,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "MYCOBACTERIUM TB DRUG TESTING",
-      "start_date": "2003-04-28",
-      "end_date": "2008-09-29"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002003016930005_7523_HHSD200200301693I_7523",
-      "award_id": "HHSD2002003016930005",
-      "recipient": "ASHLIN MANAGEMENT GROUP INC",
-      "amount": 161732.32,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "GUIDELINES FOR HIV PREVENTION CRIMINAL JUSTICE",
-      "start_date": "2007-09-14",
-      "end_date": "2008-06-30"
     },
     {
       "id": "CONT_AWD_HHSD200200301506C_7523_-NONE-_-NONE-",
@@ -1081,37 +905,15 @@
       "end_date": "2003-09-25"
     },
     {
-      "id": "CONT_AWD_HHSD2002002005750004_7523_HHSD200200200575I_7523",
-      "award_id": "HHSD2002002005750004",
-      "recipient": "RESEARCH TRIANGLE INSTITUTE",
-      "amount": 243840.83,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "CANCER UMBRELLA",
-      "start_date": "2003-08-11",
-      "end_date": "2006-01-31"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002002005750001_7523_HHSD200200200575I_7523",
-      "award_id": "HHSD2002002005750001",
-      "recipient": "RESEARCH TRIANGLE INSTITUTE",
-      "amount": 216309.44,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "BATTELLE 00573 RTI 00575",
-      "start_date": "2002-09-09",
-      "end_date": "2004-05-28"
-    },
-    {
-      "id": "CONT_AWD_HC101326FB967_9700_HC101322D0005_9700",
-      "award_id": "HC101326FB967",
+      "id": "CONT_AWD_HC101326FB991_9700_HC101322D0005_9700",
+      "award_id": "HC101326FB991",
       "recipient": "TRACE SYSTEMS INC.",
-      "amount": 1753.14,
+      "amount": 511.3,
       "agency": "Department of Defense",
       "naics": null,
-      "description": "EMCC002812EBM ENHANCED MOBILE SATELLITE SERVICES (EMSS) EQUIPMENT/ACTIVATION/REPAIR",
-      "start_date": "2026-09-03",
-      "end_date": "2026-09-03"
+      "description": "EMCC002814EBM ENHANCED MOBILE SATELLITE SERVICES (EMSS) EQUIPMENT/ACTIVATION/REPAIR",
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-17"
     },
     {
       "id": "CONT_AWD_HC101324CA004_9700_-NONE-_-NONE-",
@@ -1158,6 +960,17 @@
       "end_date": "2015-09-01"
     },
     {
+      "id": "CONT_AWD_GSQ0017AJ0036_4732_GS00Q09BGD0048_4735",
+      "award_id": "GSQ0017AJ0036",
+      "recipient": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+      "amount": 290837026.9,
+      "agency": "General Services Administration",
+      "naics": null,
+      "description": "IGF::OT::IGF ITS EPA III END USER SUPPORT AWARD",
+      "start_date": "2017-03-29",
+      "end_date": "2022-09-28"
+    },
+    {
       "id": "CONT_AWD_GSQ0017AJ0019_4732_GS00Q09BGD0025_4735",
       "award_id": "GSQ0017AJ0019",
       "recipient": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
@@ -1169,6 +982,28 @@
       "end_date": "2022-05-19"
     },
     {
+      "id": "CONT_AWD_GSQ0017AJ0018_4732_GS00Q14OADU317_4732",
+      "award_id": "GSQ0017AJ0018",
+      "recipient": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+      "amount": 440466185.26,
+      "agency": "General Services Administration",
+      "naics": null,
+      "description": "AWARD MADE TO GENERAL DYNAMIC INFORMATION TECHNOLOGY FOR NAVAIR CSM TASK ORDER, IN THE AMOUNT NOT TO EXCEED $469,751,851.00. IGF::CL::IGF",
+      "start_date": "2017-08-08",
+      "end_date": "2021-12-07"
+    },
+    {
+      "id": "CONT_AWD_GSQ0015AJ0030_4732_GS00Q09BGD0019_4735",
+      "award_id": "GSQ0015AJ0030",
+      "recipient": "BOOZ ALLEN HAMILTON INC",
+      "amount": 42734645.13,
+      "agency": "General Services Administration",
+      "naics": null,
+      "description": "IGF::OT::IGF  INFORMATION TECHNOLOGY (IT) SUPPORT FOR PSNS&IMF IS A DYNAMIC AND COMPLEX REQUIREMENT THAT SUPPORTS THE IT REQUIREMENTS OF FLEET.  THE PRIMARY PURPOSE OF THIS TASK ORDER (TO) IS TO PROVIDE IT OPERATIONS, APPLICATION MANAGEMENT, MAINTENANCE, AND CUSTOMER SUPPORT TO PSNS&IMF INCLUDING RE",
+      "start_date": "2015-08-27",
+      "end_date": "2018-09-01"
+    },
+    {
       "id": "CONT_AWD_GSFC0200004DNAS500136_8000_-NONE-_-NONE-",
       "award_id": "GSFC0200004DNAS500136",
       "recipient": "THE PENNSYLVANIA STATE UNIVERSITY",
@@ -1178,28 +1013,6 @@
       "description": "SWIFT ULTRAVIOLET&OPTICAL TELESCOPES X-RAY TELESCOPE, GROUND STATION SYSTEM",
       "start_date": "2000-04-15",
       "end_date": "2027-08-31"
-    },
-    {
-      "id": "CONT_AWD_EXIM17P0047_8300_-NONE-_-NONE-",
-      "award_id": "EXIM17P0047",
-      "recipient": "CRIF CORPORATION",
-      "amount": 143709.1,
-      "agency": "Export-Import Bank of the United States",
-      "naics": null,
-      "description": "IGF::OT::IGF CONSOLIDATED FOREIGN CREDIT REPORTS",
-      "start_date": "2017-04-28",
-      "end_date": "2021-04-30"
-    },
-    {
-      "id": "CONT_AWD_EXIM17F0042_8300_NNG15SD55B_8000",
-      "award_id": "EXIM17F0042",
-      "recipient": "TRANSOURCE SERVICES CORP.",
-      "amount": 5353,
-      "agency": "Export-Import Bank of the United States",
-      "naics": null,
-      "description": "''IGF::OT::IGF''",
-      "start_date": "2017-06-27",
-      "end_date": "2017-08-31"
     },
     {
       "id": "CONT_AWD_EPG14H00969_6800_GS07F136AA_4732",
@@ -1246,6 +1059,17 @@
       "end_date": "2028-06-29"
     },
     {
+      "id": "CONT_AWD_DTFAWA16C00017_6920_-NONE-_-NONE-",
+      "award_id": "DTFAWA16C00017",
+      "recipient": "LEIDOS, INC.",
+      "amount": 23394502.9,
+      "agency": "Department of Transportation",
+      "naics": null,
+      "description": "MICRO-EARTS ENGINEERING SERVICES IGF::CT::IGF",
+      "start_date": "2016-05-01",
+      "end_date": "2022-09-30"
+    },
+    {
       "id": "CONT_AWD_DTFAWA15C00006_6920_-NONE-_-NONE-",
       "award_id": "DTFAWA15C00006",
       "recipient": "L3HARRIS TECHNOLOGIES, INC.",
@@ -1255,17 +1079,6 @@
       "description": "OPERATIONAL AND SUPPORTABILITY IMPLEMENTATION SYSTEM (OASIS) II  IGF::OT::IGF",
       "start_date": "2014-12-24",
       "end_date": "2026-09-30"
-    },
-    {
-      "id": "CONT_AWD_DTFAWA12D00066CALL0024_6920_DTFAWA12D00066_6920",
-      "award_id": "DTFAWA12D00066CALL0024",
-      "recipient": "ERNST & YOUNG LLP",
-      "amount": 4187022.57,
-      "agency": "Department of Transportation",
-      "naics": null,
-      "description": "\"CONTRACT NUMBER: FIS CONTRACT, DTFAWA-12-D-00066 TASK ORDER NUMBER: 0024 PERIOD OF PERFORMANCE: 5/01/2016 TO 4/30/2017 COR: JACQUELINE WILLIAMS CO: RICHARD A. CUTTS \" IGF::OT::IGF",
-      "start_date": "2016-05-01",
-      "end_date": "2021-07-31"
     },
     {
       "id": "CONT_AWD_DTFAWA10D00003CALL0005_6920_DTFAWA10D00003_6920",
@@ -1378,26 +1191,15 @@
       "end_date": "2025-12-31"
     },
     {
-      "id": "CONT_AWD_DOCAB133E16CN0064_1330_-NONE-_-NONE-",
-      "award_id": "DOCAB133E16CN0064",
-      "recipient": "ARCTIC SLOPE TECHNICAL SERVICES, INC.",
-      "amount": 45859070.93,
-      "agency": "Department of Commerce",
+      "id": "CONT_AWD_DJOCIG12023_1550_NNG07DA21B_8000",
+      "award_id": "DJOCIG12023",
+      "recipient": "AVERTIUM TENNESSEE, INC",
+      "amount": 0,
+      "agency": "Department of Justice",
       "naics": null,
-      "description": "IGF::OT::IGF THE SCOPE OF THE CONTRACT WILL BE TO PROVIDE SPACECRAFT AND GROUND SYSTEM SUSTAINING ENGINEERING SUPPORT FOR ENVIRONMENTAL OPERATIONAL SATELLITES OPERATED BY NESDIS UNDER OSPO, SUSTAINING ENGINEERING SUPPORT FOR U.S. INSTRUMENTS ON THE METOP SATELLITES, OPERATIONAL AND GROUND SYSTEMS EN",
-      "start_date": "2016-06-29",
-      "end_date": "2021-06-28"
-    },
-    {
-      "id": "CONT_AWD_DOC56PAPT1500571_1344_DOC50PAPT1400015_1344",
-      "award_id": "DOC56PAPT1500571",
-      "recipient": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
-      "amount": 317303.21,
-      "agency": "Department of Commerce",
-      "naics": null,
-      "description": "IGF::OT::IGF  CONTRACTOR SUPPORT THE PTONET 4 DESIGN AND DATACENTER NETWORK MODERNIZATION PROJECT.  POP: 07/01/2015 THRU 03/31/2016. TASK ORDER CEILING: $804,713.00",
-      "start_date": "2015-06-12",
-      "end_date": "2016-06-30"
+      "description": "FORTINET PROFESSIONAL SVCS.",
+      "start_date": "2012-06-20",
+      "end_date": "2013-12-19"
     },
     {
       "id": "CONT_AWD_DENA0003624_8900_-NONE-_-NONE-",
@@ -1411,28 +1213,6 @@
       "end_date": "2027-11-30"
     },
     {
-      "id": "CONT_AWD_DENA0003525_8900_-NONE-_-NONE-",
-      "award_id": "DENA0003525",
-      "recipient": "NATIONAL TECHNOLOGY & ENGINEERING SOLUTIONS OF SANDIA, LLC",
-      "amount": 43198566451.99,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003525 TO THE NATIONAL TECHNOLOGY&ENGINEERING SOLUTIONS OF SANDIA, LLC (NTESS) FOR THE MANAGEMENT AND OPERATION OF THE DEPARTMENT OF ENERGY, NATIONAL NUCLEAR SECURITY ADMINISTRATION'S SANDIA NATIONAL LABORATORIES (SNL)",
-      "start_date": "2017-01-18",
-      "end_date": "2027-04-30"
-    },
-    {
-      "id": "CONT_AWD_DENA0002839_8900_-NONE-_-NONE-",
-      "award_id": "DENA0002839",
-      "recipient": "HONEYWELL FEDERAL MANUFACTURING & TECHNOLOGIES, LLC",
-      "amount": 17654763333.19,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "IGF::CL,CT::IGF MANAGEMENT AND OPERATION OF THE NATIONAL SECURITY CAMPUS -- CONTRACT NO. DE-NA0002839",
-      "start_date": "2015-07-09",
-      "end_date": "2030-09-30"
-    },
-    {
       "id": "CONT_AWD_DENA0001942_8900_-NONE-_-NONE-",
       "award_id": "DENA0001942",
       "recipient": "CONSOLIDATED NUCLEAR SECURITY, LLC",
@@ -1442,17 +1222,6 @@
       "description": "IGF::CL,CT::IGF MANAGEMENT AND OPERATING CONTRACT FOR Y-12 NATIONAL SECURITY COMPLEX, PANTEX PLANT, WITH AN OPTION FOR SAVANNAH RIVER TRITIUM OPERATIONS",
       "start_date": "2013-01-08",
       "end_date": "2027-09-30"
-    },
-    {
-      "id": "CONT_AWD_DELM0000421_8900_-NONE-_-NONE-",
-      "award_id": "DELM0000421",
-      "recipient": "NAVARRO RESEARCH AND ENGINEERING, INC.",
-      "amount": 427634923.78,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "IGF::OT::IGF LONG TERM SURVEILLANCE AND MAINTENANCE (LTS&M), INFORMATION TECHNOLOGY AND RECORDS MANAGEMENT, ASSET MANAGEMENT, BUSINESS, AND PROGRAM-WIDE SUPPORT SERVICES FOR THE OFFICE OF LEGACY MANAGEMENT.",
-      "start_date": "2015-01-29",
-      "end_date": "2021-08-31"
     },
     {
       "id": "CONT_AWD_DEDT0014004_8900_HHSN316201200177W_7529",
@@ -1466,37 +1235,15 @@
       "end_date": "2022-10-31"
     },
     {
-      "id": "CONT_AWD_DEDT0010653_8900_DEEI0000567_8900",
-      "award_id": "DEDT0010653",
-      "recipient": "Z, INC.",
-      "amount": 429004.33,
+      "id": "CONT_AWD_DEDT0011049_8900_DEEM0000842_8900",
+      "award_id": "DEDT0011049",
+      "recipient": "NORTH WIND PORTAGE, INC.",
+      "amount": 210230204.54,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "IGF::OT::IGF MODELING AND ENERGY ANALYSIS SUPPORT",
-      "start_date": "2016-01-15",
-      "end_date": "2017-01-14"
-    },
-    {
-      "id": "CONT_AWD_DEAC5207NA27344_8900_-NONE-_-NONE-",
-      "award_id": "DEAC5207NA27344",
-      "recipient": "LAWRENCE LIVERMORE NATIONAL SECURITY, LLC",
-      "amount": 41519790021.9,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "TAS::89 0240::TAS THIS PERFORMANCE-BASED MANAGEMENT CONTRACT (PBMC) IS FOR THE MANAGEMENT AND OPERATION OF THE LAWRENCE LIVERMORE NATIONAL LABORATORY (LLNL). THE CONTRACTOR SHALL, IN ACCORDANCE WITH THE PROVISIONS OF THIS CONTRACT, ACCOMPLISH THE MISSIONS AND PROGRAMS ASSIGNED BY THE U.S. DEPARTMENT",
-      "start_date": "2007-05-09",
-      "end_date": "2031-09-30"
-    },
-    {
-      "id": "CONT_AWD_DEAC3608GO28308_8900_-NONE-_-NONE-",
-      "award_id": "DEAC3608GO28308",
-      "recipient": "ALLIANCE FOR ENERGY INNOVATION, LLC",
-      "amount": 11030452829.7,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "AWARD OF CONTRACT TO MANAGE AND OPERATE THE NATIONAL RENEWABLE ENERGY LABORATORY",
-      "start_date": "2008-07-29",
-      "end_date": "2028-09-30"
+      "description": "IGF::OT::IGF  THIS A FIXED PRICE AND FIXED UNIT RATE TASK ORDER WITH A COST REIMBURSABLE CLIN FOR EQUIPMENT AND VEHICLES FOR ENVIRONMENTAL REMEDIATION AT THE DEPARTMENT OF ENERGY'S MOAB SITE IN MOAB, UTAH. THIS TASK ORDER IS BEING ISSUED UNDER THE ENVIRONMENTAL MANAGEMENT NATIONWIDE IDIQ SET ASIDE C",
+      "start_date": "2016-10-01",
+      "end_date": "2022-03-31"
     },
     {
       "id": "CONT_AWD_DEAC0908SR22470_8900_-NONE-_-NONE-",
@@ -1565,6 +1312,17 @@
       "end_date": "2030-05-31"
     },
     {
+      "id": "CONT_AWD_CNSHQ17L0002_9577_-NONE-_-NONE-",
+      "award_id": "CNSHQ17L0002",
+      "recipient": "MCCLELLAN BUSINESS PARK LLC",
+      "amount": 15128869.13,
+      "agency": "Corporation for National and Community Service",
+      "naics": null,
+      "description": "IGF::OT::IGF  SUCCEEDING LEASE - FIVE (5) YEAR FIRM AND FIVE (5) YEAR NON-FIRM TERM.  AUGUST 9, 2017 - AUGUST 8, 2022 (FIRM) AND AUGUST 9, 2022 - AUGUST 8, 2027 (NON-FIRM).  AMERICORPS NCCC PACIFIC REGION FACILITY LEASE - SACRAMENTO, CA.",
+      "start_date": "2017-08-09",
+      "end_date": "2026-08-08"
+    },
+    {
       "id": "CONT_AWD_CFP15K00029_955F_GS35F0196M_4730",
       "award_id": "CFP15K00029",
       "recipient": "SOFTCHOICE CORP",
@@ -1574,6 +1332,17 @@
       "description": "IGF::OT::IGF ADOBE ENTERPRISE LICENSES",
       "start_date": "2015-05-31",
       "end_date": "2018-08-30"
+    },
+    {
+      "id": "CONT_AWD_AG32SCC160024_12H2_-NONE-_-NONE-",
+      "award_id": "AG32SCC160024",
+      "recipient": "CPF LLC",
+      "amount": 18066566.65,
+      "agency": "Department of Agriculture",
+      "naics": null,
+      "description": "IGF::OT::IGF BELTSVILLE AREA RESEARCH CENTER (BARC) STEAM SYSTEM REPAIR",
+      "start_date": "2016-05-31",
+      "end_date": "2027-11-03"
     },
     {
       "id": "CONT_AWD_AG3144D170052_1205_HHSN316201200002W_7529",
@@ -1609,17 +1378,6 @@
       "end_date": "2026-09-30"
     },
     {
-      "id": "CONT_AWD_95C67826P0329_9534_-NONE-_-NONE-",
-      "award_id": "95C67826P0329",
-      "recipient": "SYDAR OF DC LLC",
-      "amount": 4975,
-      "agency": "District of Columbia Courts",
-      "naics": null,
-      "description": "DCSC-26-IFB-41 COURT-WIDE PRINTING & DELIVERY SERVICES BASE YEAR FOR THE PERIOD OF 8/1/2026- 7/31/2027. PRINTING CALL #1 IN THE AMOUNT OF $225.00 AND CALL #2 IN THE AMOUNT OF $4,750.00 FOR A TOTAL OF $4,975.00.",
-      "start_date": "2026-08-01",
-      "end_date": "2027-07-31"
-    },
-    {
       "id": "CONT_AWD_95C67826P0327_9534_-NONE-_-NONE-",
       "award_id": "95C67826P0327",
       "recipient": "HARBOR ROOFING AND CONTRACTING, INC.",
@@ -1653,72 +1411,6 @@
       "end_date": "2027-07-15"
     },
     {
-      "id": "CONT_AWD_95C67826P0251_9534_-NONE-_-NONE-",
-      "award_id": "95C67826P0251",
-      "recipient": "WASHINGTON OVERHEAD DOOR, INC.",
-      "amount": 33640,
-      "agency": "District of Columbia Courts",
-      "naics": null,
-      "description": "FY26 DCSC-24-RFQ-231 WASHINGTON OVER HEAD PARTIALLY FUNDED- OPTION YEAR 2 PERIOD OF PERFORMANCE JULY 7, 2026 THROUGH JUNE 6, 2027-THE NTE AMOUNT WILL BE $33,640.00",
-      "start_date": "2026-06-09",
-      "end_date": "2027-06-06"
-    },
-    {
-      "id": "CONT_AWD_95C67826P0236_9534_-NONE-_-NONE-",
-      "award_id": "95C67826P0236",
-      "recipient": "UNITED GENERAL CONTRACTORS, INC",
-      "amount": 15000,
-      "agency": "District of Columbia Courts",
-      "naics": null,
-      "description": "FY26 DCSC-26-RFQ-71 UGC GLASS REPAIR SERVICE BASE YEAR PERIOD OF PERFORMANCE MAY18, 2026 THROUGH MAY 17, 2027. PARTIALLY FUNDED BY $5K IN ACCORDANCE WITH CONTRACTOR QUOTE SUBMITTED 5/7/26. THE NTE AMOUNT WILL BE $15K",
-      "start_date": "2026-05-18",
-      "end_date": "2027-05-17"
-    },
-    {
-      "id": "CONT_AWD_95C67826P0233_9534_-NONE-_-NONE-",
-      "award_id": "95C67826P0233",
-      "recipient": "BORDER STATES INDUSTRIES INC",
-      "amount": 100000,
-      "agency": "District of Columbia Courts",
-      "naics": null,
-      "description": "FY26 DCSC-24-RFQ-220 BORDER STATES INDUSTRIES BPA PERIOD OF PERFORMANCE APRIL 29, 2026 THROUGH APRIL 28, 2027 THE NTE AMOUNT WILL BE $150K. ON A AS NEEDED BASIS",
-      "start_date": "2026-05-15",
-      "end_date": "2027-04-28"
-    },
-    {
-      "id": "CONT_AWD_95C67826P0227_9534_-NONE-_-NONE-",
-      "award_id": "95C67826P0227",
-      "recipient": "FASTENAL COMPANY",
-      "amount": 150000,
-      "agency": "District of Columbia Courts",
-      "naics": null,
-      "description": "FY26 DCSC-26-RFQ-70 FASTENAL COMPANY PARTIALLY FUNDED BPA FOR HARDWARE SUPPLIES- BASE YR. PERIOD OF PERFORMANCE APRIL 28, 2026 THROUGH APRIL 27, 2027 THE NTE AMOUNT WILL $150K",
-      "start_date": "2026-05-05",
-      "end_date": "2027-04-27"
-    },
-    {
-      "id": "CONT_AWD_95C67826P0214_9534_-NONE-_-NONE-",
-      "award_id": "95C67826P0214",
-      "recipient": "FACILITY MANAGEMENT SUPPLIES INC.",
-      "amount": 150000,
-      "agency": "District of Columbia Courts",
-      "naics": null,
-      "description": "FY26 DCSC-26-RFQ-69 FMS FACILITY MANAGEMENT SERVICE BPA FOR SPECIALTY  PLUMBING SUPPLIES- BASE YR. PERIOD OF PERFORMANCE APRIL 28, 2026 THROUGH APRIL 27, 2027",
-      "start_date": "2026-04-29",
-      "end_date": "2027-04-27"
-    },
-    {
-      "id": "CONT_AWD_95C67826P0208_9534_-NONE-_-NONE-",
-      "award_id": "95C67826P0208",
-      "recipient": "COSMOS AIR PURIFICATION & ENVIRONMENTAL SYSTEMS, INC.",
-      "amount": 150000,
-      "agency": "District of Columbia Courts",
-      "naics": null,
-      "description": "FY26 DCSC-24-RFQ-221 COSMO AIR PURIFICATION BPA- OPTION YEAR TWO- PERIOD OF PERFORMANCE  APRIL 29, 2026 THROUGH APRIL 28, 2027 NTE $150K ON AS NEEDED BASIS",
-      "start_date": "2026-04-29",
-      "end_date": "2027-04-28"
-    },
-    {
       "id": "CONT_AWD_95C67826P0064_9534_-NONE-_-NONE-",
       "award_id": "95C67826P0064",
       "recipient": "SAME DAY PROCESS SERVICE INC.",
@@ -1730,6 +1422,39 @@
       "end_date": "2026-09-26"
     },
     {
+      "id": "CONT_AWD_95C67824P0361_9534_-NONE-_-NONE-",
+      "award_id": "95C67824P0361",
+      "recipient": "BFI WASTE SERVICES, LLC",
+      "amount": 121061.08,
+      "agency": "District of Columbia Courts",
+      "naics": null,
+      "description": "DCSC-24-IFB-252 DC COURTS TRASH AND RECYCLABLE MATERIALS COLLECTION FOR THE PERIOD OF 9/1/2024- 8/31/2025 IN THE AMOUNT OF $139,318.00 (BASE YEAR). THIS PO IS PARTIALLY FUNDED IN THE AMOUNT OF $25,000.00.",
+      "start_date": "2024-09-01",
+      "end_date": "2025-08-31"
+    },
+    {
+      "id": "CONT_AWD_959P0025C0048_959P_-NONE-_-NONE-",
+      "award_id": "959P0025C0048",
+      "recipient": "NATIONAL CAPITAL TREATMENT AND RECOVERY",
+      "amount": 1208563.03,
+      "agency": "Court Services and Offender Supervision Agency",
+      "naics": null,
+      "description": "CLINS 0001,0003,0004 & 0005",
+      "start_date": "2025-09-30",
+      "end_date": "2027-09-29"
+    },
+    {
+      "id": "CONT_AWD_959P0025C0047_959P_-NONE-_-NONE-",
+      "award_id": "959P0025C0047",
+      "recipient": "SAMARITAN INNS INC",
+      "amount": 1432173.72,
+      "agency": "Court Services and Offender Supervision Agency",
+      "naics": null,
+      "description": "CLINS 0001,0003,0004 & 0005",
+      "start_date": "2025-09-30",
+      "end_date": "2027-09-29"
+    },
+    {
       "id": "CONT_AWD_959P0023F0029_959P_47QTCA20D00B5_4732",
       "award_id": "959P0023F0029",
       "recipient": "CELLCO PARTNERSHIP",
@@ -1739,6 +1464,17 @@
       "description": "WIRELESS TELECOMMUNICATION SERVICES",
       "start_date": "2023-09-01",
       "end_date": "2027-08-31"
+    },
+    {
+      "id": "CONT_AWD_9594CS26P0019_9594_-NONE-_-NONE-",
+      "award_id": "9594CS26P0019",
+      "recipient": "HOWARD PLUMBING LLC",
+      "amount": 11300,
+      "agency": "Court Services and Offender Supervision Agency",
+      "naics": null,
+      "description": "HYDRO-JETTING AND VIDEO INSPECTION OF SANITARY DRAIN LINES",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18"
     },
     {
       "id": "CONT_AWD_9594CS26F0063_9594_9594CS23D0005_9594",
@@ -1785,6 +1521,17 @@
       "end_date": "2025-11-07"
     },
     {
+      "id": "CONT_AWD_95900625C0002_9545_-NONE-_-NONE-",
+      "award_id": "95900625C0002",
+      "recipient": "ASRC FEDERAL AGILE MANAGEMENT LLC",
+      "amount": 673308.4,
+      "agency": "Morris K. Udall and Stewart L. Udall Foundation",
+      "naics": null,
+      "description": "OT:  IT SUPPORT SERVICES",
+      "start_date": "2025-08-04",
+      "end_date": "2027-08-03"
+    },
+    {
       "id": "CONT_AWD_95332A26F00004_9577_GS35F281DA_4732",
       "award_id": "95332A26F00004",
       "recipient": "CGI FEDERAL INC.",
@@ -1818,15 +1565,15 @@
       "end_date": "2027-02-28"
     },
     {
-      "id": "CONT_AWD_95332423S0017_9543_-NONE-_-NONE-",
-      "award_id": "95332423S0017",
-      "recipient": "WOODIE TIRFIE",
-      "amount": 302558.84,
+      "id": "CONT_AWD_95332424C0060_9543_-NONE-_-NONE-",
+      "award_id": "95332424C0060",
+      "recipient": "CROSSBOUNDARY LLC",
+      "amount": 1098657,
       "agency": "Millennium Challenge Corporation",
       "naics": null,
-      "description": "RESULTS REPORTING ANALYST, DEPARTMENT OF POLICY AND EVALUATION (DPE), FULL-TIME PSC",
-      "start_date": "2023-09-10",
-      "end_date": "2027-09-09"
+      "description": "IEPS-FIT BLENDED FINANCE CONSULTANCY.",
+      "start_date": "2024-08-09",
+      "end_date": "2027-08-08"
     },
     {
       "id": "CONT_AWD_95332418C0315_9543_-NONE-_-NONE-",
@@ -1851,26 +1598,26 @@
       "end_date": "2026-09-30"
     },
     {
-      "id": "CONT_AWD_9531CB26F0047_955F_GS35F410GA_4732",
-      "award_id": "9531CB26F0047",
-      "recipient": "DATASOURCE, INC.",
-      "amount": 201600,
+      "id": "CONT_AWD_9531CB25F0159_955F_GS35F0494X_4732",
+      "award_id": "9531CB25F0159",
+      "recipient": "MANHATTAN TELECOMMUNICATIONS CORPORATION LLC",
+      "amount": 777107.83,
       "agency": "Consumer Financial Protection Bureau",
       "naics": null,
-      "description": "AUTOMATED BACKGROUND INVESTIGATION SYSTEM (ABIS) MAINTENANCE AND SUPPORT",
-      "start_date": "2026-08-28",
-      "end_date": "2027-08-28"
+      "description": "WIRELESS CONTRACT BRIDGE",
+      "start_date": "2025-09-30",
+      "end_date": "2026-06-29"
     },
     {
-      "id": "CONT_AWD_9531CB25F0151_955F_NNG15SC78B_8000",
-      "award_id": "9531CB25F0151",
-      "recipient": "GOVERNMENT ACQUISITIONS LLC",
-      "amount": 1054345,
+      "id": "CONT_AWD_9531CB25F0034_955F_NNG15SD60B_8000",
+      "award_id": "9531CB25F0034",
+      "recipient": "ADVANCED COMPUTER CONCEPTS, INC.",
+      "amount": 14456.12,
       "agency": "Consumer Financial Protection Bureau",
       "naics": null,
-      "description": "RUBRIK HYBRID CLOUD SOLUTION",
-      "start_date": "2025-09-19",
-      "end_date": "2027-09-18"
+      "description": "MURAL SOFTWARE",
+      "start_date": "2025-05-31",
+      "end_date": "2026-05-30"
     },
     {
       "id": "CONT_AWD_9531CB25C0011_955F_-NONE-_-NONE-",
@@ -1893,6 +1640,17 @@
       "description": "LEXINGTON LAW MATTER IDIQ TASK ORDER",
       "start_date": "2024-07-16",
       "end_date": "2029-07-16"
+    },
+    {
+      "id": "CONT_AWD_9531CB24F0054_955F_9531CB24A0003_955F",
+      "award_id": "9531CB24F0054",
+      "recipient": "COMMUNICATIONS RESOURCE INC",
+      "amount": 73892.65,
+      "agency": "Consumer Financial Protection Bureau",
+      "naics": null,
+      "description": "PACS MAINTENANCE BPA CALL 0001",
+      "start_date": "2024-04-15",
+      "end_date": "2029-01-31"
     },
     {
       "id": "CONT_AWD_9531CB23F0063_955F_9531CB22D0006_955F",
@@ -1928,6 +1686,28 @@
       "end_date": "2027-08-31"
     },
     {
+      "id": "CONT_AWD_9531BP26F0023_9506_NNG15SC06B_8000",
+      "award_id": "9531BP26F0023",
+      "recipient": "DELL FEDERAL SYSTEMS L.P",
+      "amount": 77621.4,
+      "agency": "Federal Election Commission",
+      "naics": null,
+      "description": "DELL MONITORS",
+      "start_date": "2026-09-01",
+      "end_date": "2027-08-31"
+    },
+    {
+      "id": "CONT_AWD_9531BP23F0037_9506_47QSMA22D08P6_4732",
+      "award_id": "9531BP23F0037",
+      "recipient": "A/COE ELECTRIC CORP.",
+      "amount": 275095.66,
+      "agency": "Federal Election Commission",
+      "naics": null,
+      "description": "CELL SIGNAL BOOSTERS",
+      "start_date": "2023-09-07",
+      "end_date": "2027-09-24"
+    },
+    {
       "id": "CONT_AWD_9531BM26P0034_9508_-NONE-_-NONE-",
       "award_id": "9531BM26P0034",
       "recipient": "STONELEX C LLC",
@@ -1961,37 +1741,26 @@
       "end_date": "2027-09-29"
     },
     {
-      "id": "CONT_AWD_95314226F0011_9516_GS00F117CA_4732",
-      "award_id": "95314226F0011",
-      "recipient": "GMG MANAGEMENT CONSULTING INC.",
-      "amount": 89684.4,
+      "id": "CONT_AWD_95314225F0007_9516_GS10F0370X_4732",
+      "award_id": "95314225F0007",
+      "recipient": "LDSS, INC.",
+      "amount": 2830010.62,
       "agency": "Defense Nuclear Facilities Safety Board",
       "naics": null,
-      "description": "EXEC ASST FOR EDO",
-      "start_date": "2026-09-21",
-      "end_date": "2027-06-20"
+      "description": "WORKFORCE AUGMENTATION",
+      "start_date": "2025-06-05",
+      "end_date": "2026-12-04"
     },
     {
-      "id": "CONT_AWD_95314226F0010_9516_47QREA21D000B_4732",
-      "award_id": "95314226F0010",
-      "recipient": "C EVANS CONSULTING LLC",
-      "amount": 200000,
-      "agency": "Defense Nuclear Facilities Safety Board",
+      "id": "CONT_AWD_9523ZY26F0053_9507_NNG15SD09B_8000",
+      "award_id": "9523ZY26F0053",
+      "recipient": "BAHFED CORP",
+      "amount": 25195.97,
+      "agency": "Commodity Futures Trading Commission",
       "naics": null,
-      "description": "NUCLEAR SME SERVICES - DR. PERRY",
-      "start_date": "2026-08-28",
-      "end_date": "2027-08-27"
-    },
-    {
-      "id": "CONT_AWD_95314225F0004_9516_24361820D0002_2400",
-      "award_id": "95314225F0004",
-      "recipient": "HEALTHEQUITY, INC.",
-      "amount": 944.9,
-      "agency": "Defense Nuclear Facilities Safety Board",
-      "naics": null,
-      "description": "FEDERAL FLEXIBLE SPENDING ACCOUNT (FASFEDS) ADMINISTRATION SERVICES",
-      "start_date": "2025-04-01",
-      "end_date": "2025-12-31"
+      "description": "CYBERARK UPGRADE SUPPORT",
+      "start_date": "2026-09-09",
+      "end_date": "2026-11-08"
     },
     {
       "id": "CONT_AWD_9523ZY26F0051_9507_NNG15SD19B_8000",
@@ -2049,15 +1818,26 @@
       "end_date": "2027-09-22"
     },
     {
-      "id": "CONT_AWD_9523ZY24F0051_9507_NNG15SD74B_8000",
-      "award_id": "9523ZY24F0051",
-      "recipient": "SOFTWARE INFORMATION RESOURCE CORP.",
-      "amount": 60737.13,
+      "id": "CONT_AWD_9523ZY25C0006_9507_-NONE-_-NONE-",
+      "award_id": "9523ZY25C0006",
+      "recipient": "CYBER SECURITY INNOVATIONS LLC",
+      "amount": 1731744,
       "agency": "Commodity Futures Trading Commission",
       "naics": null,
-      "description": "TYLER TECHNOLOGIES EEO CASE MANAGEMENT SOFTWARE",
-      "start_date": "2024-09-24",
-      "end_date": "2027-09-23"
+      "description": "EXECUTIVE ASSISTANT SUPPORT FOR CFTC COMMISSIONERS AND EXECUTIVES",
+      "start_date": "2025-05-24",
+      "end_date": "2027-05-23"
+    },
+    {
+      "id": "CONT_AWD_9523ZY23F0076_9507_NNG15SC27B_8000",
+      "award_id": "9523ZY23F0076",
+      "recipient": "CARAHSOFT TECHNOLOGY CORP",
+      "amount": 225352.54,
+      "agency": "Commodity Futures Trading Commission",
+      "naics": null,
+      "description": "NEW ELECTRONIC DOCUMENT SYSTEM FOR SECRETARIAT'S OFFICE",
+      "start_date": "2023-09-22",
+      "end_date": "2027-09-27"
     },
     {
       "id": "CONT_AWD_9523ZY23F0022_9507_NNG15SD76B_8000",
@@ -2093,6 +1873,17 @@
       "end_date": "2027-02-26"
     },
     {
+      "id": "CONT_AWD_95170026P0292_9568_-NONE-_-NONE-",
+      "award_id": "95170026P0292",
+      "recipient": "AMPEGON POWER ELECTRONICS AG",
+      "amount": 36280,
+      "agency": "U.S. Agency for Global Media",
+      "naics": null,
+      "description": "PHILIPPINE TS - COMPONENTS",
+      "start_date": "2026-09-02",
+      "end_date": "2026-11-30"
+    },
+    {
       "id": "CONT_AWD_95170026P0044_9568_-NONE-_-NONE-",
       "award_id": "95170026P0044",
       "recipient": "LUMEN TECHNOLOGIES GOVERNMENT SOLUTIONS, INC.",
@@ -2126,15 +1917,37 @@
       "end_date": "2027-09-02"
     },
     {
+      "id": "CONT_AWD_95170026K0017_9568_95170022A0349_9568",
+      "award_id": "95170026K0017",
+      "recipient": "PAYDESK LIMITED",
+      "amount": 225000,
+      "agency": "U.S. Agency for Global Media",
+      "naics": null,
+      "description": "LANGUAGE SERVICES OBTAIN JOURNALIST STRINGERS DAILY TO PRODUCE AND REPORT BREAKING NEWS STORIES FEATURES LONGFORM DOCUMENTARIES AND RADIO PROGRAMMING BOTH DOMESTICALLY AND ACROSS THE GLOBE.",
+      "start_date": "2026-05-15",
+      "end_date": "2027-05-14"
+    },
+    {
       "id": "CONT_AWD_95170026K0004_9568_95170022A0349_9568",
       "award_id": "95170026K0004",
       "recipient": "PAYDESK LIMITED",
-      "amount": 125000,
+      "amount": 275000,
       "agency": "U.S. Agency for Global Media",
       "naics": null,
       "description": "LANGUAGE SERVICES OBTAIN JOURNALIST STRINGERS DAILY TO PRODUCE AND REPORT BREAKING NEWS STORIES FEATURES LONGFORM DOCUMENTARIES AND RADIO PROGRAMMING BOTH DOMESTICALLY AND ACROSS THE GLOBE.",
       "start_date": "2026-01-28",
       "end_date": "2027-01-27"
+    },
+    {
+      "id": "CONT_AWD_95170026F0283_9568_GS35F281DA_4732",
+      "award_id": "95170026F0283",
+      "recipient": "CGI FEDERAL INC.",
+      "amount": 1500000,
+      "agency": "U.S. Agency for Global Media",
+      "naics": null,
+      "description": "MOMENTUM FINANCIALS AND ACQUISITIONS SOFTWARE",
+      "start_date": "2026-09-01",
+      "end_date": "2028-08-31"
     },
     {
       "id": "CONT_AWD_95170026F0279_9568_NNG15SD74B_8000",
@@ -2148,17 +1961,6 @@
       "end_date": "2027-08-31"
     },
     {
-      "id": "CONT_AWD_95170026F0278_9568_NNG15SD39B_8000",
-      "award_id": "95170026F0278",
-      "recipient": "REGAN TECHNOLOGIES CORP",
-      "amount": 1303808.55,
-      "agency": "U.S. Agency for Global Media",
-      "naics": null,
-      "description": "USAGM COMPUTER BUY",
-      "start_date": "2026-08-27",
-      "end_date": "2026-11-26"
-    },
-    {
       "id": "CONT_AWD_95170026C0265_9568_-NONE-_-NONE-",
       "award_id": "95170026C0265",
       "recipient": "WIDE NETWORK SOLUTIONS LLC",
@@ -2168,6 +1970,17 @@
       "description": "VOA 365 (TURKMENALEM/MONACOSAT) SATELLITE SERVICES",
       "start_date": "2026-08-10",
       "end_date": "2028-08-31"
+    },
+    {
+      "id": "CONT_AWD_95170024C0279_9568_-NONE-_-NONE-",
+      "award_id": "95170024C0279",
+      "recipient": "VAULTES LLC",
+      "amount": 3072841.2,
+      "agency": "U.S. Agency for Global Media",
+      "naics": null,
+      "description": "FISMA GRC CONTRACT FY 24 - 28",
+      "start_date": "2024-09-01",
+      "end_date": "2027-08-31"
     },
     {
       "id": "CONT_AWD_95170023P0419_9568_-NONE-_-NONE-",
@@ -2181,15 +1994,15 @@
       "end_date": "2027-09-26"
     },
     {
-      "id": "CONT_AWD_95170021F0193_9568_47QSHA20D002Q_4732",
-      "award_id": "95170021F0193",
-      "recipient": "TOWER FACILITY MANAGEMENT, LLC",
-      "amount": 2048484.72,
+      "id": "CONT_AWD_95170022C0458_9568_-NONE-_-NONE-",
+      "award_id": "95170022C0458",
+      "recipient": "TYLER FEDERAL, LLC",
+      "amount": 188649.4,
       "agency": "U.S. Agency for Global Media",
       "naics": null,
-      "description": "HVAC MAINTENANCE AND REPAIR SERVICES (INCLUDING UPS)",
-      "start_date": "2021-08-09",
-      "end_date": "2027-02-08"
+      "description": "THE OFFICE OF EQUAL OPPORTUNITY PROGRAMS, LOCATED WITHIN OCR REQUIRES A SYSTEM TO COLLECT INFORMATION ABOUT DISCRIMINATION CLAIMS FILED BY EMPLOYEES, AND TO TRACK AND REPORT ON THOSE CLAIMS.",
+      "start_date": "2022-09-29",
+      "end_date": "2027-09-28"
     },
     {
       "id": "CONT_AWD_93310026F0008_9300_47QSMA19D08QR_4732",
@@ -2291,6 +2104,17 @@
       "end_date": "2027-06-28"
     },
     {
+      "id": "CONT_AWD_91990026F0058_9100_GS35F208DA_4732",
+      "award_id": "91990026F0058",
+      "recipient": "PROMETHEUS DIGITAL LLC",
+      "amount": 114435.75,
+      "agency": "Department of Education",
+      "naics": null,
+      "description": "SERVICENOW SUBSCRIPTION AND MAINTENANCE",
+      "start_date": "2026-06-26",
+      "end_date": "2027-06-30"
+    },
+    {
       "id": "CONT_AWD_91990026F0054_9100_47QRAA26D001R_4732",
       "award_id": "91990026F0054",
       "recipient": "LUX CONSULTING GROUP, INC.",
@@ -2302,15 +2126,15 @@
       "end_date": "2026-11-10"
     },
     {
-      "id": "CONT_AWD_91990026C0008_9100_-NONE-_-NONE-",
-      "award_id": "91990026C0008",
-      "recipient": "NATIONAL ACADEMY OF SCIENCES",
-      "amount": 1500000,
+      "id": "CONT_AWD_91990026F0014_9100_91990024A0002_9100",
+      "award_id": "91990026F0014",
+      "recipient": "VALIANT SOLUTIONS, LLC",
+      "amount": 11079879.96,
       "agency": "Department of Education",
       "naics": null,
-      "description": "NATIONAL ACADEMIES OF SCIENCES, ENGINEERING, AND MEDICINE LITERACY STUDY. RECENT NAEP AND PROGRAM FOR THE INTERNATIONAL ASSESSMENT OF ADULT COMPETENCIES SCORES SHOW A TROUBLING DECLINE IN LITERACY ACHIEVEMENT FOR PUBLIC SCHOOL STUDENTS AND ADULT LEAR",
-      "start_date": "2026-09-01",
-      "end_date": "2028-08-31"
+      "description": "CYBER INNOVATION AND INTEGRATION SERVICES (CDIS) CALL ORDER 3",
+      "start_date": "2024-07-01",
+      "end_date": "2027-06-30"
     },
     {
       "id": "CONT_AWD_91990025P0055_9100_-NONE-_-NONE-",
@@ -2322,6 +2146,17 @@
       "description": "THREE 100MB DEDICATED INTERNET CIRCUITS: ONE FOR THE OCIO SCIF LOCATED IN LBJ (2B200); AND TWO FOR OFO, ONE FOR THE LBJ SCIF (2B261) AND THE ONE FOR THE SCIF IN DENVER. THESE LINES ASSIST IN PROVIDING CLASSIFIED COMMUNICATIONS WITH THE WHITE HOUSE AN",
       "start_date": "2025-09-23",
       "end_date": "2030-09-22"
+    },
+    {
+      "id": "CONT_AWD_91990025F0089_9100_91990023D0008_9100",
+      "award_id": "91990025F0089",
+      "recipient": "APPLIED ENTERPRISE MANAGEMENT CORPORATION",
+      "amount": 8078997.22,
+      "agency": "Department of Education",
+      "naics": null,
+      "description": "SERVICES, MONITORING AND TECHNICAL ASSISTANCE SUPPORT TO CHARTER SCHOOLS PROGRAM GRANTEES.",
+      "start_date": "2025-09-26",
+      "end_date": "2030-09-25"
     },
     {
       "id": "CONT_AWD_91990025F0083_9100_91990023D0006_9100",
@@ -2390,6 +2225,17 @@
       "end_date": "2026-09-26"
     },
     {
+      "id": "CONT_AWD_91990024F0069_9100_GS00F0007X_4732",
+      "award_id": "91990024F0069",
+      "recipient": "POTOMACWAVE, INC.",
+      "amount": 354816,
+      "agency": "Department of Education",
+      "naics": null,
+      "description": "FEDERAL PROCUREMENT DATA SYSTEM- NEXT GENERATION(FPDS): AUTOMATED DATA VALIDATION SERVICES (ADVS)",
+      "start_date": "2024-09-27",
+      "end_date": "2027-09-26"
+    },
+    {
       "id": "CONT_AWD_91990024F0014_9100_75N98120D00097_7529",
       "award_id": "91990024F0014",
       "recipient": "T-REX SOLUTIONS LLC",
@@ -2410,6 +2256,39 @@
       "description": "I4S BPA CALL ORDER 4. INFORMATION SECURITY OWNER.",
       "start_date": "2023-09-30",
       "end_date": "2025-09-29"
+    },
+    {
+      "id": "CONT_AWD_91990023F0059_9100_47QSMA19D08NT_4732",
+      "award_id": "91990023F0059",
+      "recipient": "STRATIVIA LLC",
+      "amount": 2587981.23,
+      "agency": "Department of Education",
+      "naics": null,
+      "description": "MAILROOM SERVICES",
+      "start_date": "2023-09-01",
+      "end_date": "2027-09-05"
+    },
+    {
+      "id": "CONT_AWD_91990023F0052_9100_NNG15SD74B_8000",
+      "award_id": "91990023F0052",
+      "recipient": "SOFTWARE INFORMATION RESOURCE CORP.",
+      "amount": 102285.76,
+      "agency": "Department of Education",
+      "naics": null,
+      "description": "WEBINSPECT LICENSES",
+      "start_date": "2023-09-30",
+      "end_date": "2027-09-29"
+    },
+    {
+      "id": "CONT_AWD_91990022C0075_9100_-NONE-_-NONE-",
+      "award_id": "91990022C0075",
+      "recipient": "NONPUBLIC EDUCATIONAL SERVICES, INC.",
+      "amount": 31584471.93,
+      "agency": "Department of Education",
+      "naics": null,
+      "description": "TO PROVIDE EQUITABLE SERVICES UNDER TITLE I TO ELIGIBLE CHILDREN ATTENDING PRIVATE SCHOOLS, THEIR TEACHERS, AND THEIR FAMILIES IN THE 53 BYPASSED LEAS IN MISSOURI AND THE 14 BYPASSED LEAS IN VIRGINIA.",
+      "start_date": "2022-09-27",
+      "end_date": "2027-07-31"
     },
     {
       "id": "CONT_AWD_91990021F0044_9100_GS02F0072X_4732",
@@ -2456,6 +2335,17 @@
       "end_date": "2031-09-07"
     },
     {
+      "id": "CONT_AWD_91003126F0021_9100_91003123D0004_9100",
+      "award_id": "91003126F0021",
+      "recipient": "MISSOURI HIGHER EDUCATION LOAN AUTHORITY",
+      "amount": 140001778.62,
+      "agency": "Department of Education",
+      "naics": null,
+      "description": "OPERATIONS AND MAINTENANCE (O&M) TASK ORDER FOR STUDENT LOAN SERVICING IN ACCORDANCE WITH THE REQUIREMENTS OF THE USDS CONTRACT. ALL WORK AND DELIVERABLES PROVIDED BY THE USDS SERVICER MUST BE IN ACCORDANCE WITH THE REQUIREMENTS OF THE CONTRACT F",
+      "start_date": "2026-04-01",
+      "end_date": "2026-12-31"
+    },
+    {
       "id": "CONT_AWD_91003126F0020_9100_91003123D0003_9100",
       "award_id": "91003126F0020",
       "recipient": "EDFINANCIAL SERVICES LLC",
@@ -2489,15 +2379,15 @@
       "end_date": "2027-05-21"
     },
     {
-      "id": "CONT_AWD_91003125C0020_9100_-NONE-_-NONE-",
-      "award_id": "91003125C0020",
-      "recipient": "EDUCATIONAL COMPUTER SYSTEMS, INC.",
-      "amount": 9054041.24,
+      "id": "CONT_AWD_91003125F0010_9100_91003120A0007_9100",
+      "award_id": "91003125F0010",
+      "recipient": "CFI GROUP USA, L.L.C.",
+      "amount": 44054.72,
       "agency": "Department of Education",
       "naics": null,
-      "description": "TITLE IV AID SERVICING (PERKINS)BRIDGE CONTRACT. SUPPORT FOR THE LOAN PORTFOLIO, COMPRISED OF SCHOOL-SERVICED AND FEDERALLY-SERVICED BORROWERS. CONTINUOUS AND RECURRING SERVICES SUPPORT PROGRAMS UNDER TITLE IV INCLUDES GRANTS, LOANS, AND WORK STUDY",
-      "start_date": "2025-08-01",
-      "end_date": "2027-01-31"
+      "description": "THE FAFSA POST-TRANSACTION SURVEY MEASURES CUSTOMER SATISFACTION FROM FEDERAL FINANCIAL AID APPLICANTS ON AID DELIVERY PRODUCTS AND SERVICES. THIS SURVEY INCLUDES THE CONTINUOUS COLLECTION OF CUSTOMER SATISFACTION DATA TO MONITOR THE PERFORMANCE AND",
+      "start_date": "2022-08-23",
+      "end_date": "2025-07-09"
     },
     {
       "id": "CONT_AWD_91003125C0017_9100_-NONE-_-NONE-",
@@ -2509,6 +2399,17 @@
       "description": "TO ENSURE THE SUCCESSFUL LAUNCH OF NEW AND/OR UPDATED FSA PRODUCTS THROUGH STUDENTAID.GOV, INCLUDING THE 2026-27 FAFSA FORM, FSA REQUIRES THE SUPPORT OF A CONTRACTOR THAT CAN OPERATE AS A DIGITAL DELIVERY INTEGRATOR (DDI).",
       "start_date": "2025-04-15",
       "end_date": "2027-04-14"
+    },
+    {
+      "id": "CONT_AWD_91003123F0015_9100_47QRAA20D001Q_4732",
+      "award_id": "91003123F0015",
+      "recipient": "PAT TAYLOR & ASSOCIATES INC",
+      "amount": 849788,
+      "agency": "Department of Education",
+      "naics": null,
+      "description": "FEDERAL STUDENT AID (FSA) IS AWARDING A FIRM FIXED PRICE (FFP) TASK ORDER FOR FREEDOM OF INFORMATION ACT (FOIA) AND PRIVACY ACT SUPPORT SERVICES (I.E., SENIOR FOIA ANALYST). THE TASK ORDERED WILL BE AWARDED AS A SMALL BUSINESS SET-ASIDE OFF GSA FSS.",
+      "start_date": "2023-09-30",
+      "end_date": "2026-09-29"
     },
     {
       "id": "CONT_AWD_91003123F0003_9100_47QTCA20D00FF_4732",
@@ -2577,6 +2478,28 @@
       "end_date": "2027-02-19"
     },
     {
+      "id": "CONT_AWD_89703026FAR000018_8900_89703025AAR000001_8900",
+      "award_id": "89703026FAR000018",
+      "recipient": "PITCHBOOK DATA INC",
+      "amount": 80206.26,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "THIS CALL ORDERS 23 USER LICENSES FOR WEB-BASED INVESTOR DATABASE WITHIN PITCHBOOK'S BPA OY1 FOR RTES. TOTAL VALUE IS $184,00.00",
+      "start_date": "2026-09-03",
+      "end_date": "2027-09-25"
+    },
+    {
+      "id": "CONT_AWD_89703026FAR000017_8900_89703025AAR000001_8900",
+      "award_id": "89703026FAR000017",
+      "recipient": "PITCHBOOK DATA INC",
+      "amount": 96000,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "CALL FOR $96,000.00 (12 USERS AT $8,000 EA) FOR WEB-BASED INVESTOR DATABASE LICENSES FOR OPTION YEAR 1 OF PITCHBOOK'S BPA 89703025AAR000001.",
+      "start_date": "2026-09-03",
+      "end_date": "2027-09-25"
+    },
+    {
       "id": "CONT_AWD_89603026P0011_8960_-NONE-_-NONE-",
       "award_id": "89603026P0011",
       "recipient": "POWERWORLD CORP",
@@ -2586,6 +2509,17 @@
       "description": "POWERWORLD SIMULATOR ATC MAINTENANCE SERVICES",
       "start_date": "2026-09-22",
       "end_date": "2027-09-21"
+    },
+    {
+      "id": "CONT_AWD_89603026F0064_8960_HTC71123DC025_9700",
+      "award_id": "89603026F0064",
+      "recipient": "UNITED PARCEL SERVICE CO.",
+      "amount": 17400,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "EXPRESS AND GROUND DOMESTIC PICKUP AND DELIVERY SERVICES",
+      "start_date": "2026-10-01",
+      "end_date": "2027-09-30"
     },
     {
       "id": "CONT_AWD_89603026F0022_8960_NNG15SC86B_8000",
@@ -2632,17 +2566,6 @@
       "end_date": "2027-05-31"
     },
     {
-      "id": "CONT_AWD_89603022P0030_8960_-NONE-_-NONE-",
-      "award_id": "89603022P0030",
-      "recipient": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
-      "amount": 23255,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "RIVERWARE LICENSES",
-      "start_date": "2022-10-04",
-      "end_date": "2027-10-03"
-    },
-    {
       "id": "CONT_AWD_89603021P0027_8960_-NONE-_-NONE-",
       "award_id": "89603021P0027",
       "recipient": "OPEN ACCESS TECHNOLOGY INTERNATIONAL INC",
@@ -2674,6 +2597,17 @@
       "description": "LIVEENERGY RENEWAL 2026",
       "start_date": "2026-08-31",
       "end_date": "2027-09-22"
+    },
+    {
+      "id": "CONT_AWD_89503623PSW000184_8900_-NONE-_-NONE-",
+      "award_id": "89503623PSW000184",
+      "recipient": "GERMRIP LLC",
+      "amount": 54000,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "JANITORIAL SERVICES AT NIXA CONTROL CENTER  IN ACCORDANCE WITH THE ATTACHED PERFORMANCE WORK STATEMENT (PWS), DATED APRIL 06, 2023, AND 2023 CLEANING CONTRACT FLOOR PLAN AT NIXA, MISSOURI",
+      "start_date": "2023-08-28",
+      "end_date": "2027-09-30"
     },
     {
       "id": "CONT_AWD_89503426PWA002364_8900_-NONE-_-NONE-",
@@ -2753,6 +2687,17 @@
       "end_date": "2027-06-30"
     },
     {
+      "id": "CONT_AWD_89503426FWA401841_8900_47QSEA19D00B9_4732",
+      "award_id": "89503426FWA401841",
+      "recipient": "DOCUMENT IMAGING DIMENSIONS INC.",
+      "amount": 37811.4,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "6 EA LB028-10, 6 EA LB030-10, 6 EA LB060-20 AND 6 EA LB090-10 HARRINGTON MANUAL LEVER HOISTS FOR UGP NDMO",
+      "start_date": "2026-04-06",
+      "end_date": "2026-05-29"
+    },
+    {
       "id": "CONT_AWD_89503425PWA002140_8900_-NONE-_-NONE-",
       "award_id": "89503425PWA002140",
       "recipient": "MARY HELEN PARKEY",
@@ -2784,6 +2729,17 @@
       "description": "ENERSYS BATTERY AND RACK",
       "start_date": "2025-07-03",
       "end_date": "2026-09-30"
+    },
+    {
+      "id": "CONT_AWD_89503425FWA401746_8900_NNG15SD60B_8000",
+      "award_id": "89503425FWA401746",
+      "recipient": "ADVANCED COMPUTER CONCEPTS, INC.",
+      "amount": 16027.72,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "UGP - TWO (2) LA MARCHE \"A77DE-35-130V-B1-60L\" CHARGERS",
+      "start_date": "2025-08-20",
+      "end_date": "2025-11-12"
     },
     {
       "id": "CONT_AWD_89503425CWA000081_8900_-NONE-_-NONE-",
@@ -2830,15 +2786,26 @@
       "end_date": "2025-07-31"
     },
     {
+      "id": "CONT_AWD_89503326FWA400247_8900_GS07F335AA_4732",
+      "award_id": "89503326FWA400247",
+      "recipient": "WESTERN METAL SUPPLY COMPANY, INC.",
+      "amount": 457777.77,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "WESTERN AREA POWER ADMINISTRATION (WAPA) SIERRA NEVADA REGION (SNR) HAS A REQUIREMENT FOR A EQUIPMENT SHELTER AT THE ELVERTA MAINTENANCE FACILITY (EMF) IN ELVERTA, CA, TO INCLUDE ONSITE INSTALLATION.",
+      "start_date": "2026-09-03",
+      "end_date": "2027-03-02"
+    },
+    {
       "id": "CONT_AWD_89503226PWA000647_8900_-NONE-_-NONE-",
       "award_id": "89503226PWA000647",
       "recipient": "BEAR COMMUNICATIONS INC",
-      "amount": 97500,
+      "amount": 0,
       "agency": "Department of Energy",
       "naics": null,
       "description": "INSTALLATION OF MOTOROLA RADIOS IN VEHICLES - LOCATION LOVELAND, CO",
       "start_date": "2026-08-31",
-      "end_date": "2027-08-27"
+      "end_date": "2026-09-03"
     },
     {
       "id": "CONT_AWD_89503226FWA000225_8900_89303022AIM000014_8900",
@@ -2874,17 +2841,6 @@
       "end_date": "2027-03-31"
     },
     {
-      "id": "CONT_AWD_89503223PWA000431_8900_-NONE-_-NONE-",
-      "award_id": "89503223PWA000431",
-      "recipient": "FOUR CORNERS WEED CONTROL, INC",
-      "amount": 10420.62,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "WESTERN COLORADO MAINTENANCE OFFICE BAREGROUND VEGETATION CONTROL SERVICES FOR MICROWAVE SITES AND SUBSTATIONS FOR ROCKY MOUNTAIN REGION.",
-      "start_date": "2023-09-19",
-      "end_date": "2027-09-30"
-    },
-    {
       "id": "CONT_AWD_89503223FWA400422_8900_89503422DWA000011_8900",
       "award_id": "89503223FWA400422",
       "recipient": "G & RK CONSULTING ASSOCIATES LLC",
@@ -2907,15 +2863,15 @@
       "end_date": "2027-01-28"
     },
     {
-      "id": "CONT_AWD_89503126FWA400726_8900_GS10F0033T_4730",
-      "award_id": "89503126FWA400726",
-      "recipient": "VERNADERO GROUP INC",
-      "amount": 207621.11,
+      "id": "CONT_AWD_89503126FWA400727_8900_89503122DWA000004_8900",
+      "award_id": "89503126FWA400727",
+      "recipient": "CIVIL DESIGN & ENGINEERING INC",
+      "amount": 45262.5,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "BIOLOGICAL MONITORING FOR 2026-2027 MAINTENANCE AND WOOD POLE PROJECTS (WPP), WESTERN AREA POWER ADMINISTRATION, DESERT SOUTHWEST REGION, PHOENIX",
-      "start_date": "2026-08-28",
-      "end_date": "2027-09-30"
+      "description": "A-E SURVEY FOR BLY-HDR (8 SPANS)",
+      "start_date": "2026-09-02",
+      "end_date": "2026-12-02"
     },
     {
       "id": "CONT_AWD_89503126CWA000142_8900_-NONE-_-NONE-",
@@ -2940,15 +2896,26 @@
       "end_date": "2027-04-10"
     },
     {
-      "id": "CONT_AWD_89503026PWA000532_8900_-NONE-_-NONE-",
-      "award_id": "89503026PWA000532",
-      "recipient": "UMBC TRAINING CENTERS LLC",
-      "amount": 95000,
+      "id": "CONT_AWD_89503026PWA000541_8900_-NONE-_-NONE-",
+      "award_id": "89503026PWA000541",
+      "recipient": "ATLANTIC DIVING SUPPLY, INC.",
+      "amount": 20953.95,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "EMERGING LEADERS DEVELOPMENT PROGRAM FY26",
-      "start_date": "2026-04-01",
-      "end_date": "2026-06-05"
+      "description": "SKYDIO X10 DRONE WITH VT300Z STARTER KIT",
+      "start_date": "2026-09-03",
+      "end_date": "2027-09-03"
+    },
+    {
+      "id": "CONT_AWD_89503026PWA000540_8900_-NONE-_-NONE-",
+      "award_id": "89503026PWA000540",
+      "recipient": "POWER PRO 360 LLC",
+      "amount": 32984,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "EO 14398 POWER PRO 360 TRANSFORMER MANAGEMENT TRAINING",
+      "start_date": "2026-09-03",
+      "end_date": "2026-11-02"
     },
     {
       "id": "CONT_AWD_89503026FWA401220_8900_47QTCA20D0044_4732",
@@ -2962,17 +2929,6 @@
       "end_date": "2027-09-30"
     },
     {
-      "id": "CONT_AWD_89503026FWA401219_8900_89503025DWA000025_8900",
-      "award_id": "89503026FWA401219",
-      "recipient": "BURNS & MCDONNELL ENGINEERING COMPANY, INC.",
-      "amount": 131680.08,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "A-E TITLE I ENGINEERING SERVICES - RMR LV YT LANDS",
-      "start_date": "2026-08-28",
-      "end_date": "2027-02-12"
-    },
-    {
       "id": "CONT_AWD_89503026FWA401218_8900_47QTCA20D0044_4732",
       "award_id": "89503026FWA401218",
       "recipient": "RARESTEP, INC.",
@@ -2982,6 +2938,17 @@
       "description": "FLEETIO FLEET MANAGEMENT SOFTWARE - SNR",
       "start_date": "2026-09-02",
       "end_date": "2027-09-30"
+    },
+    {
+      "id": "CONT_AWD_89503026FWA401213_8900_NNG15SD70B_8000",
+      "award_id": "89503026FWA401213",
+      "recipient": "STANDARD-BLAZAR, LLC",
+      "amount": 1401821.64,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "SPLUNK CLOUD AND SOAR FY2026 AND SPLUNK ENTERPRISE SESC RENEWAL (FITARA #013680514202601)",
+      "start_date": "2026-09-27",
+      "end_date": "2026-10-10"
     },
     {
       "id": "CONT_AWD_89503026FWA401209_8900_89503025DWA000025_8900",
@@ -3006,17 +2973,6 @@
       "end_date": "2026-07-01"
     },
     {
-      "id": "CONT_AWD_89503025PWA000504_8900_-NONE-_-NONE-",
-      "award_id": "89503025PWA000504",
-      "recipient": "TRUCENTIVE, INC.",
-      "amount": 105000,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "GIFT CARD REWARDS FOR WAPA'S GOLD STAR AWARD PROGRAM",
-      "start_date": "2025-09-16",
-      "end_date": "2027-09-15"
-    },
-    {
       "id": "CONT_AWD_89503025PWA000491_8900_-NONE-_-NONE-",
       "award_id": "89503025PWA000491",
       "recipient": "POWERTECH LABS INC",
@@ -3028,17 +2984,6 @@
       "end_date": "2026-03-14"
     },
     {
-      "id": "CONT_AWD_89503025FWA401031_8900_NNG15SC20B_8000",
-      "award_id": "89503025FWA401031",
-      "recipient": "STERLING COMPUTERS CORPORATION",
-      "amount": 64176.77,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "FY25 CISCO CATALYST ROUTERS REPLACEMENT AND SUBSCRIPTION",
-      "start_date": "2025-06-09",
-      "end_date": "2026-06-05"
-    },
-    {
       "id": "CONT_AWD_89503025FWA401007_8900_NNG15SC82B_8000",
       "award_id": "89503025FWA401007",
       "recipient": "NEW TECH SOLUTIONS, INC.",
@@ -3048,17 +2993,6 @@
       "description": "FY25 BOX ENTPLUS RENEWAL",
       "start_date": "2025-04-04",
       "end_date": "2026-04-16"
-    },
-    {
-      "id": "CONT_AWD_89503025FWA400976_8900_89503020DWA000013_8900",
-      "award_id": "89503025FWA400976",
-      "recipient": "CENTURY HELICOPTERS, INC.",
-      "amount": 336536.6,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "UNSCHEDULED ENGINE OVERHAUL DUE TO MULTIPLE FAILED INTERNAL PARTS FOUND DURING AN INSPECTION FOR HELICOPTER N618DE - SN CAE848052, IN ACCORDANCE WITH THE \"ATTACHMENT B - IDIQ PRICING SCHEDULE\" UNDER THE MAINTENANCE IDIQ CONTRACT, 89503020DW",
-      "start_date": "2025-02-28",
-      "end_date": "2026-05-31"
     },
     {
       "id": "CONT_AWD_89503025FWA000146_8900_89303024AIM000021_8900",
@@ -3171,48 +3105,15 @@
       "end_date": "2027-03-08"
     },
     {
-      "id": "CONT_AWD_89303726CEM000021_8900_-NONE-_-NONE-",
-      "award_id": "89303726CEM000021",
-      "recipient": "DOMINION ENERGY SOUTH CAROLINA, INC.",
+      "id": "CONT_AWD_89303725PEM000311_8900_-NONE-_-NONE-",
+      "award_id": "89303725PEM000311",
+      "recipient": "CSX TRANSPORTATION, INC",
       "amount": 0,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "THE CONTRACTOR SHALL PROVIDE ELECTRICAL AND OPERATIONS AND MAINTENANCE SERVICES TO INCLUDE UPGRADES OF LEASE TRANSMISSION FACILITIES AND SUBSTATIONS FOR THE DEPARTMENT OF ENERGY, SAVANNAH RIVER SITE, AIKEN, SOUTH CAROLINA FOR A 10 YEAR PERIOD OF PERF",
-      "start_date": "2026-05-01",
-      "end_date": "2036-03-31"
-    },
-    {
-      "id": "CONT_AWD_89303524CEM000016_8900_-NONE-_-NONE-",
-      "award_id": "89303524CEM000016",
-      "recipient": "MANAGEMENT SOLUTIONS LLC",
-      "amount": 3119306.02,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "BUSINESS AND ADMINISTRATIVE SUPPORT SERVICES FOR THE DEPARTMENT OF ENERGY OAK RIDGE OFFICE OF ENVIRONMENTAL MANAGEMENT (DOE-OREM). SBA REQUIREMENT #SW1706633915U.",
-      "start_date": "2024-06-30",
-      "end_date": "2027-06-30"
-    },
-    {
-      "id": "CONT_AWD_89303523FEM400032_8900_89303322DEM000067_8900",
-      "award_id": "89303523FEM400032",
-      "recipient": "UNITED CLEANUP OAK RIDGE LLC",
-      "amount": 2540845400,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "OAK RIDGE RESERVATION CLEANUP CONTRACT TASK ORDERS",
-      "start_date": "2023-05-17",
-      "end_date": "2032-02-27"
-    },
-    {
-      "id": "CONT_AWD_89303425FEM400027_8900_89303318CEM000007_8900",
-      "award_id": "89303425FEM400027",
-      "recipient": "NEWPORT NEWS NUCLEAR BWXT-LOS ALAMOS LLC",
-      "amount": 7461828,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "LEASE COMMITMENTS",
-      "start_date": "2025-08-28",
-      "end_date": "2028-04-29"
+      "description": "CSX AGREEMENT RAILROAD INSPECTION AND MAINTENANCE FOR A ONE (1) YEAR PERFORMANCE PERIOD.",
+      "start_date": "2025-08-02",
+      "end_date": "2026-08-01"
     },
     {
       "id": "CONT_AWD_89303326FEM400489_8900_89303321DEM000057_8900",
@@ -3237,13 +3138,13 @@
       "end_date": "2027-01-31"
     },
     {
-      "id": "CONT_AWD_89303326FEM400475_8900_89303721DEM000010_8900",
-      "award_id": "89303326FEM400475",
+      "id": "CONT_AWD_89303326FEM400476_8900_89303721DEM000010_8900",
+      "award_id": "89303326FEM400476",
       "recipient": "S & K LOGISTICS SERVICES LLC",
-      "amount": 425794.8,
+      "amount": 1285550.5,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "THIS EFFORT PROVIDES ONE PROJECT CONTROL ENGINEER, LEVEL III, IN SUPPORT OF THE NUCLEAR MATERIALS PROGRAM.",
+      "description": "THIS EFFORT PROVIDES FOR A PROGRAM MANAGER ILCE/WIT INTEGRATOR RISK ENGINEER, LEVEL II RISK ENGINEER, LEVEL III AND A SCHEDULER IN SUPPORT OF THE IDIQ AND CFO.",
       "start_date": "2025-12-30",
       "end_date": "2027-01-31"
     },
@@ -3257,6 +3158,17 @@
       "description": "MASTER TASK ORDER 89303022AMA000041-89303326FEM000043 BASE",
       "start_date": "2025-12-18",
       "end_date": "2027-09-30"
+    },
+    {
+      "id": "CONT_AWD_89303325FEM400462_8900_89303324DEM000118_8900",
+      "award_id": "89303325FEM400462",
+      "recipient": "OLD HARBOR SOLUTIONS LLC",
+      "amount": 1517298.24,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "THE OFFICE OF LEGACY MANAGEMENT (LM) MANAGES THE  DEPARTMENT'S LEGACY RESPONSIBILITIES RESULTING FROM THE NUCLEAR WEAPONS PROGRAM. THE  MISSION OF THE OFFICE IS TO PROTECT HUMAN HEALTH AND THE ENVIRONMENT THROUGH EFFECTIVE AND  EFFICIENT LONG",
+      "start_date": "2025-08-28",
+      "end_date": "2028-09-30"
     },
     {
       "id": "CONT_AWD_89303325FEM400438_8900_89303321DEM000053_8900",
@@ -3281,26 +3193,15 @@
       "end_date": "2030-10-22"
     },
     {
-      "id": "CONT_AWD_89303324FEM400431_8900_89303324DEM000118_8900",
-      "award_id": "89303324FEM400431",
-      "recipient": "OLD HARBOR SOLUTIONS LLC",
-      "amount": 904384.44,
+      "id": "CONT_AWD_89303323FEM400332_8900_89303320DEM000034_8900",
+      "award_id": "89303323FEM400332",
+      "recipient": "TEKPRO SUPPORT SERVICES, LLC",
+      "amount": 213221.77,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "WORK AREA 1: CBFO CONTRACTING SUPPORT:   SERVICES PROVIDED INCLUDE CONTRACT/SUBCONTRACT AWARD AND ADMINISTRATION; CONTRACTING POLICIES AND ADMINISTRATIVE SUPPORT; AND CLOSEOUT.",
-      "start_date": "2024-09-11",
-      "end_date": "2027-09-30"
-    },
-    {
-      "id": "CONT_AWD_89303324FEM400421_8900_89303324DEM000095_8900",
-      "award_id": "89303324FEM400421",
-      "recipient": "CCS IVORY CLOUD JV LLC",
-      "amount": 5360577.31,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "TECHNICAL SUPPORT SERVICES TO INCLUDE, BUT NOT LIMITED TO OPERATIONS SERVICES (INCLUDING HELP DESK SUPPORT), ADMINISTRATIVE SERVICES, TRAINING SERVICES, SYSTEM MAINTENANCE,AND THE MAINTENANCE OF COMMUNICATIONS SERVICE PROVIDER AGREEMENTS",
-      "start_date": "2024-07-01",
-      "end_date": "2027-06-30"
+      "description": "ENVIRONMENTAL MANAGEMENT CONSOLIDATED BUSINESS CENTER SUPPORT SERVICES HANFORD SITE ADMINISTRATIVE SUPPORT SERVICES",
+      "start_date": "2023-04-14",
+      "end_date": "2025-04-30"
     },
     {
       "id": "CONT_AWD_89303321CEM000080_8900_-NONE-_-NONE-",
@@ -3325,6 +3226,17 @@
       "end_date": "2027-01-04"
     },
     {
+      "id": "CONT_AWD_89303222FEM400018_8900_89303322DEM000076_8900",
+      "award_id": "89303222FEM400018",
+      "recipient": "CAST SPECIALTY TRANSPORTATION INC",
+      "amount": 42972177,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "TRANSURANIC (TRU) WASTE TRANSPORTATION SERVICES BASE TASK ORDER.",
+      "start_date": "2022-06-16",
+      "end_date": "2027-07-11"
+    },
+    {
       "id": "CONT_AWD_89303126FEM400505_8900_NNG15SD27B_8000",
       "award_id": "89303126FEM400505",
       "recipient": "V3GATE, LLC",
@@ -3347,17 +3259,6 @@
       "end_date": "2031-09-30"
     },
     {
-      "id": "CONT_AWD_89303026PET000036_8900_-NONE-_-NONE-",
-      "award_id": "89303026PET000036",
-      "recipient": "EVERFOX LLC",
-      "amount": 5013403.45,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "EVERFOX SOFTWARE/HARDWARE PROCUREMENT",
-      "start_date": "2026-06-30",
-      "end_date": "2027-08-30"
-    },
-    {
       "id": "CONT_AWD_89303026PET000035_8900_-NONE-_-NONE-",
       "award_id": "89303026PET000035",
       "recipient": "AMAZON WEB SERVICES, INC.",
@@ -3367,6 +3268,17 @@
       "description": "COMMERCIAL CLOUD SERVICES",
       "start_date": "2026-04-01",
       "end_date": "2027-04-18"
+    },
+    {
+      "id": "CONT_AWD_89303026PAU000056_8900_-NONE-_-NONE-",
+      "award_id": "89303026PAU000056",
+      "recipient": "CHAOS FAB SHOP LLC",
+      "amount": 18284.66,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "THE DEPARTMENT OF ENERGY (DOE), OFFICE OF ENVIRONMENT, HEALTH, SAFETY AND SECURITY (EHSS), OFFICE OF EXECUTIVE PROTECTION (OEP), REQUIRES SPECIALIZED AUTOMOTIVE MAINTENANCE, REPAIR, STRUCTURAL RESTORATION, CALIBRATION, AND DIAGNOSTIC SERVICES FOR A 2",
+      "start_date": "2026-09-03",
+      "end_date": "2026-11-15"
     },
     {
       "id": "CONT_AWD_89303026PAU000055_8900_-NONE-_-NONE-",
@@ -3391,17 +3303,6 @@
       "end_date": "2027-08-31"
     },
     {
-      "id": "CONT_AWD_89303026FSC000023_8900_89303024ACF000015_8900",
-      "award_id": "89303026FSC000023",
-      "recipient": "BGRS RELOCATION INC",
-      "amount": 36000,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "PCS RELOCATION OF JESSICA BROCKMEYER.",
-      "start_date": "2026-08-28",
-      "end_date": "2027-08-27"
-    },
-    {
       "id": "CONT_AWD_89303026FOE000047_8900_89303023AOE000008_8900",
       "award_id": "89303026FOE000047",
       "recipient": "SIDEM LLC",
@@ -3413,10 +3314,21 @@
       "end_date": "2028-09-12"
     },
     {
+      "id": "CONT_AWD_89303026FMA401028_8900_89303024DMA000036_8900",
+      "award_id": "89303026FMA401028",
+      "recipient": "THE FIELDS GROUP, LLC",
+      "amount": 17796.75,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "REQUISITION SUBMITTED FOR CONSTRUCTION/ALTERATION SERVICES TO BE ASSIGNED TO CONSTRUCTION IDIQ CONTRACTOR (THE FIELDS GROUP) CONTRACT # 89303024DMA000036 TO REFURBISH S-1 KITCHENETTE 7A-249 PER APPROVED SCOPE OF WORK AND SUPPORTING DRAWINGS #3213",
+      "start_date": "2026-09-03",
+      "end_date": "2027-07-31"
+    },
+    {
       "id": "CONT_AWD_89303026FIM000213_8900_89303025AIM000023_8900",
       "award_id": "89303026FIM000213",
       "recipient": "ACCENTURE FEDERAL SERVICES LLC",
-      "amount": 29675335.88,
+      "amount": 37857894.32,
       "agency": "Department of Energy",
       "naics": null,
       "description": "BLANKET PURCHASE AGREEMENT (BPA) ORDER FOR EITS OPERATIONS, SHARED SERVICES AND MODERNIZATION PROJECTS",
@@ -3433,17 +3345,6 @@
       "description": "ESTABLISHMENT OF A BPA ORDER UNDER CBOSS 2.0 FOR IM-20 COMBO: OPPORTUNITY MANAGEMENT, RECORDS MANAGEMENT, OCIO PROGRAM MANAGEMENT OFFICE, AUTOMATION AND CONTINUOUS IMPROVEMENTS, AND STRATEGIC ADVISORY SUPPORT.",
       "start_date": "2026-06-18",
       "end_date": "2029-12-17"
-    },
-    {
-      "id": "CONT_AWD_89303026FIM000191_8900_89303025AIM000023_8900",
-      "award_id": "89303026FIM000191",
-      "recipient": "ACCENTURE FEDERAL SERVICES LLC",
-      "amount": 4823209.82,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "THE OVERALL OBJECTIVE OF THE PROPOSED PROGRAM IS TO PROVIDE A COMPREHENSIVE CAPABILITY TO DELIVER HIGH QUALITY TRANSITION MANAGEMENT, PROGRAM MANAGEMENT, PERFORMANCE MANAGEMENT, COMMUNICATIONS, ENGAGEMENT, INNOVATION MANAGEMENT, SPECIAL PROJECTS AND",
-      "start_date": "2026-01-21",
-      "end_date": "2027-01-20"
     },
     {
       "id": "CONT_AWD_89303026FIM000188_8900_89303025AIM000023_8900",
@@ -3468,26 +3369,15 @@
       "end_date": "2027-01-31"
     },
     {
-      "id": "CONT_AWD_89303026FEI400163_8900_89303024DEI000003_8900",
-      "award_id": "89303026FEI400163",
-      "recipient": "EDGEWATER FEDERAL SOLUTIONS, INC.",
-      "amount": 8725000,
+      "id": "CONT_AWD_89303026CIM000014_8900_-NONE-_-NONE-",
+      "award_id": "89303026CIM000014",
+      "recipient": "KONIAG EMERGING TECHNOLOGIES LLC",
+      "amount": 7855836.13,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "U. S. ENERGY INFORMATION ADMINISTRATION (EIA), OFFICE OF RESOURCE AND TECHNOLOGY MANAGEMENT (ORTM)T ENERGY INFORMATION ADMINISTRATION OMNIBUS PROCUREMENT (EOP) V TASK ORDER FOR SYSTEMS DEVELOPMENT, MAINTENANCE, AND TECHNICAL SUPPORT.",
-      "start_date": "2026-02-11",
-      "end_date": "2027-01-18"
-    },
-    {
-      "id": "CONT_AWD_89303026FEI000066_8900_89303022AIM000015_8900",
-      "award_id": "89303026FEI000066",
-      "recipient": "AFFIGENT, LLC",
-      "amount": 192000,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "THE U.S. ENERGY INFORMATION ADMINISTRATION (EIA), OFFICE OF RESOURCES AND TECHNOLOGY MANAGEMENT (ORTM), OFFICE OF ACQUISITION MANAGEMENT (OAM) AGENCY CATALOG ORDER UNDER AFFIGENT NASA SEWP CATALOG'S FOR ANNUAL ORACLE CLOUD INFRASTRUCTURE (OCI) S",
-      "start_date": "2026-08-28",
-      "end_date": "2027-09-01"
+      "description": "SERVICES ENCOMPASS A WIDE RANGE OF ADMINISTRATIVE, FINANCIAL, AND TECHNICAL SUPPORT FUNCTIONS FOR OCIO.",
+      "start_date": "2026-06-22",
+      "end_date": "2027-06-21"
     },
     {
       "id": "CONT_AWD_89303025FIM000170_8900_89303019AIM000005_8900",
@@ -3501,6 +3391,17 @@
       "end_date": "2027-02-27"
     },
     {
+      "id": "CONT_AWD_89303025FGD000008_8900_89303018ACF000008_8900",
+      "award_id": "89303025FGD000008",
+      "recipient": "BGRS RELOCATION INC",
+      "amount": 5404.48,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "PCS RELOCATION JAMES BRIONES",
+      "start_date": "2025-09-02",
+      "end_date": "2025-10-10"
+    },
+    {
       "id": "CONT_AWD_89303025COP000004_8900_-NONE-_-NONE-",
       "award_id": "89303025COP000004",
       "recipient": "BLOOMBERG FINANCE LP",
@@ -3512,15 +3413,15 @@
       "end_date": "2030-08-04"
     },
     {
-      "id": "CONT_AWD_89303025CET000023_8900_-NONE-_-NONE-",
-      "award_id": "89303025CET000023",
-      "recipient": "GOLDEN TECH SYSTEMS INC",
-      "amount": 1713767.06,
+      "id": "CONT_AWD_89303025CCF000025_8900_-NONE-_-NONE-",
+      "award_id": "89303025CCF000025",
+      "recipient": "CHICKASAW SERVICE SOLUTIONS, LLC",
+      "amount": 2827937.08,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "OPERATION & MAINTENANCE OF THE PHYSICAL ACCESS CONTROL SYSTEM/FACILITIES AND ADMINISTRATIVE SECURITY SUPPORT",
-      "start_date": "2024-12-19",
-      "end_date": "2027-09-22"
+      "description": "REQUISITION - FOLLOW-ON T&M CONTRACT FOR FINANCIAL MANAGEMENT SUPPORT SERVICES WITH CHICKASAW SERVICE SOLUTIONS (CSS)",
+      "start_date": "2025-03-29",
+      "end_date": "2027-03-31"
     },
     {
       "id": "CONT_AWD_89303024PEI000111_8900_-NONE-_-NONE-",
@@ -3556,26 +3457,26 @@
       "end_date": "2027-05-28"
     },
     {
-      "id": "CONT_AWD_89303024FGD400006_8900_GS07F0644W_4730",
-      "award_id": "89303024FGD400006",
-      "recipient": "522 PRODUCTIONS, LLC",
-      "amount": 142448.54,
+      "id": "CONT_AWD_89303024FIM000148_8900_89303022AIM000014_8900",
+      "award_id": "89303024FIM000148",
+      "recipient": "V3GATE, LLC",
+      "amount": 15160773.43,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "VIDEO SERIES TO REACH A MORE GENERALIZED PUBLIC AUDIENCE TO DEMONSTRATE HOW DOE'S GRID DEPLOYMENT OFFICE'S (GDO) EFFORTS TO PROMOTE A MORE RESILIENT GRID IS HELPING AMERICA.",
-      "start_date": "2024-06-06",
-      "end_date": "2026-08-06"
+      "description": "ESTABLISH DELIVERY ORDER # 89303024FIM000148 FOR IM-60 AWS CLOUD SERVICES.",
+      "start_date": "2024-05-01",
+      "end_date": "2027-04-30"
     },
     {
-      "id": "CONT_AWD_89303024CMA000125_8900_-NONE-_-NONE-",
-      "award_id": "89303024CMA000125",
-      "recipient": "ARTICUS SOLUTIONS LLC",
-      "amount": 681548.84,
+      "id": "CONT_AWD_89303024FIM000147_8900_89303019AIM000005_8900",
+      "award_id": "89303024FIM000147",
+      "recipient": "ACCENTURE FEDERAL SERVICES LLC",
+      "amount": 19924711.24,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "REQUISITION 24MA000647 WAS ISSUED FOR PROCESSING, MANAGEMENT, AND ACCOUNTABILITY OF OFFICIAL AND DIPLOMATIC PASSPORTS FOR ALL DOE EMPLOYEES AT HQS & FIELD SITES ACROSS THE US AND OVERSEAS ASSIGNMENTS PURSUANT TO FEDERAL LAWS AND REGULATIONS GOVER",
-      "start_date": "2024-08-28",
-      "end_date": "2027-08-31"
+      "description": "CHIEF INFORMATION OFFICER BUSINESS OPERATIONS SUPPORT SERVICES (CBOSS), BPA ORDE FOR THE U.S. DEPARTMENT OF ENERGY (DOE), IM-50 ARCHITECTURE ENGINEER AND TECHNOLOGY SUPPORT.",
+      "start_date": "2024-04-29",
+      "end_date": "2027-04-28"
     },
     {
       "id": "CONT_AWD_89303024CMA000111_8900_-NONE-_-NONE-",
@@ -3600,6 +3501,17 @@
       "end_date": "2027-03-31"
     },
     {
+      "id": "CONT_AWD_89303023FSE000003_8900_89303023ASE000001_8900",
+      "award_id": "89303023FSE000003",
+      "recipient": "ICF INCORPORATED, L.L.C.",
+      "amount": 4811680.17,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "ORDER 89303023FSE000003 UNDER U.S. DEPARTMENT OF ENERGY'S (DOE) THIRD-PARTY REBATE ADMINISTRATION BLANKET PURCHASE AGREEMENT (BPA) 89303023ASE00001 FOR THE OFFICE OF STATE AND COMMUNITY ENERGY PROGRAMS (SCEP) BIPARTISAN INFRASTRUCTURE LAW (BIL)",
+      "start_date": "2023-08-25",
+      "end_date": "2027-07-31"
+    },
+    {
       "id": "CONT_AWD_89303023FSE000002_8900_89303019AIM000005_8900",
       "award_id": "89303023FSE000002",
       "recipient": "ACCENTURE FEDERAL SERVICES LLC",
@@ -3620,6 +3532,17 @@
       "description": "THE PURPOSE OF THIS REQUIREMENT IS TO PROVIDE PROCUREMENT SERVICES FOR THE OFFICE OF THE GRID DEPLOYMENT OFFICE AND THE LOAN PROGRAM OFFICE. THE PERIOD OF PERFORMANCE IS ONE BASE YEAR WITH FOUR OPTION PERIODS.",
       "start_date": "2023-08-25",
       "end_date": "2027-08-24"
+    },
+    {
+      "id": "CONT_AWD_89303023FEE000014_8900_89303019AIM000005_8900",
+      "award_id": "89303023FEE000014",
+      "recipient": "ACCENTURE FEDERAL SERVICES LLC",
+      "amount": 7996930.91,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "THE PASSAGE OF THE BIPARTISAN INFRASTRUCTURE LAW (BIL) PROVIDED THE DOE $62 BILLION IN ADDITIONAL FUNDING AND HAS LED TO THE REORGANIZATION OF SEVERAL DOE OFFICES. THE OFFICE OF THE UNDER SECRETARY FOR INFRASTRUCTURE (S3) AND THE OFFICE OF THE UNDER",
+      "start_date": "2023-06-05",
+      "end_date": "2027-06-04"
     },
     {
       "id": "CONT_AWD_89303022PEI000089_8900_-NONE-_-NONE-",
@@ -3644,15 +3567,15 @@
       "end_date": "2026-09-29"
     },
     {
-      "id": "CONT_AWD_89303022FIM000088_8900_89303019AIM000005_8900",
-      "award_id": "89303022FIM000088",
+      "id": "CONT_AWD_89303022FIM000081_8900_89303019AIM000005_8900",
+      "award_id": "89303022FIM000081",
       "recipient": "ACCENTURE FEDERAL SERVICES LLC",
-      "amount": 333442864.91,
+      "amount": 8235766.55,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "BPA ORDER 34, CONSOLIDATED SUPPORT SERVICES/ITIL ALIGNMENT ISSUED UNDER MASTER BPA NUMBER 89303019AIM000005",
-      "start_date": "2022-09-01",
-      "end_date": "2026-12-31"
+      "description": "THIS BPA CALL ORDER IS ISSUED UNDER MASTER BPA 89303019AIM000005 FOR BPA ORDER 89303022FIM000080 - IM-30 AND IM 50 ISSO SERVICE SUPPORT",
+      "start_date": "2022-04-29",
+      "end_date": "2026-10-28"
     },
     {
       "id": "CONT_AWD_89303022FEI400111_8900_47QRAA19D0029_4732",
@@ -3675,6 +3598,17 @@
       "description": "STRIPES - PRISM SOFTWARE LICENSES, ADMINISTRATION AND MAINTENANCE SUPPORT",
       "start_date": "2022-09-25",
       "end_date": "2027-09-24"
+    },
+    {
+      "id": "CONT_AWD_89303022FCF000025_8900_89303020ACF000009_8900",
+      "award_id": "89303022FCF000025",
+      "recipient": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+      "amount": 2407280.39,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "IN GENERAL, THE CONTRACTOR SHALL PROVIDE PROJECT MANAGEMENT APPLICATION MANAGEMENT SOFTWARE DEVELOPMENT/RELEASE MANAGEMENT SOFTWARE CHANGE MANAGEMENT ORGANIZATIONAL CHANGE MANAGEMENT INFRASTRUCTURE SUPPORT SECURITY/CYBER SUPPORT HELP DESK SUP",
+      "start_date": "2022-03-24",
+      "end_date": "2028-01-21"
     },
     {
       "id": "CONT_AWD_89303021FIM400058_8900_GS00Q17NSD3009_4732",
@@ -3721,6 +3655,17 @@
       "end_date": "2027-04-30"
     },
     {
+      "id": "CONT_AWD_89303021FIM400048_8900_GS00Q17NSD3000_4732",
+      "award_id": "89303021FIM400048",
+      "recipient": "AT&T ENTERPRISES, LLC",
+      "amount": 5319863.31,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "THE DOE REQUIRES DATA SERVICES TO SUPPORT HQ BASED OPERATIONS AND FIELD SITE ORGANIZATIONS (PRIMARILY CONTINENTAL UNITED STATES (CONUS) WITH A LIMITED NUMBER OF OUTSIDE CONUS (OCONUS) LOCATIONS (HAWAII, ENGLAND, AND JAPAN). THIS INCLUDES BUT IS NOT L",
+      "start_date": "2021-08-02",
+      "end_date": "2027-04-30"
+    },
+    {
       "id": "CONT_AWD_89303021FCR000002_8900_89303019AIM000005_8900",
       "award_id": "89303021FCR000002",
       "recipient": "ACCENTURE FEDERAL SERVICES LLC",
@@ -3730,17 +3675,6 @@
       "description": "TASK ORDER NUMBER 89303021FCR000002, ISSUED UNDER THE CIO BUSINESS OPERATIONS SUPPORT SERVICES (CBOSS), BLANKET PURCHASE AGREEMENT (BPA) NUMBER 89303019AIM000005, FOR OPERATIONAL, TECHNICAL, ADVISORY, AND OTHER SUPPORT SERVICES FOR THE OFFICE OF CYBE",
       "start_date": "2020-12-17",
       "end_date": "2026-09-03"
-    },
-    {
-      "id": "CONT_AWD_89303020CEA000004_8900_-NONE-_-NONE-",
-      "award_id": "89303020CEA000004",
-      "recipient": "UNWIN CO",
-      "amount": 213640542.3,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "THE CONTRACTOR SHALL PROVIDE TECHNICAL AND ADMINISTRATIVE SUPPORT TO THE OFFICE OF ENTERPRISE ASSESSMENT IN SUPPORT OF ITS MISSION TO PROVIDE THE SECRETARY OF ENERGY AND SENIOR DEPARTMENT OF ENERGY MANAGERS WITH AN INDEPENDENT ASSESSMENT OF THE EFFEC",
-      "start_date": "2020-02-21",
-      "end_date": "2026-08-28"
     },
     {
       "id": "CONT_AWD_89303019FMA400212_8900_GS00F103DA_4732",
@@ -3776,28 +3710,6 @@
       "end_date": "2025-01-27"
     },
     {
-      "id": "CONT_AWD_89243625FCD000014_8900_47QRAA21D003Y_4732",
-      "award_id": "89243625FCD000014",
-      "recipient": "PROFESSIONAL VETS CONSULTING GROUP, LLC",
-      "amount": 1254967.64,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "PROGRAM MANAGEMENT SUPPORT",
-      "start_date": "2025-06-27",
-      "end_date": "2027-06-29"
-    },
-    {
-      "id": "CONT_AWD_89243525CCR000073_8900_-NONE-_-NONE-",
-      "award_id": "89243525CCR000073",
-      "recipient": "STRATEGIC STORAGE PARTNERS, LLC.",
-      "amount": 430086546.47,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "MANAGEMENT AND OPERATION OF THE STRATEGIC PETROLEUM RESERVE FACILITIES",
-      "start_date": "2025-04-15",
-      "end_date": "2030-11-23"
-    },
-    {
       "id": "CONT_AWD_89243518CFE000004_8900_-NONE-_-NONE-",
       "award_id": "89243518CFE000004",
       "recipient": "SUNOCO PARTNERS MARKETING & TERMINALS L.P.",
@@ -3807,6 +3719,28 @@
       "description": "SPR WEST HACKBERRY AND BIG HILL CRUDE OIL/CRUDE PETROLEUM DISTRIBUTION&TERMINALLING SERVICES",
       "start_date": "2018-10-01",
       "end_date": "2027-09-30"
+    },
+    {
+      "id": "CONT_AWD_89243426FEE000582_8900_89303025AIM000023_8900",
+      "award_id": "89243426FEE000582",
+      "recipient": "ACCENTURE FEDERAL SERVICES LLC",
+      "amount": 454662.3,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "ORDER FOR THE DOE CRITICAL MINERALS AND ENERGY INNOVATION (CMEI) CIO BUSINESS OPERATIONS SUPPORT SERVICES (CBOSS) 2.0 - BUILDING TECHNOLOGIES OFFICE (BTO) WEBSITE MAINTENANCE - BASE YEAR",
+      "start_date": "2026-04-17",
+      "end_date": "2027-04-16"
+    },
+    {
+      "id": "CONT_AWD_89243426FEE000581_8900_89303025AIM000023_8900",
+      "award_id": "89243426FEE000581",
+      "recipient": "ACCENTURE FEDERAL SERVICES LLC",
+      "amount": 500173.42,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "ORDER FOR THE DOE CRITICAL MINERALS AND ENERGY INNOVATION (CMEI) CIO BUSINESS OPERATIONS SUPPORT SERVICES (CBOSS) 2.0 - CMEI EXTERNAL AFFAIRS - BASE YEAR",
+      "start_date": "2026-04-01",
+      "end_date": "2027-03-31"
     },
     {
       "id": "CONT_AWD_89243426FEE000580_8900_89303025AIM000023_8900",
@@ -3831,6 +3765,28 @@
       "end_date": "2026-04-30"
     },
     {
+      "id": "CONT_AWD_89243425FEE000475_8900_89243423AEE000008_8900",
+      "award_id": "89243425FEE000475",
+      "recipient": "ENERGY TECHNOLOGY ALLIANCE LLC",
+      "amount": 1421691.02,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "SCIENTIFIC, ENGINEERING AND TECHNICAL SUPPORT (SETS) FOR THE GEOTHERMAL TECHNOLOGY OFFICE (GTO).",
+      "start_date": "2025-04-25",
+      "end_date": "2027-04-30"
+    },
+    {
+      "id": "CONT_AWD_89243423FEE000261_8900_89303019AIM000005_8900",
+      "award_id": "89243423FEE000261",
+      "recipient": "ACCENTURE FEDERAL SERVICES LLC",
+      "amount": 11915130.28,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "ORDER FOR THE DOE EERE CIO BUSINESS OPERATIONS SUPPORT SERVICES (CBOSS) FOR THE INFORMATION TECHNOLOGY SUPPORT OFFICE (ITSO) GENERAL DYNAMICS INFORMATION TECHNOLOGY OFFICE.",
+      "start_date": "2023-06-30",
+      "end_date": "2027-06-30"
+    },
+    {
       "id": "CONT_AWD_89243423FEE000260_8900_89303019AIM000005_8900",
       "award_id": "89243423FEE000260",
       "recipient": "ACCENTURE FEDERAL SERVICES LLC",
@@ -3853,15 +3809,15 @@
       "end_date": "2026-09-20"
     },
     {
-      "id": "CONT_AWD_89243419FEE400087_8900_GS10F0255L_4730",
-      "award_id": "89243419FEE400087",
-      "recipient": "EMP2, INC.",
-      "amount": 24557.88,
+      "id": "CONT_AWD_89243422FEE400297_8900_GS00Q14OADU308_4732",
+      "award_id": "89243422FEE400297",
+      "recipient": "BOOZ ALLEN HAMILTON INC",
+      "amount": 1497491.59,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "FEDERAL ENERGY MANAGEMENT PROGRAM (FEMP) PROJECT FACILITATION (PF) SERVICES FOR ENERGY SAVINGS PERFORMANCE CONTRACT (ESPC) PROJECT PF 498B, GENERAL SERVICES ADMINISTRATION (GSA) NATIONAL DEEP ENERGY RETROFIT (NDER) 4 PROJECT 2, REGION 4 (R4), MULTI",
-      "start_date": "2019-07-19",
-      "end_date": "2025-01-18"
+      "description": "NEW MARINE ENERGY INDEPENDENT ENGINEERING (IE)TASK ORDER FOR DOE, EERE WATER POWER TECHNOLOGIES OFFICE (WPTO).",
+      "start_date": "2022-07-08",
+      "end_date": "2025-07-07"
     },
     {
       "id": "CONT_AWD_89243326PFE001006_8900_-NONE-_-NONE-",
@@ -3908,37 +3864,15 @@
       "end_date": "2026-12-30"
     },
     {
-      "id": "CONT_AWD_89243326FFE400805_8900_NNG15SD60B_8000",
-      "award_id": "89243326FFE400805",
-      "recipient": "ADVANCED COMPUTER CONCEPTS, INC.",
-      "amount": 111809.45,
+      "id": "CONT_AWD_89243326PFE000976_8900_-NONE-_-NONE-",
+      "award_id": "89243326PFE000976",
+      "recipient": "GEOTEK LIMITED",
+      "amount": 113785,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "IRA NVIDIA SWITCHES, TRANSCEIVERS, AND ACCESSORIES",
-      "start_date": "2026-08-28",
-      "end_date": "2027-06-11"
-    },
-    {
-      "id": "CONT_AWD_89243326FFE400802_8900_NNG15SD37B_8000",
-      "award_id": "89243326FFE400802",
-      "recipient": "METGREEN SOLUTIONS INC",
-      "amount": 292227.8,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "SPLUNK CLOUD SUBSCRIPTION RENEWAL FOR POP 9/27/26-9/26/27.",
-      "start_date": "2026-09-27",
-      "end_date": "2027-09-26"
-    },
-    {
-      "id": "CONT_AWD_89243325FFE400652_8900_HHSN316201600006W_7529",
-      "award_id": "89243325FFE400652",
-      "recipient": "MAXIMUS FEDERAL SERVICES, INC.",
-      "amount": 40772147.4,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "INFORMATION TECHNOLOGY SUPPORT SERVICES 2 (ITSS2): THE PURPOSE OF THE ITSS2 CONTRACT IS TO PROVIDE SUPPORT FOR IT OPERATION AND MAINTENANCE FUNCTIONS, INCLUSIVE OF ENTERPRISE IT, CYBERSECURITY, AND RESEARCH IT, AS WELL AS ALLOW FOR ACQUISITION OF SPE",
-      "start_date": "2025-05-01",
-      "end_date": "2028-04-30"
+      "description": "GEOTEK LTD. PURCHASE OF UPGRADE PARTS, INSTALLATIONS AND TRAINING",
+      "start_date": "2026-09-03",
+      "end_date": "2026-11-02"
     },
     {
       "id": "CONT_AWD_89243324FFE400598_8900_47PA0419D0009_4740",
@@ -3961,6 +3895,17 @@
       "description": "STANDARD NATURAL GAS UTILITY SERVICE AT NETL PITTSBURGH, PA (10/01/2023 - 09/30/2025)",
       "start_date": "2023-10-01",
       "end_date": "2027-03-31"
+    },
+    {
+      "id": "CONT_AWD_89243323CFE000075_8900_-NONE-_-NONE-",
+      "award_id": "89243323CFE000075",
+      "recipient": "KEYLOGIC, LLC",
+      "amount": 171529947,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "STRATEGIC ANALYSIS SUPPORT SERVICES",
+      "start_date": "2023-02-01",
+      "end_date": "2028-01-31"
     },
     {
       "id": "CONT_AWD_89243318CFE000003_8900_-NONE-_-NONE-",
@@ -3994,17 +3939,6 @@
       "description": "SECURITY SUPPORT SERVICES FOR THE FORT SAINT VRAIN (FSV) INDEPENDENT SPENT FUEL STORAGE INSTALLATION (ISFSI).",
       "start_date": "2021-10-01",
       "end_date": "2027-03-31"
-    },
-    {
-      "id": "CONT_AWD_89243126FSC400871_8900_NNG15SC33B_8000",
-      "award_id": "89243126FSC400871",
-      "recipient": "EMERGENT, LLC",
-      "amount": 1811671.5,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "CROWDSTRIKE, INC. ENTERPRISE LICENSE AGREEMENT (ELA) - SC LABS",
-      "start_date": "2026-06-01",
-      "end_date": "2027-05-30"
     },
     {
       "id": "CONT_AWD_89243126CSC000207_8900_-NONE-_-NONE-",
@@ -4117,6 +4051,17 @@
       "end_date": "2027-06-30"
     },
     {
+      "id": "CONT_AWD_89233126FNA400819_8900_47QSWA18D008F_4732",
+      "award_id": "89233126FNA400819",
+      "recipient": "CARAHSOFT TECHNOLOGY CORP",
+      "amount": 61253.2,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "EMPLOYEE RETENTION SOFTWARE (NA-HR)",
+      "start_date": "2026-08-27",
+      "end_date": "2027-09-02"
+    },
+    {
       "id": "CONT_AWD_89233126FNA400813_8900_89233126DNA000082_8900",
       "award_id": "89233126FNA400813",
       "recipient": "ATLANTIC DIVING SUPPLY, INC.",
@@ -4172,6 +4117,28 @@
       "end_date": "2028-09-30"
     },
     {
+      "id": "CONT_AWD_89233126FNA400744_8900_GS00F0004U_4730",
+      "award_id": "89233126FNA400744",
+      "recipient": "VECTOR RESOURCE INC",
+      "amount": 961717.81,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "BUSINESS AND ADMINISTRATIVE SUPPORT SERVICES FOR SAVANNAH RIVER FIELD OFFICE NA-SV",
+      "start_date": "2025-11-30",
+      "end_date": "2026-11-29"
+    },
+    {
+      "id": "CONT_AWD_89233126FNA000241_8900_89233124ANA000024_8900",
+      "award_id": "89233126FNA000241",
+      "recipient": "FACILITY INTERIORS, INC.",
+      "amount": 84475.39,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "NA-PAS-315 CONTRACTING OFFICER TO PLACE A BPA CALL ORDER TO PROVIDE NNSA CHAIRS IAW ATTACHMENT 1 F-QTE_2N22672.018_ND26-1671.",
+      "start_date": "2026-09-03",
+      "end_date": "2029-02-07"
+    },
+    {
       "id": "CONT_AWD_89233126FNA000228_8900_89303022AGC000007_8900",
       "award_id": "89233126FNA000228",
       "recipient": "S C & A INC",
@@ -4183,15 +4150,15 @@
       "end_date": "2027-07-12"
     },
     {
-      "id": "CONT_AWD_89233126FNA000215_8900_89303024ACF000015_8900",
-      "award_id": "89233126FNA000215",
-      "recipient": "BGRS RELOCATION INC",
-      "amount": 10875.26,
+      "id": "CONT_AWD_89233126CNA000439_8900_-NONE-_-NONE-",
+      "award_id": "89233126CNA000439",
+      "recipient": "S & K FEDERAL SERVICES LLC",
+      "amount": 644832,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "PCS RELOCATION NICHOLAS CARLSON",
-      "start_date": "2026-04-27",
-      "end_date": "2028-06-27"
+      "description": "THE DEPARTMENT OF ENERGY (DOE) NATIONAL NUCLEAR SECURITY ADMINISTRATION (NNSA) REQUIRES ADMINISTRATIVE AND PROGRAMMATIC SERVICES AT THE SAVANNAH RIVER FIELD OFFICE (SRFO).",
+      "start_date": "2026-03-15",
+      "end_date": "2027-03-14"
     },
     {
       "id": "CONT_AWD_89233126CNA000437_8900_-NONE-_-NONE-",
@@ -4238,15 +4205,15 @@
       "end_date": "2026-09-17"
     },
     {
-      "id": "CONT_AWD_89233125FNA400679_8900_GS00F243CA_4732",
-      "award_id": "89233125FNA400679",
-      "recipient": "MELE ASSOCIATES INC",
-      "amount": 20331679.97,
+      "id": "CONT_AWD_89233125FNA400723_8900_47QRAA18D001P_4732",
+      "award_id": "89233125FNA400723",
+      "recipient": "DELOITTE CONSULTING LLP",
+      "amount": 39978800.64,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "DEPARTMENT OF ENERGY, NATIONAL NUCLEAR SECURITY ADMINISTRATION OFFICE OF COUNTERTERRORISM AND COUNTERPROLIFERATION VAULT ACTIVITIES AND TECHNICAL SUPPORT SERVICES",
-      "start_date": "2025-03-04",
-      "end_date": "2026-12-05"
+      "description": "CYBER ENTERPRISE SECURITY OPERATIONS CENTER",
+      "start_date": "2025-09-30",
+      "end_date": "2027-09-29"
     },
     {
       "id": "CONT_AWD_89233125FNA400660_8900_GS00F301DA_4732",
@@ -4258,6 +4225,17 @@
       "description": "U.S. DEPARTMENT OF ENERGY NATIONAL NUCLEAR SECURITY ADMINISTRATION (DOE/NNSA) OFFICE OF DEFENSE NUCLEAR SECURITY (NA-70)OPERATIONAL/ADMINISTRATIVE BUSINESS SUPPORT SERVICES",
       "start_date": "2025-01-02",
       "end_date": "2026-10-05"
+    },
+    {
+      "id": "CONT_AWD_89233125FNA000186_8900_89233125ANA000030_8900",
+      "award_id": "89233125FNA000186",
+      "recipient": "\"ALUTIIQ LOGISTICS & MAINTENANCE SERVICES, LLC\"",
+      "amount": 14557186.37,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "THE CONTRACTOR WILL PROVIDE FACILITY SUPPORT SERVICES FOR SANDIA FIELD OFFICE, ALBUQUERQUE, NEW MEXICO.",
+      "start_date": "2025-04-03",
+      "end_date": "2027-04-02"
     },
     {
       "id": "CONT_AWD_89233125CNA000421_8900_-NONE-_-NONE-",
@@ -4282,26 +4260,15 @@
       "end_date": "2027-09-30"
     },
     {
-      "id": "CONT_AWD_89233124CNA000367_8900_-NONE-_-NONE-",
-      "award_id": "89233124CNA000367",
-      "recipient": "THE MITRE CORPORATION",
-      "amount": 2515000,
+      "id": "CONT_AWD_89233124FNA400565_8900_GS00F0014Y_4732",
+      "award_id": "89233124FNA400565",
+      "recipient": "JGMS GOVERNMENT SERVICES LLC",
+      "amount": 1223799.52,
       "agency": "Department of Energy",
       "naics": null,
-      "description": "OFFICE OF DEFENSE PROGRAMS  NA-121.4 NUCLEAR ENTERPISE ASSURANCE THE MITRE CORPORATION FFRDC",
-      "start_date": "2024-07-19",
-      "end_date": "2027-07-18"
-    },
-    {
-      "id": "CONT_AWD_89233124CNA000332_8900_-NONE-_-NONE-",
-      "award_id": "89233124CNA000332",
-      "recipient": "BRIC PERIKIN JV, LLC",
-      "amount": 19048474.4,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "FINANCIAL, ADMINISTRATIVE, TECHNICAL, CONTRACT PROPERTY, AND PROGRAMMATIC SUPPORT SERVICES FOR THE DOE/NNSA OFFICE OF GLOBAL MATERIAL SECURITY (NA-21)",
-      "start_date": "2024-01-04",
-      "end_date": "2027-03-31"
+      "description": "THE CONTRACTOR SHALL PROVIDE THE NECESSARY PROFESSIONAL LABOR, MATERIALS, EQUIPMENT, FACILITIES, AND MANAGEMENT NECESSARY TO PROVIDE SERVICES. SCOPE INCLUDES TECHNICAL SUPPORT RELEVANT TO FACILITY ENGINEERING AND MANAGEMENT ACTIVITIES INCLUDING OST C",
+      "start_date": "2023-09-14",
+      "end_date": "2028-09-13"
     },
     {
       "id": "CONT_AWD_89233123FNA000132_8900_89233222ANA000004_8900",
@@ -4335,6 +4302,17 @@
       "description": "SUPPORT FOR REAL ESTATE ACQUISITION",
       "start_date": "2022-09-13",
       "end_date": "2027-03-12"
+    },
+    {
+      "id": "CONT_AWD_89233122FNA400487_8900_89233121DNA000033_8900",
+      "award_id": "89233122FNA400487",
+      "recipient": "WULCO, INC.",
+      "amount": 20522947.03,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "THIS DELIVERY ORDER IS FOR THE DELIVERY OF CLIN 002 (EV4-U PRODUCTION UNITS) AND CLIN 0003 (PROCURE CHASSIS).  THE ORDER QUANTITIES ARE AS FOLLOWS:  BEST ESTIMATED QTY: 4 EA MAXIMUM QTY: 8 EA",
+      "start_date": "2022-09-27",
+      "end_date": "2026-09-30"
     },
     {
       "id": "CONT_AWD_89233122FNA400419_8900_75N98119D00059_7529",
@@ -4414,6 +4392,17 @@
       "end_date": "2026-10-30"
     },
     {
+      "id": "CONT_AWD_88310326P00015_8800_-NONE-_-NONE-",
+      "award_id": "88310326P00015",
+      "recipient": "MOBILEFRAME CORP",
+      "amount": 22281,
+      "agency": "National Archives and Records Administration",
+      "naics": null,
+      "description": "MOBILEFRAME MAINT. & SUPPORT (BASE YEAR)",
+      "start_date": "2026-07-23",
+      "end_date": "2027-09-12"
+    },
+    {
       "id": "CONT_AWD_88310326F00197_8800_GS35F259DA_4732",
       "award_id": "88310326F00197",
       "recipient": "F-CONCEPTS, INC.",
@@ -4422,17 +4411,6 @@
       "naics": null,
       "description": "WIFI DEPLOYMENT AT 6 FRCPS",
       "start_date": "2026-08-31",
-      "end_date": "2026-12-31"
-    },
-    {
-      "id": "CONT_AWD_88310326F00195_8800_47QSHA19D0044_4732",
-      "award_id": "88310326F00195",
-      "recipient": "EMCOR GOVERNMENT SERVICES, INC",
-      "amount": 96975.84,
-      "agency": "National Archives and Records Administration",
-      "naics": null,
-      "description": "AHU-41 AND AHU-48 AT ARCHIVES II - REPLACE DEFECTIVE STEAM HEATING COILS AT COLLEGE PARK, MD, UNDER EMCOR ADDITIONAL SERVICES CONTRACT 47QSHA19D0044. FIRM-FIXED-PRICE AWARD OF $96,975.84.",
-      "start_date": "2026-08-28",
       "end_date": "2026-12-31"
     },
     {
@@ -4445,6 +4423,28 @@
       "description": "EDAC BPA 25A00021 - BPA CALL FOR SCANNERS AND CONSUMABLES",
       "start_date": "2026-08-31",
       "end_date": "2027-06-12"
+    },
+    {
+      "id": "CONT_AWD_88310325F00270_8800_88310320D00005_8800",
+      "award_id": "88310325F00270",
+      "recipient": "SMITHGROUP, INC.",
+      "amount": 180190.32,
+      "agency": "National Archives and Records Administration",
+      "naics": null,
+      "description": "THE PURPOSE OF THIS TASK ORDER FOR THE SMITH GROUP AE IDIQ IS TO OBLIGATE ADDITIONAL FUNDS FOR THE AHU-1 REPLACEMENT PROJECT, ADA ACCESSIBILITY UPGRADES, AND EMERGENCY ELECTRICAL UPGRADES AT THE HERBERT HOOVER PRESIDENTIAL LIBRARY AND MUSEUM.",
+      "start_date": "2025-09-16",
+      "end_date": "2026-09-30"
+    },
+    {
+      "id": "CONT_AWD_88310325F00217_8800_47QSWA20D006C_4732",
+      "award_id": "88310325F00217",
+      "recipient": "ALLIANCE DETECTIVE & SECURITY SERVICE, INC.",
+      "amount": 2257364.31,
+      "agency": "National Archives and Records Administration",
+      "naics": null,
+      "description": "AWARD A NEW TASK ORDER FOR SECURITY GUARD SERVICES AT THE JOHN F. KENNEDY LIBRARY.",
+      "start_date": "2025-08-01",
+      "end_date": "2030-07-31"
     },
     {
       "id": "CONT_AWD_88310325F00111_8800_47QSHA21D000D_4732",
@@ -4590,6 +4590,17 @@
       "end_date": "2027-08-31"
     },
     {
+      "id": "CONT_AWD_86615625F00009_8600_47QRAA20D001V_4732",
+      "award_id": "86615625F00009",
+      "recipient": "SAVALAN LLC",
+      "amount": 1308652.4,
+      "agency": "Department of Housing and Urban Development",
+      "naics": null,
+      "description": "RISK MANAGEMENT ANALYSIS SERVICES",
+      "start_date": "2025-09-30",
+      "end_date": "2026-09-29"
+    },
+    {
       "id": "CONT_AWD_86615625C00001_8600_-NONE-_-NONE-",
       "award_id": "86615625C00001",
       "recipient": "INSTITUTE FOR BUILDING TECHNOLOGY AND SAFETY",
@@ -4623,6 +4634,28 @@
       "end_date": "2026-10-04"
     },
     {
+      "id": "CONT_AWD_86615526F00012_8600_GS35F110DA_4732",
+      "award_id": "86615526F00012",
+      "recipient": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+      "amount": 5565641,
+      "agency": "Department of Housing and Urban Development",
+      "naics": null,
+      "description": "THE SECURITY OPERATIONS CENTER (SOC) WILL ENSURE GINNIE MAE'S SYSTEMS, ASSETS, AND ENCLAVES HAVE THE NECESSARY SECURITY CONTROLS.",
+      "start_date": "2026-09-02",
+      "end_date": "2027-09-07"
+    },
+    {
+      "id": "CONT_AWD_86615526F00004_8600_GS10F0329X_4732",
+      "award_id": "86615526F00004",
+      "recipient": "DYNAMIC-PRO INC.",
+      "amount": 270000,
+      "agency": "Department of Housing and Urban Development",
+      "naics": null,
+      "description": "TECHNICAL EVALUATION PANEL (TEP) CHAIR SERVICES",
+      "start_date": "2026-04-10",
+      "end_date": "2027-04-09"
+    },
+    {
       "id": "CONT_AWD_86615526F00002_8600_47QTCA24D004L_4732",
       "award_id": "86615526F00002",
       "recipient": "PALANTIR TECHNOLOGIES INC.",
@@ -4643,6 +4676,17 @@
       "description": "MODERNIZATION AND ENHANCEMENT, AND TRANSITION SUPPORT FOR THE MULTIFAMILY HOUSING (MFH) PROGRAM OFFICE.",
       "start_date": "2026-03-30",
       "end_date": "2026-12-29"
+    },
+    {
+      "id": "CONT_AWD_86615425C00018_8600_-NONE-_-NONE-",
+      "award_id": "86615425C00018",
+      "recipient": "FOUR POINTS TECHNOLOGY, L.L.C.",
+      "amount": 1192402.53,
+      "agency": "Department of Housing and Urban Development",
+      "naics": null,
+      "description": "AWS CONSUMPTION",
+      "start_date": "2025-09-30",
+      "end_date": "2026-12-31"
     },
     {
       "id": "CONT_AWD_86615424C00013_8600_-NONE-_-NONE-",
@@ -4681,7 +4725,7 @@
       "id": "CONT_AWD_86615323F00007_8600_47QTCA21D007X_4732",
       "award_id": "86615323F00007",
       "recipient": "PHOENIX OVERSIGHT GROUP LLC",
-      "amount": 32059025.55,
+      "amount": 39173603.55,
       "agency": "Department of Housing and Urban Development",
       "naics": null,
       "description": "FHA CATALYST - DEVELOPMENT, MODERNIZATION AND ENHANCEMENT (DME) SUPPORT SERVICES",
@@ -4700,6 +4744,17 @@
       "end_date": "2027-11-10"
     },
     {
+      "id": "CONT_AWD_86614326F00053_8600_86614924D00004_8600",
+      "award_id": "86614326F00053",
+      "recipient": "BAYSIDE-LEETEX JV LLC",
+      "amount": 32840.06,
+      "agency": "Department of Housing and Urban Development",
+      "naics": null,
+      "description": "SIPA I - ST. CASIMIR APARTMENTS, YONKERS, NY (CRS) - HUD",
+      "start_date": "2026-09-03",
+      "end_date": "2027-03-03"
+    },
+    {
       "id": "CONT_AWD_86614326F00052_8600_86614924D00004_8600",
       "award_id": "86614326F00052",
       "recipient": "BAYSIDE-LEETEX JV LLC",
@@ -4709,6 +4764,17 @@
       "description": "SIPA I - EDMOND ESTATES, PHENIX, AL (CRS AND EA)-FHA",
       "start_date": "2026-09-02",
       "end_date": "2027-03-02"
+    },
+    {
+      "id": "CONT_AWD_86614326F00051_8600_GS23F016AA_4732",
+      "award_id": "86614326F00051",
+      "recipient": "RMA ASSOCIATES LLC",
+      "amount": 681491.1,
+      "agency": "Department of Housing and Urban Development",
+      "naics": null,
+      "description": "SYSTEMS SECURITY CONTROLS FOR OCFO APPLICATIONS",
+      "start_date": "2026-09-27",
+      "end_date": "2027-09-26"
     },
     {
       "id": "CONT_AWD_86614326F00049_8600_86614326D00001_8600",
@@ -4766,6 +4832,17 @@
       "end_date": "2027-09-29"
     },
     {
+      "id": "CONT_AWD_83310126F0034_8300_47QRCA25DU317_4732",
+      "award_id": "83310126F0034",
+      "recipient": "SUMMIT CONSULTING LLC",
+      "amount": 149428.81,
+      "agency": "Export-Import Bank of the United States",
+      "naics": null,
+      "description": "AI REVIEW",
+      "start_date": "2026-09-20",
+      "end_date": "2027-09-19"
+    },
+    {
       "id": "CONT_AWD_83310126F0011_8300_83310126AEE02_8300",
       "award_id": "83310126F0011",
       "recipient": "GRAYADAMS CONTRACT SERVICES GROUP, LLC",
@@ -4810,28 +4887,6 @@
       "end_date": "2025-12-31"
     },
     {
-      "id": "CONT_AWD_83310125F0170_8300_83310123AD031_8300",
-      "award_id": "83310125F0170",
-      "recipient": "CTR MANAGEMENT GROUP LLC",
-      "amount": 410036.27,
-      "agency": "Export-Import Bank of the United States",
-      "naics": null,
-      "description": "HR SUPPORT SERVICES",
-      "start_date": "2025-09-01",
-      "end_date": "2026-08-31"
-    },
-    {
-      "id": "CONT_AWD_83310125F0169_8300_83310123AD032_8300",
-      "award_id": "83310125F0169",
-      "recipient": "HUMAN CAPITAL RESOURCES AND CONCEPTS, INC",
-      "amount": 435616.27,
-      "agency": "Export-Import Bank of the United States",
-      "naics": null,
-      "description": "HR SUPPORT",
-      "start_date": "2025-09-01",
-      "end_date": "2027-08-31"
-    },
-    {
       "id": "CONT_AWD_83310125F0168_8300_NNG15SD60B_8000",
       "award_id": "83310125F0168",
       "recipient": "ADVANCED COMPUTER CONCEPTS, INC.",
@@ -4841,28 +4896,6 @@
       "description": "SOFTWARE",
       "start_date": "2025-09-13",
       "end_date": "2026-09-12"
-    },
-    {
-      "id": "CONT_AWD_83310125F0148_8300_83310120A0004_8300",
-      "award_id": "83310125F0148",
-      "recipient": "PREEMPT INC",
-      "amount": 48244.58,
-      "agency": "Export-Import Bank of the United States",
-      "naics": null,
-      "description": "EEO MATTERS",
-      "start_date": "2025-02-12",
-      "end_date": "2026-02-11"
-    },
-    {
-      "id": "CONT_AWD_83310124F0118_8300_83310124AH063_8300",
-      "award_id": "83310124F0118",
-      "recipient": "MIDTOWN PERSONNEL INC.",
-      "amount": 1521803.34,
-      "agency": "Export-Import Bank of the United States",
-      "naics": null,
-      "description": "OCS SUPPORT SERVICES",
-      "start_date": "2024-08-12",
-      "end_date": "2027-08-11"
     },
     {
       "id": "CONT_AWD_83310124F0096_8300_83310123DLS15_8300",
@@ -4876,26 +4909,15 @@
       "end_date": "2029-02-23"
     },
     {
-      "id": "CONT_AWD_83310123F0085_8300_83310123AD033_8300",
-      "award_id": "83310123F0085",
-      "recipient": "PARKER TIDE LLC",
-      "amount": 378081.71,
+      "id": "CONT_AWD_83310122P0041_8300_-NONE-_-NONE-",
+      "award_id": "83310122P0041",
+      "recipient": "JOHN RIORDAN AND ASSOCIATES, LLC",
+      "amount": 15000,
       "agency": "Export-Import Bank of the United States",
       "naics": null,
-      "description": "HR SUPPORT SERVICES",
-      "start_date": "2023-09-28",
-      "end_date": "2027-09-27"
-    },
-    {
-      "id": "CONT_AWD_83310121P0030_8300_-NONE-_-NONE-",
-      "award_id": "83310121P0030",
-      "recipient": "QUILTY ANALYTICS LLC",
-      "amount": 52000,
-      "agency": "Export-Import Bank of the United States",
-      "naics": null,
-      "description": "QUILTY ANALYTICS SUBSCRIPTION",
-      "start_date": "2021-05-01",
-      "end_date": "2026-04-30"
+      "description": "OCS STRATEGIC PLANNING & TEAM DEVELOPMENT",
+      "start_date": "2022-09-30",
+      "end_date": "2023-09-29"
     },
     {
       "id": "CONT_AWD_83310120C0005_8300_-NONE-_-NONE-",
@@ -4918,17 +4940,6 @@
       "description": "BLUEHALO ROBO-MET.3D AUTOMATED SERIAL SECTIONING SYSTEM",
       "start_date": "2026-08-31",
       "end_date": "2027-02-22"
-    },
-    {
-      "id": "CONT_AWD_80TECH26P0009_8000_-NONE-_-NONE-",
-      "award_id": "80TECH26P0009",
-      "recipient": "THERMWOOD CORPORATION",
-      "amount": 420674,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "MULTI-PURPOSE 5 AXIS SERIES M67-510DT",
-      "start_date": "2026-04-30",
-      "end_date": "2027-04-16"
     },
     {
       "id": "CONT_AWD_80TECH26P0005_8000_-NONE-_-NONE-",
@@ -4962,17 +4973,6 @@
       "description": "QUINTRON BPA CO 043 - PENGUIN / STRATUS FT SERVER 600 GB HARD DRIVE / KEYSETS (KSC)",
       "start_date": "2026-08-31",
       "end_date": "2026-11-16"
-    },
-    {
-      "id": "CONT_AWD_80TECH26FA224_8000_80TECH24AA001_8000",
-      "award_id": "80TECH26FA224",
-      "recipient": "QUINTRON SYSTEMS, LLC",
-      "amount": 87260,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "QUINTRON BPA CO 042 - QUINTRON TYPE 1 KEYSETS FOR JSC",
-      "start_date": "2026-08-28",
-      "end_date": "2026-11-13"
     },
     {
       "id": "CONT_AWD_80TECH26FA223_8000_80NSSC21DA001_8000",
@@ -5030,6 +5030,17 @@
       "end_date": "2027-08-30"
     },
     {
+      "id": "CONT_AWD_80TECH26F0187_8000_80TECH26A0010_8000",
+      "award_id": "80TECH26F0187",
+      "recipient": "DH TECHNOLOGIES, INC.",
+      "amount": 42396.8,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "THIS BPA CALL # 006 IS FOR THE PURCHASE OF RED HAT OPENSHIFT FOR LARC.",
+      "start_date": "2026-09-30",
+      "end_date": "2027-03-15"
+    },
+    {
       "id": "CONT_AWD_80TECH26F0186_8000_80TECH26A0003_8000",
       "award_id": "80TECH26F0186",
       "recipient": "THE MATHWORKS, INC.",
@@ -5039,61 +5050,6 @@
       "description": "THIS BPA CALL # 39 IS FOR THE RENEWAL OF MATLAB SOFTWARE MAINTENANCE FOR JSC.",
       "start_date": "2026-10-01",
       "end_date": "2027-09-30"
-    },
-    {
-      "id": "CONT_AWD_80TECH26F0185_8000_80TECH26A0002_8000",
-      "award_id": "80TECH26F0185",
-      "recipient": "STERLING COMPUTERS CORPORATION",
-      "amount": 103946.06,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "CALL ORDER #124 - ASP MTS 7725 SERVER/ARC",
-      "start_date": "2026-08-28",
-      "end_date": "2026-12-16"
-    },
-    {
-      "id": "CONT_AWD_80TECH26F0184_8000_80TECH25A0001_8000",
-      "award_id": "80TECH26F0184",
-      "recipient": "COUNTERTRADE PRODUCTS, INC.",
-      "amount": 102307.1,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "CALL ORDER #123 - POWEREDGE R360 RACK SERVER",
-      "start_date": "2026-08-28",
-      "end_date": "2026-09-25"
-    },
-    {
-      "id": "CONT_AWD_80TECH26F0183_8000_80TECH25A0005_8000",
-      "award_id": "80TECH26F0183",
-      "recipient": "RED RIVER TECHNOLOGY LLC",
-      "amount": 2234831.2,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "CALL ORDER #122 - ARTEMIS LAUNCH CONTROL SYSTEM COMMON SERVER 3.0/ KSC",
-      "start_date": "2026-08-28",
-      "end_date": "2027-03-26"
-    },
-    {
-      "id": "CONT_AWD_80TECH26F0173_8000_80TECH26A0003_8000",
-      "award_id": "80TECH26F0173",
-      "recipient": "THE MATHWORKS, INC.",
-      "amount": 18654,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "THIS BPA CALL # 37 IS FOR THE RENEWAL OF MATHWORKS SOFTWARE MAINTENANCE FOR JSC.",
-      "start_date": "2026-09-01",
-      "end_date": "2027-08-31"
-    },
-    {
-      "id": "CONT_AWD_80TECH26F0167_8000_80TECH26A0010_8000",
-      "award_id": "80TECH26F0167",
-      "recipient": "DH TECHNOLOGIES, INC.",
-      "amount": 86029.5,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "THIS BPA CALL # 5 IS FOR REDHAT ENTERPRISE LINUX SERVER FOR GSFC.",
-      "start_date": "2026-10-02",
-      "end_date": "2027-10-01"
     },
     {
       "id": "CONT_AWD_80TECH25FA463_8000_NNG15SC82B_8000",
@@ -5118,6 +5074,17 @@
       "end_date": "2026-11-30"
     },
     {
+      "id": "CONT_AWD_80SSC026F0005_8000_47PA0426D0001_4740",
+      "award_id": "80SSC026F0005",
+      "recipient": "DELTA UTILITIES SERVICES, LLC",
+      "amount": 112475.29,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "THE PURPOSE OF THIS DELIVERY ORDER IS FOR DELTA UTILITIES TO PROVIDE THE NORTHSIDE OF NASA'S JOHN C. STENNIS SPACE CENTER (SSC) WITH NATURAL GAS.",
+      "start_date": "2026-03-20",
+      "end_date": "2027-06-30"
+    },
+    {
       "id": "CONT_AWD_80SSC025FA020_8000_80SSC024AA001_8000",
       "award_id": "80SSC025FA020",
       "recipient": "DEPARTMENT OF ENVIRONMENTAL QUALITY MISSISSIPPI",
@@ -5140,15 +5107,81 @@
       "end_date": "2026-09-30"
     },
     {
-      "id": "CONT_AWD_80SSC024F0023_8000_80SSC018D0014_8000",
-      "award_id": "80SSC024F0023",
-      "recipient": "DRACE CONSTRUCTION CORP",
-      "amount": 6536077.83,
+      "id": "CONT_AWD_80NSSC26P1540_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1540",
+      "recipient": "MERIDIAN LABORATORY, INC",
+      "amount": 17545.4,
       "agency": "National Aeronautics and Space Administration",
       "naics": null,
-      "description": "SEWER SYSTEM AND CONVEYANCE, PHASE 2 AT STENNIS SPACE CENTER, MS",
-      "start_date": "2024-10-16",
-      "end_date": "2026-10-16"
+      "description": "ULTRA HIGH SPEED (20000-RPM) ROTARY ELECTRICAL CONNECTOR",
+      "start_date": "2026-09-03",
+      "end_date": "2026-12-24"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1539_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1539",
+      "recipient": "MOTION ANALYSIS CORPORATION",
+      "amount": 51624,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "MOTION ANALYSIS KESTREL PLUS 4200 DIGITAL CAMERA",
+      "start_date": "2026-09-03",
+      "end_date": "2026-10-15"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1537_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1537",
+      "recipient": "KISTLER INSTRUMENT CORPORATION",
+      "amount": 31824,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "KISTLER CHARGE AMPLIFIER SYSTEM PURCHASE",
+      "start_date": "2026-09-03",
+      "end_date": "2026-10-15"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1535_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1535",
+      "recipient": "R. S. HARRITAN & COMPANY, INC.",
+      "amount": 34117,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "PREVENTATIVE MAINTENANCE ON VACUUM PUMPS",
+      "start_date": "2026-10-01",
+      "end_date": "2026-11-30"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1533_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1533",
+      "recipient": "GLOBE TRANSMISSION CORP",
+      "amount": 21200,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "CUSTOM HELICAL GEARS FOR DRIVE MECHANISM WITHIN SMALL VACUUM CHAMBER",
+      "start_date": "2026-09-03",
+      "end_date": "2026-10-05"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1531_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1531",
+      "recipient": "FRANKLIN YOUNG INTERNATIONAL, INCORPORATED",
+      "amount": 26840,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "SARTORIUS CUBIS III AND INSTALLATION",
+      "start_date": "2026-09-03",
+      "end_date": "2026-10-03"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1530_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1530",
+      "recipient": "ELI GROUP, LLC",
+      "amount": 27500,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "ELI GROUP TRAINING",
+      "start_date": "2027-02-17",
+      "end_date": "2027-11-11"
     },
     {
       "id": "CONT_AWD_80NSSC26P1529_8000_-NONE-_-NONE-",
@@ -5173,6 +5206,39 @@
       "end_date": "2026-10-22"
     },
     {
+      "id": "CONT_AWD_80NSSC26P1527_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1527",
+      "recipient": "HIGHVAC CORP.",
+      "amount": 23062.5,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "VACUUM PUMP",
+      "start_date": "2026-09-03",
+      "end_date": "2026-09-30"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1526_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1526",
+      "recipient": "BOGGS FIRE EQUIPMENT INC",
+      "amount": 53830,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "COSEN MITERING BAND SAW C-510MNC (QTY 1)",
+      "start_date": "2026-09-03",
+      "end_date": "2026-10-03"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1525_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1525",
+      "recipient": "NEW TECH SOLUTIONS, INC.",
+      "amount": 81303.28,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "PARRAID X-5000 W/ OMEGA NEXT SOFTWARE LICENSE",
+      "start_date": "2027-01-02",
+      "end_date": "2027-01-02"
+    },
+    {
       "id": "CONT_AWD_80NSSC26P1522_8000_-NONE-_-NONE-",
       "award_id": "80NSSC26P1522",
       "recipient": "NETACQUIRE CORP",
@@ -5182,6 +5248,28 @@
       "description": "SUSTAINMENT FOR H30 SERVER IN E109 ENGINEERING LAB",
       "start_date": "2026-09-03",
       "end_date": "2026-11-30"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1520_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1520",
+      "recipient": "FRONTIER PRECISION, INC",
+      "amount": 33920.5,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "ALTA X + PILOT PRO (NDAA) ESSENTIALS KIT",
+      "start_date": "2026-09-03",
+      "end_date": "2026-09-24"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1519_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1519",
+      "recipient": "THE MATHWORKS, INC.",
+      "amount": 19200,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "MATHWORKS CONSULTING SERVICES   ELMT STANDALONE",
+      "start_date": "2026-09-03",
+      "end_date": "2027-09-03"
     },
     {
       "id": "CONT_AWD_80NSSC26P1518_8000_-NONE-_-NONE-",
@@ -5239,6 +5327,17 @@
       "end_date": "2026-09-16"
     },
     {
+      "id": "CONT_AWD_80NSSC26P1513_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1513",
+      "recipient": "LSP INDUSTRIAL CERAMICS INC",
+      "amount": 16368,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "CERAMIC INSULATORS",
+      "start_date": "2026-09-02",
+      "end_date": "2026-11-11"
+    },
+    {
       "id": "CONT_AWD_80NSSC26P1510_8000_-NONE-_-NONE-",
       "award_id": "80NSSC26P1510",
       "recipient": "PRECISION FILTERS, INC.",
@@ -5259,6 +5358,17 @@
       "description": "CSI PR CORRELATED SOLUTIONS HSF PURCHASE",
       "start_date": "2026-09-02",
       "end_date": "2026-12-01"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1508_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1508",
+      "recipient": "MOUSER ELECTRONICS, INC",
+      "amount": 21865.41,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "AEEON BOX PCS",
+      "start_date": "2026-09-02",
+      "end_date": "2026-10-01"
     },
     {
       "id": "CONT_AWD_80NSSC26P1507_8000_-NONE-_-NONE-",
@@ -5391,116 +5501,6 @@
       "description": "HIGH-SPEED CAMERA FOR UNSTEADY PRESSURE SENSITIVE PAINT",
       "start_date": "2026-09-01",
       "end_date": "2026-10-01"
-    },
-    {
-      "id": "CONT_AWD_80NSSC26P1494_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC26P1494",
-      "recipient": "EAP CONSULTANTS, LLC",
-      "amount": 7800,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "TELEPHONIC SUPPORT BY PROFESSIONAL MENTAL HEALTH  COUNSELORS TO NASA EMPLOYEES DURING \"AFTER-HOURS\"  FOR NON-ROUTINE AND POTENTIALLY URGENT SITUATIONS.",
-      "start_date": "2026-10-01",
-      "end_date": "2027-09-30"
-    },
-    {
-      "id": "CONT_AWD_80NSSC26P1493_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC26P1493",
-      "recipient": "METCUT RESEARCH ASSOCIATES INC",
-      "amount": 49948.6,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "HIGH TEMPERATURE MECHANICAL TESTING",
-      "start_date": "2026-09-01",
-      "end_date": "2027-03-01"
-    },
-    {
-      "id": "CONT_AWD_80NSSC26P1491_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC26P1491",
-      "recipient": "DOUGLAS ELECTRICAL COMPONENTS INC",
-      "amount": 45636,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "HERMETICALLY SEALED ELECTRICAL FEEDTHROUGHS FOR CRYOGENIC VACUUM TESTS",
-      "start_date": "2026-09-01",
-      "end_date": "2026-12-22"
-    },
-    {
-      "id": "CONT_AWD_80NSSC26P1490_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC26P1490",
-      "recipient": "HIDEN ANALYTICAL INC",
-      "amount": 99125,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "HAL IG20 OXYGEN/ARGON ION GUN",
-      "start_date": "2026-09-01",
-      "end_date": "2027-01-05"
-    },
-    {
-      "id": "CONT_AWD_80NSSC26P1489_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC26P1489",
-      "recipient": "GMS INTERNATIONAL CORPORATION",
-      "amount": 66212.02,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "PURCHASE OF BATTERIES FOR GOSWIFT POWER SYSTEM",
-      "start_date": "2026-09-01",
-      "end_date": "2027-03-01"
-    },
-    {
-      "id": "CONT_AWD_80NSSC26P1488_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC26P1488",
-      "recipient": "CHASE CONTRACTING INC",
-      "amount": 109665,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "HVAC SYSTEMS CLEANING OF ALL FLOORS IN BLDG N239",
-      "start_date": "2026-08-31",
-      "end_date": "2026-12-31"
-    },
-    {
-      "id": "CONT_AWD_80NSSC26P1487_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC26P1487",
-      "recipient": "VELMEX INC",
-      "amount": 119053.5,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "VELMEX ES0154-AS CUSTOMIZED MPTS-II ASSEMBLY   ELMT STANDALONE",
-      "start_date": "2026-08-31",
-      "end_date": "2026-10-01"
-    },
-    {
-      "id": "CONT_AWD_80NSSC26P1486_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC26P1486",
-      "recipient": "NEWMARK SYSTEMS INC",
-      "amount": 31725,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "HIGH VACUUM GANTRY FOR VOID DEPOSITION SYSTEM",
-      "start_date": "2026-08-31",
-      "end_date": "2026-11-02"
-    },
-    {
-      "id": "CONT_AWD_80NSSC26P1485_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC26P1485",
-      "recipient": "MALVERN PANALYTICAL INC",
-      "amount": 41262,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "MONOCHROMATOR FOR EMPYREAN XRD",
-      "start_date": "2026-08-31",
-      "end_date": "2026-10-12"
-    },
-    {
-      "id": "CONT_AWD_80NSSC26P1484_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC26P1484",
-      "recipient": "MATERIALS DESIGN, INC.",
-      "amount": 20000,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "VASP 6 SOURCE CODE",
-      "start_date": "2026-09-30",
-      "end_date": "2029-08-31"
     }
   ]
 }
