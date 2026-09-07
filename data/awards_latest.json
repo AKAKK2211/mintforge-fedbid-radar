@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T08:02:02.762Z",
+  "fetched_at": "2026-09-07T08:32:36.032Z",
   "count": 500,
   "awards": [
     {
@@ -729,17 +729,6 @@
       "end_date": "2007-09-30"
     },
     {
-      "id": "CONT_AWD_HHSD200201792729C_7523_-NONE-_-NONE-",
-      "award_id": "HHSD200201792729C",
-      "recipient": "RUMPH & ASSOCIATES, P.C.",
-      "amount": 190018.74,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::OT::IGF SIERRA LEONE TRANSPORTATION SERVICES",
-      "start_date": "2017-01-02",
-      "end_date": "2018-01-01"
-    },
-    {
       "id": "CONT_AWD_HHSD2002016M91991P_7523_-NONE-_-NONE-",
       "award_id": "HHSD2002016M91991P",
       "recipient": "BLUE TECH INC.",
@@ -749,17 +738,6 @@
       "description": "IT SOFTWARE MAINTENANCE",
       "start_date": "2016-08-25",
       "end_date": "2017-09-30"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002016M90173P_7523_-NONE-_-NONE-",
-      "award_id": "HHSD2002016M90173P",
-      "recipient": "SEQUOIA FOUNDATION",
-      "amount": 149995.66,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "IGF::OT::IGF FOR OTHER FUNCTIONS",
-      "start_date": "2016-07-11",
-      "end_date": "2017-12-08"
     },
     {
       "id": "CONT_AWD_HHSD2002016F89968_7523_HHSD2002015F62977B_7523",
@@ -804,17 +782,6 @@
       "description": "LABORATORY SCIENTIST SERVICES",
       "start_date": "2011-09-10",
       "end_date": "2013-09-12"
-    },
-    {
-      "id": "CONT_AWD_HHSD2002011409470001_7523_HHSD200201140947I_7523",
-      "award_id": "HHSD2002011409470001",
-      "recipient": "THE QED GROUP LLC",
-      "amount": 12474068.4,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "ITOPSS 2.0 -- NAMIBIA -- MULTIPLE SERVICES",
-      "start_date": "2012-03-26",
-      "end_date": "2018-03-14"
     },
     {
       "id": "CONT_AWD_HHSD200201138875C_7523_-NONE-_-NONE-",
@@ -4755,17 +4722,6 @@
       "end_date": "2027-08-27"
     },
     {
-      "id": "CONT_AWD_95C67826P0330_9534_-NONE-_-NONE-",
-      "award_id": "95C67826P0330",
-      "recipient": "WORLD OF FORD SALES, INC",
-      "amount": 295318.85,
-      "agency": "District of Columbia Courts",
-      "naics": null,
-      "description": "CONTRACTOR SHALL PROVIDE VARIOUS FORD AND CHEVROLET VEHICLES IN ACCORDANCE TO RFQ-DCSC-26-RFQ-126 AND THE CONTRACTORS VIRGINIA BUYERS ORDERS.",
-      "start_date": "2026-08-30",
-      "end_date": "2026-09-30"
-    },
-    {
       "id": "CONT_AWD_95C67826P0327_9534_-NONE-_-NONE-",
       "award_id": "95C67826P0327",
       "recipient": "HARBOR ROOFING AND CONTRACTING, INC.",
@@ -5501,6 +5457,50 @@
       "description": "VOA 365 (TURKMENALEM/MONACOSAT) SATELLITE SERVICES",
       "start_date": "2026-08-10",
       "end_date": "2028-08-31"
+    },
+    {
+      "id": "CONT_AWD_95170024C0279_9568_-NONE-_-NONE-",
+      "award_id": "95170024C0279",
+      "recipient": "VAULTES LLC",
+      "amount": 3072841.2,
+      "agency": "U.S. Agency for Global Media",
+      "naics": null,
+      "description": "FISMA GRC CONTRACT FY 24 - 28",
+      "start_date": "2024-09-01",
+      "end_date": "2027-08-31"
+    },
+    {
+      "id": "CONT_AWD_95170022C0458_9568_-NONE-_-NONE-",
+      "award_id": "95170022C0458",
+      "recipient": "TYLER FEDERAL, LLC",
+      "amount": 188649.4,
+      "agency": "U.S. Agency for Global Media",
+      "naics": null,
+      "description": "THE OFFICE OF EQUAL OPPORTUNITY PROGRAMS, LOCATED WITHIN OCR REQUIRES A SYSTEM TO COLLECT INFORMATION ABOUT DISCRIMINATION CLAIMS FILED BY EMPLOYEES, AND TO TRACK AND REPORT ON THOSE CLAIMS.",
+      "start_date": "2022-09-29",
+      "end_date": "2027-09-28"
+    },
+    {
+      "id": "CONT_AWD_93310026F0008_9300_47QSMA19D08QR_4732",
+      "award_id": "93310026F0008",
+      "recipient": "COLLABWARE CORPORATION",
+      "amount": 100800,
+      "agency": "Federal Mediation and Conciliation Service",
+      "naics": null,
+      "description": "ANNUAL COLLABSPACE CONTINUUM ELECTRONIC RECORDS MANAGEMENT SUBSCRIPTION, INCLUDING 6 TB OF STORAGE, PREMIUM SUPPORT, AND TWO TRAINING SUBSCRIPTIONS.",
+      "start_date": "2026-09-30",
+      "end_date": "2027-09-29"
+    },
+    {
+      "id": "CONT_AWD_91995923F0002_9100_47QRAA20D0076_4732",
+      "award_id": "91995923F0002",
+      "recipient": "THE HATCHER GROUP INC",
+      "amount": 984117.73,
+      "agency": "Department of Education",
+      "naics": null,
+      "description": "THIS CONTRACT IS TO PROVIDE LOGISTICAL SERVICES FOR REPORT CARD RELEASES AND MEETING AND AUDIOVISUAL SERVICES FOR THE NATIONAL ASSESSMENT GOVENRNING BOARD QUARTERLY BOARD MEETINGS.",
+      "start_date": "2023-09-25",
+      "end_date": "2026-09-24"
     }
   ]
 }
