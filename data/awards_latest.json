@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T08:44:45.865Z",
+  "fetched_at": "2026-09-21T09:11:40.958Z",
   "count": 500,
   "awards": [
     {
@@ -4623,6 +4623,17 @@
       "end_date": "2025-09-30"
     },
     {
+      "id": "CONT_AWD_DOCSB134115SE0385_1341_-NONE-_-NONE-",
+      "award_id": "DOCSB134115SE0385",
+      "recipient": "INFOLYTICA CORP",
+      "amount": 10349.5,
+      "agency": "Department of Commerce",
+      "naics": null,
+      "description": "IGF::OT::IGF INFOLYTICA MAGNET/ELECNET SOFTWARE MAINTENANCE",
+      "start_date": "2015-10-01",
+      "end_date": "2018-09-30"
+    },
+    {
       "id": "CONT_AWD_DOC50PAPT1200042_1344_-NONE-_-NONE-",
       "award_id": "DOC50PAPT1200042",
       "recipient": "CPA GLOBAL (LANDON IP) INC",
@@ -5316,17 +5327,6 @@
       "end_date": "2027-09-14"
     },
     {
-      "id": "CONT_AWD_9531BM24F0073_9508_47QSWA18D008F_4732",
-      "award_id": "9531BM24F0073",
-      "recipient": "CARAHSOFT TECHNOLOGY CORP",
-      "amount": 293706.81,
-      "agency": "National Transportation Safety Board",
-      "naics": null,
-      "description": "SAILPOINT IAM TOOL",
-      "start_date": "2024-09-25",
-      "end_date": "2027-09-24"
-    },
-    {
       "id": "CONT_AWD_9531BM24F0058_9508_47QTCA20D00FU_4732",
       "award_id": "9531BM24F0058",
       "recipient": "OPEN TEXT PUBLIC SECTOR SOLUTIONS, INC",
@@ -5336,17 +5336,6 @@
       "description": "DOCKET MANAGEMENT SYSTEM (MYDMS) SOFTWARE DEVELOPMENT, MAINTENANCE AND ENHANCEMENTS SUPPORT SERVICES",
       "start_date": "2024-09-28",
       "end_date": "2027-09-27"
-    },
-    {
-      "id": "CONT_AWD_9531BM21F0007_9508_HTC71117DC003_9700",
-      "award_id": "9531BM21F0007",
-      "recipient": "UNITED PARCEL SERVICE CO.",
-      "amount": 58906.86,
-      "agency": "National Transportation Safety Board",
-      "naics": null,
-      "description": "SHIPPING SERVICES",
-      "start_date": "2020-12-01",
-      "end_date": "2021-11-30"
     },
     {
       "id": "CONT_AWD_95315826F00016_9565_47QTCA20D00DP_4732",
@@ -5501,6 +5490,17 @@
       "description": "2026 AGCON AUDIO VISUAL SERVICES KSU",
       "start_date": "2026-10-22",
       "end_date": "2026-10-23"
+    },
+    {
+      "id": "CONT_AWD_9523ZY26C0006_9507_-NONE-_-NONE-",
+      "award_id": "9523ZY26C0006",
+      "recipient": "WASHINGTON METROPOLITAN AREA TRANSIT AUTHORITY",
+      "amount": 360000,
+      "agency": "Commodity Futures Trading Commission",
+      "naics": null,
+      "description": "WMATA TRANSIT SUBSIDY BENEFITS FOR DC",
+      "start_date": "2026-09-28",
+      "end_date": "2027-09-27"
     }
   ]
 }
