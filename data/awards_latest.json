@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T09:26:31.881Z",
+  "fetched_at": "2026-09-28T10:03:17.700Z",
   "count": 500,
   "awards": [
     {
@@ -795,28 +795,6 @@
       "end_date": "2023-06-30"
     },
     {
-      "id": "CONT_AWD_HHSF223201400079A_7524_-NONE-_-NONE-",
-      "award_id": "HHSF223201400079A",
-      "recipient": "CENTRAL INSTITUTE FOR EXPERIMENTAL MEDICINE AND LIFE SCIENCE",
-      "amount": 0,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "TGPVR21 MICE",
-      "start_date": "2014-04-14",
-      "end_date": "2026-09-18"
-    },
-    {
-      "id": "CONT_AWD_HHSF223201210114G_7524_GS03F0085U_4730",
-      "award_id": "HHSF223201210114G",
-      "recipient": "RICOH USA INC",
-      "amount": 3075.84,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "ROLP LEASE AND MAINTENANCE AGREEMENT FOR SIX RICOH COPIERS",
-      "start_date": "2012-02-16",
-      "end_date": "2012-03-31"
-    },
-    {
       "id": "CONT_AWD_HHSF223201110266P_7524_-NONE-_-NONE-",
       "award_id": "HHSF223201110266P",
       "recipient": "PARKER HANNIFIN CORP",
@@ -1244,17 +1222,6 @@
       "description": "IT INFRASTRUCTURE SUPPORT SERVICES-DATA CENTER  IGF::OT::IGF",
       "start_date": "2014-03-19",
       "end_date": "2024-03-31"
-    },
-    {
-      "id": "CONT_AWD_DOCSB134118SE0064_1341_-NONE-_-NONE-",
-      "award_id": "DOCSB134118SE0064",
-      "recipient": "SEVENTH SENSE, LLC",
-      "amount": 96096.38,
-      "agency": "Department of Commerce",
-      "naics": null,
-      "description": "IMPROVE THE LEADERSHIP AND WORK EXPERIENCE FOR NIST STAFF USING QUALITY PRINCIPLES DERIVED FROM THE BALDRIGE CRITERIA AND BALGRIGE ROLE MODEL ORGANIZATIONS",
-      "start_date": "2018-03-19",
-      "end_date": "2019-05-13"
     },
     {
       "id": "CONT_AWD_DOCSB134115SE0385_1341_-NONE-_-NONE-",
@@ -2984,17 +2951,6 @@
       "end_date": "2027-02-28"
     },
     {
-      "id": "CONT_AWD_95170026P0334_9568_-NONE-_-NONE-",
-      "award_id": "95170026P0334",
-      "recipient": "ADORAMA INC.",
-      "amount": 97183.64,
-      "agency": "U.S. Agency for Global Media",
-      "naics": null,
-      "description": "BROADCASTING EQUIPMENT NEEDED FOR EURASIA DIVISION",
-      "start_date": "2026-09-20",
-      "end_date": "2027-02-28"
-    },
-    {
       "id": "CONT_AWD_95170026P0053_9568_-NONE-_-NONE-",
       "award_id": "95170026P0053",
       "recipient": "REUTERS NEWS & MEDIA INC",
@@ -3504,7 +3460,7 @@
       "id": "CONT_AWD_91990025F0053_9100_91990025A0001_9100",
       "award_id": "91990025F0053",
       "recipient": "MINBURN TECHNOLOGY GROUP, LLC",
-      "amount": 15022471.8,
+      "amount": 15178352.2,
       "agency": "Department of Education",
       "naics": null,
       "description": "MICROSOFT ENTERPRISE AGREEMENT BLANKET PURCHASE AGREEMENT - CALL ORDER 1",
@@ -5501,6 +5457,50 @@
       "description": "INFORMATION TECHNOLOGY PURCHASE FOR PORTSMOUTH PADUCAH PROJECT OFFICE - FIREPROOF DESK SAFE",
       "start_date": "2026-09-22",
       "end_date": "2026-10-22"
+    },
+    {
+      "id": "CONT_AWD_89303126FEM400509_8900_NNG15SC70B_8000",
+      "award_id": "89303126FEM400509",
+      "recipient": "DH TECHNOLOGIES, INC.",
+      "amount": 9042.39,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "INFORMATION TECHNOLOGY PURCHASE FOR PORTSMOUTH PADUCAH PROJECT OFFICE - DELL DESKTOPS AND UNINTERRUPTED POWER SUPPLY",
+      "start_date": "2026-09-22",
+      "end_date": "2026-10-22"
+    },
+    {
+      "id": "CONT_AWD_89303126FEM400508_8900_NNG15SC30B_8000",
+      "award_id": "89303126FEM400508",
+      "recipient": "COUNTERTRADE PRODUCTS, INC.",
+      "amount": 766.38,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "INFORMATION TECHNOLOGY PURCHASE FOR PORTSMOUTH PADUCAH PROJECT OFFICE - SKETCHUP RENEWAL",
+      "start_date": "2026-09-21",
+      "end_date": "2027-09-22"
+    },
+    {
+      "id": "CONT_AWD_89303125FEM400428_8900_89303323DEM000089_8900",
+      "award_id": "89303125FEM400428",
+      "recipient": "SOUTHERN OHIO CLEANUP COMPANY LLC",
+      "amount": 399660463.32,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "PORTSMOUTH (PORTS) DECONTAMINATION & DECOMMISSIONING (D&D) - TASK ORDER 3 FISCAL YEARS 2026 THROUGH 2031",
+      "start_date": "2025-09-19",
+      "end_date": "2031-09-30"
+    },
+    {
+      "id": "CONT_AWD_89303124FEM400351_8900_NNG15SD34B_8000",
+      "award_id": "89303124FEM400351",
+      "recipient": "MINBURN TECHNOLOGY GROUP, LLC",
+      "amount": 10567761.33,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "INFORMATION TECHNOLOGY PURCHASE FOR PORTSMOUTH PADUCAH PROJECT OFFICE -MICROSOFT ENTERPRISE AGREEMENT",
+      "start_date": "2024-05-20",
+      "end_date": "2027-04-30"
     }
   ]
 }
