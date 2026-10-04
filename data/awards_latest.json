@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-03T09:20:38.587Z",
+  "fetched_at": "2026-10-04T09:59:29.107Z",
   "count": 500,
   "awards": [
     {
@@ -3512,17 +3512,6 @@
       "end_date": "2030-09-29"
     },
     {
-      "id": "CONT_AWD_91990025F0053_9100_91990025A0001_9100",
-      "award_id": "91990025F0053",
-      "recipient": "MINBURN TECHNOLOGY GROUP, LLC",
-      "amount": 15178352.2,
-      "agency": "Department of Education",
-      "naics": null,
-      "description": "MICROSOFT ENTERPRISE AGREEMENT BLANKET PURCHASE AGREEMENT - CALL ORDER 1",
-      "start_date": "2025-05-31",
-      "end_date": "2027-05-30"
-    },
-    {
       "id": "CONT_AWD_91990025C0038_9100_-NONE-_-NONE-",
       "award_id": "91990025C0038",
       "recipient": "ILLINOIS STATE BOARD OF EDUCATION",
@@ -5184,17 +5173,6 @@
       "end_date": "2026-10-31"
     },
     {
-      "id": "CONT_AWD_89243323FFE400522_8900_GS35F0032U_4730",
-      "award_id": "89243323FFE400522",
-      "recipient": "CORITY SOFTWARE INC.",
-      "amount": 518920.64,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "OCCUPATIONAL HEALTH SUITE",
-      "start_date": "2023-09-28",
-      "end_date": "2027-09-26"
-    },
-    {
       "id": "CONT_AWD_89243323FFE400518_8900_47QTCA19D00MV_4732",
       "award_id": "89243323FFE400518",
       "recipient": "ATT MOBILITY LLC",
@@ -5501,6 +5479,28 @@
       "description": "TASK ORDER FOR OPTION PERIOD 3, OAK RIDGE RESERVATION MANAGEMENT SERVICES.",
       "start_date": "2026-07-23",
       "end_date": "2027-07-23"
+    },
+    {
+      "id": "CONT_AWD_89243126CSC000213_8900_-NONE-_-NONE-",
+      "award_id": "89243126CSC000213",
+      "recipient": "SURATECH LLC",
+      "amount": 310263827.95,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "MANAGEMENT AND OPERATING CONTRACTOR FOR THE THOMAS JEFFERSON NATIONAL ACCELERATOR FACILITY (TJNAF).",
+      "start_date": "2026-03-31",
+      "end_date": "2031-05-31"
+    },
+    {
+      "id": "CONT_AWD_89243124CSC000173_8900_-NONE-_-NONE-",
+      "award_id": "89243124CSC000173",
+      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
+      "amount": 248341.02,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "EXTENDED WARRANTY AND CYBER SECURITY SERVICES",
+      "start_date": "2023-12-24",
+      "end_date": "2026-12-23"
     }
   ]
 }
