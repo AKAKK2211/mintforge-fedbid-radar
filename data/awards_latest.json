@@ -1,7 +1,18 @@
 {
-  "fetched_at": "2026-10-04T09:59:29.107Z",
+  "fetched_at": "2026-10-05T10:44:03.107Z",
   "count": 500,
   "awards": [
+    {
+      "id": "CONT_AWD_W912DQ23F3002_9700_W912DW19D1023_9700",
+      "award_id": "W912DQ23F3002",
+      "recipient": "NOREAS APTIM ENVIRONMENTAL REMEDIATION JV",
+      "amount": 7004747.57,
+      "agency": "Department of Defense",
+      "naics": null,
+      "description": "FRIED INDUSTRIES SUPERFUND SITE SOURCE AREA REMOVAL",
+      "start_date": "2022-12-01",
+      "end_date": "2027-11-30"
+    },
     {
       "id": "CONT_AWD_W911XK26CA021_9700_-NONE-_-NONE-",
       "award_id": "W911XK26CA021",
@@ -45,6 +56,17 @@
       "description": "IGF::OT::IGF   PROJECT 521-16-213 UPGRADE NEGATIVE PRESSURE ROOMS",
       "start_date": "2016-09-29",
       "end_date": "2026-11-30"
+    },
+    {
+      "id": "CONT_AWD_VA24616J3200_3600_VA24613D0110_3600",
+      "award_id": "VA24616J3200",
+      "recipient": "MILLER-REMICK, LLC",
+      "amount": 738712.89,
+      "agency": "Department of Veterans Affairs",
+      "naics": null,
+      "description": "IGF::OT::IGF AE IDIQ HAMPTON - TASK ORDER CONSTRUCT CANCER CENTER.  IGF::OT::IGF",
+      "start_date": "2016-04-26",
+      "end_date": "2025-03-31"
     },
     {
       "id": "CONT_AWD_VA24615J3381_3600_VA24613D0101_3600",
@@ -116,7 +138,7 @@
       "id": "CONT_AWD_SP060426C8000_9700_-NONE-_-NONE-",
       "award_id": "SP060426C8000",
       "recipient": "KODIAK ELECTRIC ASSOCIATION, INC.",
-      "amount": 0,
+      "amount": 2000000,
       "agency": "Department of Defense",
       "naics": null,
       "description": "INSTALLATION OF ENERGY CONSERVATION MEASURES FOR UESC",
@@ -938,6 +960,17 @@
       "end_date": "2021-11-05"
     },
     {
+      "id": "CONT_AWD_GSQ0017AJ0008_4732_GS00Q14OADS412_4732",
+      "award_id": "GSQ0017AJ0008",
+      "recipient": "HII MISSION TECHNOLOGIES CORP",
+      "amount": 140527239.94,
+      "agency": "General Services Administration",
+      "naics": null,
+      "description": "IGF::OT::IGF TASK ORDER (TO) GSQ0017AJ0008 IS HEREBY AWARDED TO FULCRUM IT SERVICES, LLC TO PROVIDE THE JOINT IMPROVISED-THREAT DEFEAT AGENCY (JIDA), WITH PROFESSIONAL SERVICES THAT RESEARCH, AND ANALYZE THE GLOBAL OPERATIONAL ENVIRONMENT TO ENABLE COMBATANT COMMANDS (CCMDS) TO RESEARCH ANTICIPATED ",
+      "start_date": "2016-12-01",
+      "end_date": "2022-03-17"
+    },
+    {
       "id": "CONT_AWD_GSP0816JE7140_4740_DEAM3609GO29035_8900",
       "award_id": "GSP0816JE7140",
       "recipient": "HONEYWELL INTERNATIONAL, INC",
@@ -1117,7 +1150,7 @@
       "id": "CONT_AWD_DOC50PAPT1720039_1344_-NONE-_-NONE-",
       "award_id": "DOC50PAPT1720039",
       "recipient": "RIVA SOLUTIONS INC",
-      "amount": 3686668.8,
+      "amount": 3406865.93,
       "agency": "Department of Commerce",
       "naics": null,
       "description": "OFFICE OF FINANCE RECEIPTS ACCOUNTING DIVISION SUPPORT SERVICES  IGF::CL::IGF",
@@ -2467,6 +2500,28 @@
       "end_date": "2027-01-20"
     },
     {
+      "id": "CONT_AWD_9531BM26F0081_9508_9531BM25A0008_9508",
+      "award_id": "9531BM26F0081",
+      "recipient": "MES SERVICE COMPANY, LLC",
+      "amount": 48030,
+      "agency": "National Transportation Safety Board",
+      "naics": null,
+      "description": "BPA CALL #1 - HAZMAT ALARMS",
+      "start_date": "2026-09-30",
+      "end_date": "2027-09-29"
+    },
+    {
+      "id": "CONT_AWD_9531BM26F0080_9508_9531BM25A0022_9508",
+      "award_id": "9531BM26F0080",
+      "recipient": "YUDRIO INC",
+      "amount": 462872.51,
+      "agency": "National Transportation Safety Board",
+      "naics": null,
+      "description": "BPA ORDER #2: OFFICE OF ADMINISTRATIVE LAW JUDGES (OALJ) AND OFFICE OF GENERAL COUNSEL (OGC) CASE MANAGEMENT SYSTEM AND SUPPORT SERVICES",
+      "start_date": "2026-09-30",
+      "end_date": "2027-09-29"
+    },
+    {
       "id": "CONT_AWD_9531BM26F0076_9508_9531BM26A0013_9508",
       "award_id": "9531BM26F0076",
       "recipient": "DELOITTE CONSULTING LLP",
@@ -2597,17 +2652,6 @@
       "description": "TASK ORDER 27 - RADIOLOGICAL SERVICES",
       "start_date": "2020-10-22",
       "end_date": "2021-02-21"
-    },
-    {
-      "id": "CONT_AWD_95315826F00018_9565_95315823D00001_9565",
-      "award_id": "95315826F00018",
-      "recipient": "ABBOTT MEDIA PRODUCTIONS LLC",
-      "amount": 29232,
-      "agency": "United States Chemical Safety Board",
-      "naics": null,
-      "description": "VIDEO ANIMATION",
-      "start_date": "2026-09-28",
-      "end_date": "2027-09-27"
     },
     {
       "id": "CONT_AWD_95315824F00001_9565_47QTCA19D00MV_4732",
@@ -4161,17 +4205,6 @@
       "end_date": "2026-12-28"
     },
     {
-      "id": "CONT_AWD_89603026F0074_8960_NNG15SD76B_8000",
-      "award_id": "89603026F0074",
-      "recipient": "ENTERPRISE TECHNOLOGY SOLUTIONS, INC.",
-      "amount": 181270.31,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "EEO REASONABLE ACCOMMODATION TRACKING SYSTEM",
-      "start_date": "2026-09-30",
-      "end_date": "2027-09-29"
-    },
-    {
       "id": "CONT_AWD_89603026F0073_8960_47QTCA18D008L_4732",
       "award_id": "89603026F0073",
       "recipient": "GARTNER, INC.",
@@ -4249,39 +4282,6 @@
       "end_date": "2027-02-28"
     },
     {
-      "id": "CONT_AWD_89603026F0003_8960_89603026A0001_8960",
-      "award_id": "89603026F0003",
-      "recipient": "IMPYRIAN LLC",
-      "amount": 828902.88,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "PROCURE ENTERPRISE PROGRAM AND PORTFOLIO MANAGEMENT SUPPORT SERVICES PRIMARILY FOR THE CHIEF INFORMATION OFFICER ORGANIZATION (CIOO) AND OTHER ORGANIZATIONS, AS NEEDED, INCLUDING WITHIN THE OFFICE OF THE EXECUTIVE DIRECTOR (OED).",
-      "start_date": "2026-01-16",
-      "end_date": "2027-01-15"
-    },
-    {
-      "id": "CONT_AWD_89603026F0001_8960_89603026A0001_8960",
-      "award_id": "89603026F0001",
-      "recipient": "IMPYRIAN LLC",
-      "amount": 3148174.46,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "EPMO SUPPORT SERVICES FOR FERC",
-      "start_date": "2026-01-16",
-      "end_date": "2027-05-31"
-    },
-    {
-      "id": "CONT_AWD_89603025F0057_8960_NNG15SD11B_8000",
-      "award_id": "89603025F0057",
-      "recipient": "GOVSMART, INC.",
-      "amount": 29279.01,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "DIGICERT BUSINESS SUPPORT",
-      "start_date": "2025-09-25",
-      "end_date": "2027-09-24"
-    },
-    {
       "id": "CONT_AWD_89603025F0020_8960_47QTCA18D005P_4732",
       "award_id": "89603025F0020",
       "recipient": "IMPYRIAN LLC",
@@ -4302,17 +4302,6 @@
       "description": "AWARD FOR BLOOMBERG TERMINALS",
       "start_date": "2024-06-07",
       "end_date": "2027-06-06"
-    },
-    {
-      "id": "CONT_AWD_89603024P0004_8960_-NONE-_-NONE-",
-      "award_id": "89603024P0004",
-      "recipient": "OPEN ACCESS TECHNOLOGY INTERNATIONAL INC",
-      "amount": 515980.56,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "OATI TRANSMISSION SERVICE REQUEST SUBSCRIPTION",
-      "start_date": "2023-12-28",
-      "end_date": "2027-12-27"
     },
     {
       "id": "CONT_AWD_89603024F0038_8960_89303024AIM000021_8900",
@@ -4412,17 +4401,6 @@
       "description": "FINANCIAL AUDIT FOR THE SOUTHEASTERN POWER ADMINISTRATION BASE YEAR PERIOD OF PERFORMANCE 10/1/2026-9/30/2027",
       "start_date": "2026-10-01",
       "end_date": "2027-09-30"
-    },
-    {
-      "id": "CONT_AWD_89503326PWA000443_8900_-NONE-_-NONE-",
-      "award_id": "89503326PWA000443",
-      "recipient": "INDUSTRIAL VIDEO & CONTROL CO LLC",
-      "amount": 83266.85,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "EO 14398, WAPA SNR: MOBILE SURVEILLANCE SYSTEM (MSS) SECURITY TRAILER",
-      "start_date": "2026-09-27",
-      "end_date": "2027-01-27"
     },
     {
       "id": "CONT_AWD_89503325FWA400199_8900_89503325DWA000004_8900",
@@ -4623,6 +4601,17 @@
       "end_date": "2026-12-31"
     },
     {
+      "id": "CONT_AWD_89303325CEM000140_8900_-NONE-_-NONE-",
+      "award_id": "89303325CEM000140",
+      "recipient": "CATAWBA TEAPEC LLC",
+      "amount": 18066549.82,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "DEPARTMENT OF ENERGY (DOE) OFFICE OF ENVIRONMENTAL MANAGEMENT (EM):  CONSOLIDATED TECHNICAL SUPPORT SERVICES (CTSS) FOR EM OFFICES AND THE EM CONSOLIDATED BUSINESS CENTER (EMCBC)",
+      "start_date": "2025-06-26",
+      "end_date": "2030-10-22"
+    },
+    {
       "id": "CONT_AWD_89303324FEM000034_8900_89303019AIM000005_8900",
       "award_id": "89303324FEM000034",
       "recipient": "ACCENTURE FEDERAL SERVICES LLC",
@@ -4744,6 +4733,17 @@
       "end_date": "2029-11-30"
     },
     {
+      "id": "CONT_AWD_89303023FFP000002_8900_89303019AIM000005_8900",
+      "award_id": "89303023FFP000002",
+      "recipient": "ACCENTURE FEDERAL SERVICES LLC",
+      "amount": 199843.24,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "BPA ORDER FOR THE DEPARTMENT OF ENERGY (DOE) CIO BUSINESS OPERATIONS SUPPORT SERVICES (CBOSS) FOR THE FEDERAL ENERGY MANAGEMENT PROGRAM (FEMP) WEBSITE MAINTENANCE - WEBSITE ARCHITECTURE SUPPORT.",
+      "start_date": "2023-03-15",
+      "end_date": "2026-03-06"
+    },
+    {
       "id": "CONT_AWD_89303022FFE000026_8900_89303022AFE000003_8900",
       "award_id": "89303022FFE000026",
       "recipient": "LEONARDO TECHNOLOGIES, INC.",
@@ -4841,6 +4841,17 @@
       "description": "SCIENTIFIC, ENGINEERING AND TECHNICAL SUPPORT SETS FOR DOE EERES INDUSTRIAL EFFICIENCY AND DECARBONIZATION OFFICE IEDO - FOLLOW-ON TO ORDER 89243424FEE000380 AND 405",
       "start_date": "2025-04-25",
       "end_date": "2027-04-30"
+    },
+    {
+      "id": "CONT_AWD_89243425FEE000496_8900_89243423AEE000008_8900",
+      "award_id": "89243425FEE000496",
+      "recipient": "ENERGY TECHNOLOGY ALLIANCE LLC",
+      "amount": 18553.8,
+      "agency": "Department of Energy",
+      "naics": null,
+      "description": "SCIENTIFIC, ENGINEERING AND TECHNICAL SUPPORT (SETS) - ANNUAL MERIT REVIEW SERVICES FOR DEPARTMENT OF ENERGY'S WATER POWER TECHNOLOGIES OFFICE (WPTO) - FOLLOW ON TO ORDER 89243424FEE000378",
+      "start_date": "2025-04-28",
+      "end_date": "2026-04-30"
     },
     {
       "id": "CONT_AWD_89243425FEE000488_8900_89243423AEE000008_8900",
@@ -5490,17 +5501,6 @@
       "description": "MANAGEMENT AND OPERATING CONTRACTOR FOR THE THOMAS JEFFERSON NATIONAL ACCELERATOR FACILITY (TJNAF).",
       "start_date": "2026-03-31",
       "end_date": "2031-05-31"
-    },
-    {
-      "id": "CONT_AWD_89243124CSC000173_8900_-NONE-_-NONE-",
-      "award_id": "89243124CSC000173",
-      "recipient": "L3HARRIS TECHNOLOGIES, INC.",
-      "amount": 248341.02,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "EXTENDED WARRANTY AND CYBER SECURITY SERVICES",
-      "start_date": "2023-12-24",
-      "end_date": "2026-12-23"
     }
   ]
 }
