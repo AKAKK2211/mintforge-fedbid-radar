@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T10:13:12.443Z",
+  "fetched_at": "2026-10-12T11:11:45.414Z",
   "count": 500,
   "awards": [
     {
@@ -320,17 +320,6 @@
       "description": "SUPPORTIVE HOUSING (UP TO 180 DAYS)",
       "start_date": "2023-09-30",
       "end_date": "2027-09-29"
-    },
-    {
-      "id": "CONT_AWD_9531CB26C0003_955F_-NONE-_-NONE-",
-      "award_id": "9531CB26C0003",
-      "recipient": "SP PLUS LLC",
-      "amount": 268007.5,
-      "agency": "Consumer Financial Protection Bureau",
-      "naics": null,
-      "description": "PARKING SPACES AT 445 12TH STREET HEADQUARTERS",
-      "start_date": "2026-06-25",
-      "end_date": "2027-05-31"
     },
     {
       "id": "CONT_AWD_9531CB25F0042_955F_NNG15SC70B_8000",
@@ -1607,17 +1596,6 @@
       "description": "TC COMMUNICATIONS RIDLEY MIPR FTS",
       "start_date": "2026-10-07",
       "end_date": "2026-10-21"
-    },
-    {
-      "id": "CONT_AWD_80NSSC27P0024_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC27P0024",
-      "recipient": "NETZSCH INSTRUMENTS NORTH AMERICA, LLC",
-      "amount": 172593.2,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "NETZSCH LFA 717 HYPERFLASH SYSTEM",
-      "start_date": "2026-10-07",
-      "end_date": "2026-11-25"
     },
     {
       "id": "CONT_AWD_80NSSC27P0023_8000_-NONE-_-NONE-",
@@ -3589,6 +3567,17 @@
       "end_date": "2027-10-31"
     },
     {
+      "id": "CONT_AWD_75H70627F80004_7527_36F79724D0090_3600",
+      "award_id": "75H70627F80004",
+      "recipient": "AB STAFFING SOLUTIONS LLC",
+      "amount": 341640,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "FIRM FIXED-PRICE, NON-PERSONAL HEALTHCARE SERVICE DELIVERY ORDER FOR UP TO FIVE (5) NURSE PRACTITIONER (NP) AND PHYSICIAN ASSISTANT (PA-C) PROVIDERS TO SUPPORT OUTPATIENT AND SAME-DAY CLINIC OPERATIONS AT THE PINE RIDGE SERVICE UNIT (PRSU).",
+      "start_date": "2026-10-11",
+      "end_date": "2026-11-28"
+    },
+    {
       "id": "CONT_AWD_75H70627F80003_7527_36F79723D0139_3600",
       "award_id": "75H70627F80003",
       "recipient": "BAY AREA ANESTHESIA LLC",
@@ -3609,6 +3598,17 @@
       "description": "TASK ORDER TO PROVIDE HOSPITALIST PHYSICIAN SERVICE TO THE PINE RIDGE INDIAN HEALTH SERVICE HOSPITAL",
       "start_date": "2026-10-11",
       "end_date": "2027-01-10"
+    },
+    {
+      "id": "CONT_AWD_75H70626P00146_7527_-NONE-_-NONE-",
+      "award_id": "75H70626P00146",
+      "recipient": "TRIBAL HEALTH, LLC",
+      "amount": 480000,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "OBSTETRIC NURSING SERVICES.",
+      "start_date": "2026-06-28",
+      "end_date": "2026-11-01"
     },
     {
       "id": "CONT_AWD_75H70626C00004_7527_-NONE-_-NONE-",
@@ -5118,6 +5118,17 @@
       "end_date": "2025-02-26"
     },
     {
+      "id": "CONT_AWD_70Z08525PLREP0112_7008_-NONE-_-NONE-",
+      "award_id": "70Z08525PLREP0112",
+      "recipient": "PETERSON POWER SYSTEMS, INC.",
+      "amount": 71919.02,
+      "agency": "Department of Homeland Security",
+      "naics": null,
+      "description": "USCG STRATTON 15K TURBO",
+      "start_date": "2025-02-01",
+      "end_date": "2025-02-06"
+    },
+    {
       "id": "CONT_AWD_70Z08226FCEUM0032_7008_70Z08219DPMV12700_7008",
       "award_id": "70Z08226FCEUM0032",
       "recipient": "LEGO CONSTRUCTION CO",
@@ -5490,17 +5501,6 @@
       "description": "THIS FY24 SBIR PHASE II CONTRACT SUPPORTS CBP AND USCG IN THEIR MISSION TO DEFEND OUR BORDERS FROM ILLEGAL ACTIVITIES AND PROTECT PUBLIC SAFETY. THIS ACTION FALLS WITHIN SECTION 2(D) AND 4(A) AS A NON-COVERED CONTRACT.",
       "start_date": "2025-04-01",
       "end_date": "2027-03-31"
-    },
-    {
-      "id": "CONT_AWD_70RSAT25C00000005_7001_-NONE-_-NONE-",
-      "award_id": "70RSAT25C00000005",
-      "recipient": "TRILLION TECHNOLOGY SOLUTIONS INC",
-      "amount": 4332676,
-      "agency": "Department of Homeland Security",
-      "naics": null,
-      "description": "INDUSTRY PARTNERSHIPS PORTAL - OFFICE OF INDUSTRY PARTNERSHIP (OIP)  FOR THE OIP PORTAL PROVIDE A SECURE WEB-BASED APPLICATION ENVIRONMENT THAT AUTOMATES THE ADMINISTRATION OF THE PROPOSAL LIFECYCLE FOR INDUSTRY PARTNERSHIP PROGRAMS.",
-      "start_date": "2025-02-18",
-      "end_date": "2027-05-05"
     }
   ]
 }
