@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T07:57:29.572Z",
+  "fetched_at": "2026-10-18T08:12:59.911Z",
   "count": 500,
   "awards": [
     {
@@ -4007,28 +4007,6 @@
       "end_date": "2027-08-31"
     },
     {
-      "id": "CONT_AWD_75H70627F80004_7527_36F79724D0090_3600",
-      "award_id": "75H70627F80004",
-      "recipient": "AB STAFFING SOLUTIONS LLC",
-      "amount": 341640,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "FIRM FIXED-PRICE, NON-PERSONAL HEALTHCARE SERVICE DELIVERY ORDER FOR UP TO FIVE (5) NURSE PRACTITIONER (NP) AND PHYSICIAN ASSISTANT (PA-C) PROVIDERS TO SUPPORT OUTPATIENT AND SAME-DAY CLINIC OPERATIONS AT THE PINE RIDGE SERVICE UNIT (PRSU).",
-      "start_date": "2026-10-11",
-      "end_date": "2026-11-28"
-    },
-    {
-      "id": "CONT_AWD_75H70626P00146_7527_-NONE-_-NONE-",
-      "award_id": "75H70626P00146",
-      "recipient": "TRIBAL HEALTH, LLC",
-      "amount": 480000,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "OBSTETRIC NURSING SERVICES.",
-      "start_date": "2026-06-28",
-      "end_date": "2026-11-01"
-    },
-    {
       "id": "CONT_AWD_75H70527F06014_7527_75H70524D00002_7527",
       "award_id": "75H70527F06014",
       "recipient": "INDIAN HEALTH BOARD OF MINNEAPOLIS, INC.",
@@ -4887,17 +4865,6 @@
       "end_date": "2026-10-15"
     },
     {
-      "id": "CONT_AWD_70Z08525PLREP0112_7008_-NONE-_-NONE-",
-      "award_id": "70Z08525PLREP0112",
-      "recipient": "PETERSON POWER SYSTEMS, INC.",
-      "amount": 71919.02,
-      "agency": "Department of Homeland Security",
-      "naics": null,
-      "description": "USCG STRATTON 15K TURBO",
-      "start_date": "2025-02-01",
-      "end_date": "2025-02-06"
-    },
-    {
       "id": "CONT_AWD_70Z08423PDL940001_7008_-NONE-_-NONE-",
       "award_id": "70Z08423PDL940001",
       "recipient": "THE PIT, LLC",
@@ -5501,6 +5468,39 @@
       "description": "BPA CALL FOR NBACC CABLING AND SUPPORT",
       "start_date": "2026-01-30",
       "end_date": "2027-01-29"
+    },
+    {
+      "id": "CONT_AWD_70RSAT26CB0000002_7001_-NONE-_-NONE-",
+      "award_id": "70RSAT26CB0000002",
+      "recipient": "MCCHRYSTAL GROUP LLC",
+      "amount": 420155,
+      "agency": "Department of Homeland Security",
+      "naics": null,
+      "description": "MCS-CBP AIR, LAND AND POE SECURITY COUNTERING TRANSNATIONAL ORGANIZED CRIMINAL NETWORKS AND DISRUPTING FENTANYL SUPPLY LINES NEW CONTRACT",
+      "start_date": "2026-07-06",
+      "end_date": "2027-02-27"
+    },
+    {
+      "id": "CONT_AWD_70RSAT25FR0000044_7001_70RSAT21G00000001_7001",
+      "award_id": "70RSAT25FR0000044",
+      "recipient": "TEXAS A & M UNIVERSITY",
+      "amount": 1000000,
+      "agency": "Department of Homeland Security",
+      "naics": null,
+      "description": "NEW CONTRACT - CROSS BORDER THREATS SCREENING AND SUPPLY CHAIN DEFENSE TASK ORDER REQUEST FOR PROPOSAL UNDER BOA",
+      "start_date": "2025-09-29",
+      "end_date": "2026-12-31"
+    },
+    {
+      "id": "CONT_AWD_70RSAT25CB0000002_7001_-NONE-_-NONE-",
+      "award_id": "70RSAT25CB0000002",
+      "recipient": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
+      "amount": 1999605,
+      "agency": "Department of Homeland Security",
+      "naics": null,
+      "description": "UPDATING SWX BENCHMARKS FOR CRITICAL INFRASTRUCTURE PROTECTION PROJECT.",
+      "start_date": "2025-09-30",
+      "end_date": "2027-09-29"
     }
   ]
 }
