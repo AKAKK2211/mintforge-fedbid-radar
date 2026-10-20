@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19T09:11:03.046Z",
+  "fetched_at": "2026-10-20T08:45:58.160Z",
   "count": 500,
   "awards": [
     {
@@ -1620,6 +1620,17 @@
       "end_date": "2026-11-16"
     },
     {
+      "id": "CONT_AWD_80NSSC27P0074_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC27P0074",
+      "recipient": "TEVET LLC",
+      "amount": 38761.33,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "INFINIIUM EXR-SERIES REAL-TIME OSCILLOSCOPE",
+      "start_date": "2026-10-16",
+      "end_date": "2027-04-16"
+    },
+    {
       "id": "CONT_AWD_80NSSC27P0073_8000_-NONE-_-NONE-",
       "award_id": "80NSSC27P0073",
       "recipient": "NORTH AMERICAN MANUFACTURING PROS LLC",
@@ -2223,28 +2234,6 @@
       "description": "PHASE II SBIR",
       "start_date": "2026-10-15",
       "end_date": "2028-10-14"
-    },
-    {
-      "id": "CONT_AWD_80NSSC27C0009_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC27C0009",
-      "recipient": "TRUWEATHER SOLUTIONS, INC",
-      "amount": 1274984,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "SBIR PHASE II",
-      "start_date": "2026-10-19",
-      "end_date": "2028-10-19"
-    },
-    {
-      "id": "CONT_AWD_80NSSC27C0005_8000_-NONE-_-NONE-",
-      "award_id": "80NSSC27C0005",
-      "recipient": "TRUWEATHER SOLUTIONS, INC",
-      "amount": 1274977,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "SBIR PHASE II",
-      "start_date": "2026-10-19",
-      "end_date": "2028-10-19"
     },
     {
       "id": "CONT_AWD_80NSSC26P1719_8000_-NONE-_-NONE-",
@@ -5448,17 +5437,6 @@
       "end_date": "2026-10-20"
     },
     {
-      "id": "CONT_AWD_75F40126P00428_7524_-NONE-_-NONE-",
-      "award_id": "75F40126P00428",
-      "recipient": "GOVCREST INC",
-      "amount": 18015,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "PROCUREMENT OF BENCHTOP FREEZE DRYER (LYOPHILIZER) SYSTEM, INCLUDING ALL REQUIRED ACCESSORIES, TUBING, CLAMPS, ADAPTERS, AND STANDARD WARRANTY NECESSARY FOR FULL SYSTEM ASSEMBLY AND OPERATION.",
-      "start_date": "2026-09-30",
-      "end_date": "2027-09-29"
-    },
-    {
       "id": "CONT_AWD_75F40126F19001_7524_75F40126A00004_7524",
       "award_id": "75F40126F19001",
       "recipient": "THE DISTRICT COMMUNICATIONS GROUP LLC",
@@ -5501,6 +5479,28 @@
       "description": "NATIONAL YOUTH TOBACCO SURVEYS 2026-2027",
       "start_date": "2025-09-02",
       "end_date": "2027-09-02"
+    },
+    {
+      "id": "CONT_AWD_75F40124P00372_7524_-NONE-_-NONE-",
+      "award_id": "75F40124P00372",
+      "recipient": "SAMYAK SOLUTIONS, INC.",
+      "amount": 85968.75,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "LUMINEX FLEXMAP 3D INSTRUMENT WITH XPONENT 4.3 SOFTWARE AND POST WARRANTY PREVENTATIVE MAINTENANCE & REPAIR SERVICES",
+      "start_date": "2024-08-14",
+      "end_date": "2025-10-13"
+    },
+    {
+      "id": "CONT_AWD_75F40124P00361_7524_-NONE-_-NONE-",
+      "award_id": "75F40124P00361",
+      "recipient": "ANEON BRILLIENT, LLC",
+      "amount": 221484.32,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "THE OBJECTIVE OF THIS REQUIREMENT IS TO PROVIDE: (1) WEBMASTER, TECHNICAL AND CREATIVE SUPPORT TO ENHANCE AND MAINTAIN OTED'S ONLINE PRESENCE AND ASSIST IN FULFILLING THE OTED DIRECTOR'S OR THEIR DESIGNEE WEB CONTENT MANAGER'S REQUIREM",
+      "start_date": "2024-08-15",
+      "end_date": "2025-08-14"
     }
   ]
 }
