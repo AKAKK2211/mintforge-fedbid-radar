@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T10:40:21.944Z",
+  "fetched_at": "2026-11-09T11:56:12.471Z",
   "count": 500,
   "awards": [
     {
@@ -12,17 +12,6 @@
       "description": "REMEDIAL ACTION AT THE FORMER KIL-TONE COMPANY SUPERFUND SITE, OPERABLE UNIT 2 (OU2), PHASE 2, CUMBERLAND COUNTY, VINELAND, NEW JERSEY.",
       "start_date": "2026-11-04",
       "end_date": "2031-11-03"
-    },
-    {
-      "id": "CONT_AWD_VA69D17J4055_3600_VA69D17C0044_3600",
-      "award_id": "VA69D17J4055",
-      "recipient": "UNIVERSITY OF WISCONSIN HOSPITALS AND CLINICS AUTHORITY",
-      "amount": 968.24,
-      "agency": "Department of Veterans Affairs",
-      "naics": null,
-      "description": "IGF::OT::IGF PERFUSION SERVICES FOR VA MADISON",
-      "start_date": "2017-04-25",
-      "end_date": "2017-09-30"
     },
     {
       "id": "CONT_AWD_VA101CFMP0002_3600_-NONE-_-NONE-",
@@ -1268,17 +1257,6 @@
       "end_date": "2027-12-31"
     },
     {
-      "id": "CONT_AWD_89303027FET000030_8900_89303027AMA000070_8900",
-      "award_id": "89303027FET000030",
-      "recipient": "BLOOMBERG FINANCE LP",
-      "amount": 163410,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "BLOOMBERG (BNEF) SUBSCRIPTION LICENSES",
-      "start_date": "2026-11-01",
-      "end_date": "2027-10-31"
-    },
-    {
       "id": "CONT_AWD_89303026FIM000213_8900_89303025AIM000023_8900",
       "award_id": "89303026FIM000213",
       "recipient": "ACCENTURE FEDERAL SERVICES LLC",
@@ -1675,17 +1653,6 @@
       "end_date": "2036-07-14"
     },
     {
-      "id": "CONT_AWD_89233125PNA000196_8900_-NONE-_-NONE-",
-      "award_id": "89233125PNA000196",
-      "recipient": "DTN, LLC",
-      "amount": 40515,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "PURCHASE OF NEW WEATHER SERVICE SUBSCRIPTION FOR 4 YEARS. BASE PLUS 3-1 YEAR OPTIONS.",
-      "start_date": "2025-01-01",
-      "end_date": "2027-12-31"
-    },
-    {
       "id": "CONT_AWD_89233125FNA400668_8900_GS10F0164V_4730",
       "award_id": "89233125FNA400668",
       "recipient": "HARKCON, INC.",
@@ -1838,17 +1805,6 @@
       "description": "LOGISTICS SUPPORT SERVICES TO INCLUDE LOGISTICS PLANNING AND SUPPORT, PERSONAL PROPERTY MANAGEMENT, MUNITIONS MANAGEMENT, ARMORY OPERATIONS/FIREARMS MANAGEMENT, MOTOR VEHICLE OPERATIONS AND FLEET MANAGEMENT, AND ADMINISTRATION SUPPORT.",
       "start_date": "2020-02-17",
       "end_date": "2027-09-16"
-    },
-    {
-      "id": "CONT_AWD_89233120CNA000171_8900_-NONE-_-NONE-",
-      "award_id": "89233120CNA000171",
-      "recipient": "HECKLER & KOCH DEFENSE INC.",
-      "amount": 422030.62,
-      "agency": "Department of Energy",
-      "naics": null,
-      "description": "GRENADE LAUNCHERS, M320 GLMM 40X46MM STAND ALONE 135 EACH FOR THE NNSA OFFICE OF SECURE TRANSPORTATION",
-      "start_date": "2020-09-16",
-      "end_date": "2025-09-15"
     },
     {
       "id": "CONT_AWD_89233120CNA000124_8900_-NONE-_-NONE-",
@@ -5501,6 +5457,50 @@
       "description": "CDER SCIENTIFIC COMPUTING SUPPORT SERVICES",
       "start_date": "2026-09-30",
       "end_date": "2027-09-29"
+    },
+    {
+      "id": "CONT_AWD_75F40125F19028_7524_75F40122A00016_7524",
+      "award_id": "75F40125F19028",
+      "recipient": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+      "amount": 6136185.18,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "ADVANCED SCIENTIFIC COMPUTING SUPPORT",
+      "start_date": "2025-09-29",
+      "end_date": "2027-03-29"
+    },
+    {
+      "id": "CONT_AWD_75F40125F19003_7524_75F40124A00021_7524",
+      "award_id": "75F40125F19003",
+      "recipient": "INTERNATIONAL CONSULTING ASSOCIATES, INC.",
+      "amount": 13304399.05,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "AWARD NEW GSA BPA TASK ORDER - SMALL BUSINESS SET-ASIDE GSA BPA SERVICES REQUIREMENT FOR THE CENTER FOR DEVICES AND RADIOLOGICAL HEALTH (CDRH)",
+      "start_date": "2025-09-10",
+      "end_date": "2027-09-18"
+    },
+    {
+      "id": "CONT_AWD_75F40125F19002_7524_75F40124A00021_7524",
+      "award_id": "75F40125F19002",
+      "recipient": "INTERNATIONAL CONSULTING ASSOCIATES, INC.",
+      "amount": 20586657.83,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "CLINICAL EVIDENCE SYSTEMATIC LITERATURE REVIEW TASK ORDER AND POSTMARKET SAFETY STUDY",
+      "start_date": "2025-06-04",
+      "end_date": "2027-06-03"
+    },
+    {
+      "id": "CONT_AWD_75F40125C00058_7524_-NONE-_-NONE-",
+      "award_id": "75F40125C00058",
+      "recipient": "ROMAN MEDIAWORKS, LLC",
+      "amount": 2634365.97,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "THE OBJECTIVE OF THIS CONTRACT IS TO PROVIDE MULTIMEDIA SUPPORT AND MANAGEMENT SERVICES REQUIRED BY FDA?S OFFICE OF EXTERNAL AFFAIRS. THE MULTIMEDIA SUPPORT IS NEEDED FOR THE DELIVERY OF ULTRA-HIGH DEFINITION (4K) OR (1080 DPI DEPENDING ON USE CASE)",
+      "start_date": "2025-09-05",
+      "end_date": "2027-03-08"
     }
   ]
 }
