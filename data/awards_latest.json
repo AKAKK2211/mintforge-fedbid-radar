@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T11:20:36.984Z",
+  "fetched_at": "2026-11-16T11:52:49.466Z",
   "count": 500,
   "awards": [
     {
@@ -45,28 +45,6 @@
       "description": "IGF::OT::IGF AE REPLACE UPGRADE SWITCHGEAR",
       "start_date": "2016-09-29",
       "end_date": "2026-12-15"
-    },
-    {
-      "id": "CONT_AWD_NNL17AA43T_8000_NNL13AA14C_8000",
-      "award_id": "NNL17AA43T",
-      "recipient": "AMENTUM TECHNOLOGY, INC.",
-      "amount": 124353311.79,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "IGF::CT::IGF THIS \"TASK ORDER\" HAS BEEN CREATED IN THE CONTRACT MANAGEMENT MODULE (CMM) SYSTEM FOR FUNDING PURPOSES ONLY AND IS NOT AN ACTUAL TASK ORDER WITH A STATEMENT OF WORK AND OTHER TASK ORDER REQUIREMENTS.  THIS \"TASK ORDER\" HAS BEEN CREATED FOR FUNDING OBLIGATIONS ONLY AND TO ACCOUNT FOR CMM",
-      "start_date": "2017-01-26",
-      "end_date": "2027-03-31"
-    },
-    {
-      "id": "CONT_AWD_NNL14AA42T_8000_NNL13AA14C_8000",
-      "award_id": "NNL14AA42T",
-      "recipient": "AMENTUM TECHNOLOGY, INC.",
-      "amount": 192334508,
-      "agency": "National Aeronautics and Space Administration",
-      "naics": null,
-      "description": "IGF::CT::IGF THIS \"TASK ORDER\" HAS BEEN CREATED IN THE CONTRACT MANAGEMENT MODULE (CMM) SYSTEM FOR FUNDING PURPOSES ONLY AND IS NOT AN ACTUAL TASK ORDER WITH A STATEMENT OF WORK AND OTHER TASK ORDER REQUIREMENTS.  THIS \"TASK ORDER\" HAS BEEN CREATED FOR FUNDING OBLIGATIONS ONLY AND TO ACCOUNT FOR CMM",
-      "start_date": "2014-02-01",
-      "end_date": "2027-03-31"
     },
     {
       "id": "CONT_AWD_NNG09FA40C_8000_-NONE-_-NONE-",
@@ -4755,6 +4733,17 @@
       "end_date": "2026-12-23"
     },
     {
+      "id": "CONT_AWD_75H70626P00186_7527_-NONE-_-NONE-",
+      "award_id": "75H70626P00186",
+      "recipient": "ANDERS GROUP LLC",
+      "amount": 427180,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "CT/X-RAY TECHNICIAN SERVICE PROVIDED TO THE PINE RIDGE RADIOLOGY DEPARTMENT.",
+      "start_date": "2026-09-06",
+      "end_date": "2026-12-08"
+    },
+    {
       "id": "CONT_AWD_75H70626P00131_7527_-NONE-_-NONE-",
       "award_id": "75H70626P00131",
       "recipient": "RAPID TEMPS, LLC",
@@ -5050,6 +5039,17 @@
       "description": "GIMC ED RENOVATION DESIGN",
       "start_date": "2021-09-10",
       "end_date": "2027-01-30"
+    },
+    {
+      "id": "CONT_AWD_75FCMC27F0004_7530_HHSM500201700012I_7530",
+      "award_id": "75FCMC27F0004",
+      "recipient": "C&T TECHNOLOGIES LLC",
+      "amount": 38648020.9,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "SEE THE STATEMENT OF OBJECTIVES (SOO), INCLUDING ALL EXHIBITS/APPENDICES",
+      "start_date": "2026-11-15",
+      "end_date": "2027-11-14"
     },
     {
       "id": "CONT_AWD_75FCMC26F0038_7530_GS00F045DA_4732",
@@ -5448,6 +5448,39 @@
       "end_date": "2025-12-31"
     },
     {
+      "id": "CONT_AWD_75F40123P00220_7524_-NONE-_-NONE-",
+      "award_id": "75F40123P00220",
+      "recipient": "POLITICO, LLC",
+      "amount": 43000,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "AGENCYIQ SUBSCRIPTION",
+      "start_date": "2023-07-13",
+      "end_date": "2025-02-05"
+    },
+    {
+      "id": "CONT_AWD_75F40123P00144_7524_-NONE-_-NONE-",
+      "award_id": "75F40123P00144",
+      "recipient": "FEDPOINT SYSTEMS LLC",
+      "amount": 142395.18,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "PURCHASE PREVENTATIVE MAINTENANCE AND QUALIFICATION SERVICES FOR THE STACKED GENERATOR PLUS TWO (2) OPTION YEARS.",
+      "start_date": "2023-05-26",
+      "end_date": "2025-08-05"
+    },
+    {
+      "id": "CONT_AWD_75F40123P00042_7524_-NONE-_-NONE-",
+      "award_id": "75F40123P00042",
+      "recipient": "CONTROLLED ENVIRONMENTS INC.",
+      "amount": 19130,
+      "agency": "Department of Health and Human Services",
+      "naics": null,
+      "description": "CFSAN-2023-116504 SS PREVENTATIVE MAINTENANCE FOR CONVIRON GROWTH CHAMBERS, PLUS TWO (2) OPTION YEARS OF PREVENTATIVE MAINTENANCE AGREEMENT (PMA)",
+      "start_date": "2023-03-17",
+      "end_date": "2026-04-11"
+    },
+    {
       "id": "CONT_AWD_75F40123F80315_7524_GS07F0564X_4732",
       "award_id": "75F40123F80315",
       "recipient": "AGILENT TECHNOLOGIES INC",
@@ -5459,48 +5492,15 @@
       "end_date": "2027-11-15"
     },
     {
-      "id": "CONT_AWD_75F40123F19015_7524_75F40121D00024_7524",
-      "award_id": "75F40123F19015",
-      "recipient": "DCT, INCORPORATED",
-      "amount": 43260,
+      "id": "CONT_AWD_75F40123F80112_7524_75N98119D00077_7529",
+      "award_id": "75F40123F80112",
+      "recipient": "VERSATECH INC",
+      "amount": 95119.77,
       "agency": "Department of Health and Human Services",
       "naics": null,
-      "description": "PREVENTIVE AND CORRECTIVE/REMEDIAL MAINTENANCE REPAIR SERVICE AGREEMENT ON TWO (2) OTIS PASSENGER ELEVATORS.",
-      "start_date": "2023-03-02",
-      "end_date": "2025-09-29"
-    },
-    {
-      "id": "CONT_AWD_75F40123F19006_7524_75F40120A00003_7524",
-      "award_id": "75F40123F19006",
-      "recipient": "FISHER SCIENTIFIC COMPANY L.L.C.",
-      "amount": 26324.47,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "PLACE AN ORDER AGAINST BPA 75F40120A00003 TO PURCHASE LIST 1-GLASSWARE, LIST 2-MEDIA PREP AND LIST 3-LAB SUPPLIES.",
-      "start_date": "2023-08-28",
-      "end_date": "2024-09-29"
-    },
-    {
-      "id": "CONT_AWD_75F40123F19005_7524_75F40120A00003_7524",
-      "award_id": "75F40123F19005",
-      "recipient": "FISHER SCIENTIFIC COMPANY L.L.C.",
-      "amount": 39069.44,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "EXERCISE OPTION 3 AGAINST BPA 75F40120A00003 TO PURCHASE LIST 1-GLASSWARE, LIST 2-MEDIA PREP AND LIST 3-SHIPPING & RECEIVING.",
-      "start_date": "2023-05-19",
-      "end_date": "2023-07-22"
-    },
-    {
-      "id": "CONT_AWD_75F40123F19003_7524_75F40122D00027_7524",
-      "award_id": "75F40123F19003",
-      "recipient": "BATTELLE MEMORIAL INSTITUTE",
-      "amount": 279735.57,
-      "agency": "Department of Health and Human Services",
-      "naics": null,
-      "description": "THE PURPOSE OF THIS REQUIREMENT IS TO PROVIDE THE CENTER FOR FOOD SAFETY AND APPLIED NUTRITION (CFSAN) WITHIN THE FOOD AND DRUG ADMINISTRATION (FDA) SCIENTIFIC EXPERTISE, RESEARCH, TECHNICAL ASSISTANCE AND SUPPORT PERTAINING (BUT NOT LIMITED) TO FOOD",
-      "start_date": "2023-08-25",
-      "end_date": "2024-09-29"
+      "description": "AUDIO VISUAL TECHNICAL, MAINTENANCE AND SUPPORT SERVICE EMERGENCY OPERATIONS CENTER (EOC)",
+      "start_date": "2023-04-28",
+      "end_date": "2024-09-27"
     }
   ]
 }
