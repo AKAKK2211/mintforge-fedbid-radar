@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T11:47:18.988Z",
+  "fetched_at": "2026-11-23T13:26:35.442Z",
   "count": 500,
   "awards": [
     {
@@ -916,17 +916,6 @@
       "end_date": "2031-09-30"
     },
     {
-      "id": "CONT_AWD_AG43ZPD140001_12C2_DEAM3609GO29035_8900",
-      "award_id": "AG43ZPD140001",
-      "recipient": "HONEYWELL INTERNATIONAL, INC",
-      "amount": 786266.8,
-      "agency": "Department of Agriculture",
-      "naics": null,
-      "description": "IGF::OT::IGF ENERGY SAVING PERFORMANCE CONTRACT (ESPC) FOR US FOREST SERVICE SOUTHERN REGION FOR IMPROVEMENTS AT SITES LOCATED IN ARKANSAS, LOUISIANA, KENTUCKY AND PUERTO RICO.",
-      "start_date": "2013-12-13",
-      "end_date": "2032-11-01"
-    },
-    {
       "id": "CONT_AWD_95C67826P0384_9534_-NONE-_-NONE-",
       "award_id": "95C67826P0384",
       "recipient": "SUNLIGHT GROUP, LLC",
@@ -1200,17 +1189,6 @@
       "description": "CYBERSECURITY AND PRIVACY SOLUTIONS",
       "start_date": "2022-01-03",
       "end_date": "2027-02-02"
-    },
-    {
-      "id": "CONT_AWD_9531CB27P0001_955F_-NONE-_-NONE-",
-      "award_id": "9531CB27P0001",
-      "recipient": "WILLIAM S. HEIN & CO., INC.",
-      "amount": 15498.75,
-      "agency": "Consumer Financial Protection Bureau",
-      "naics": null,
-      "description": "ELECTRONIC SUBSCRIPTIONS: RESEARCH (HEIN ONLINE)",
-      "start_date": "2026-11-16",
-      "end_date": "2027-11-15"
     },
     {
       "id": "CONT_AWD_9531CB27F0003_955F_NNG15SC65B_8000",
@@ -5500,6 +5478,28 @@
       "naics": null,
       "description": "DURR X RAY DETECTOR ARRAY",
       "start_date": "2026-09-15",
+      "end_date": "2026-12-04"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1516_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1516",
+      "recipient": "ARCLIGHT ANALYTICS, LLC",
+      "amount": 220000,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "THE PRIMARY OBJECTIVES OF THE ARCLIGHT PROJECT ARE EXPANSION AND ENRICHMENT OF EXISTING NASA DATA ASSETS; EXPANDED INNOVATION AND COMMERCIALIZATION MEASURES; AND EVALUATION AND MEASUREMENT",
+      "start_date": "2026-09-03",
+      "end_date": "2027-09-03"
+    },
+    {
+      "id": "CONT_AWD_80NSSC26P1487_8000_-NONE-_-NONE-",
+      "award_id": "80NSSC26P1487",
+      "recipient": "VELMEX INC",
+      "amount": 119053.5,
+      "agency": "National Aeronautics and Space Administration",
+      "naics": null,
+      "description": "VELMEX ES0154-AS CUSTOMIZED MPTS-II ASSEMBLY   ELMT STANDALONE",
+      "start_date": "2026-08-31",
       "end_date": "2026-12-04"
     }
   ]
